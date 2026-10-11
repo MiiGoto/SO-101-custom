@@ -1,0 +1,490 @@
+[
+  {
+    "selected_yaw_deg": 0,
+    "trials": [
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "shoulder_pan_Vstone_Envelope",
+              "a": "Rotation_Pitch_SO101",
+              "volume_mm3": 2879.240826332403
+            }
+          ],
+          "volume_mm3": 2879.240826332403
+        },
+        "update_ok": true,
+        "yaw_deg": 0
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "shoulder_pan_Vstone_Envelope",
+              "a": "Rotation_Pitch_SO101",
+              "volume_mm3": 2830.9720750907986
+            },
+            {
+              "b": "shoulder_pan_Vstone_Envelope",
+              "a": "Base_SO101",
+              "volume_mm3": 1667.9702464940974
+            }
+          ],
+          "volume_mm3": 4498.9423215848965
+        },
+        "update_ok": true,
+        "yaw_deg": 90
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "shoulder_pan_Vstone_Envelope",
+              "a": "Rotation_Pitch_SO101",
+              "volume_mm3": 2886.4568711114152
+            },
+            {
+              "b": "shoulder_pan_Vstone_Cradle_HOLD",
+              "a": "Motor_holder_SO101_Base",
+              "volume_mm3": 0.799015652551334
+            }
+          ],
+          "volume_mm3": 2887.2558867639664
+        },
+        "update_ok": true,
+        "yaw_deg": 180
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "shoulder_pan_Vstone_Envelope",
+              "a": "Rotation_Pitch_SO101",
+              "volume_mm3": 7868.771583708795
+            },
+            {
+              "b": "shoulder_pan_Vstone_Cradle_HOLD",
+              "a": "Motor_holder_SO101_Base",
+              "volume_mm3": 139.19919633039424
+            },
+            {
+              "b": "shoulder_pan_Vstone_Envelope",
+              "a": "Motor_holder_SO101_Base",
+              "volume_mm3": 1438.5242202588258
+            }
+          ],
+          "volume_mm3": 9446.495000298015
+        },
+        "update_ok": true,
+        "yaw_deg": 270
+      }
+    ],
+    "joint": "shoulder_pan",
+    "scope": "Neutral-pose mounting yaw search. Same output axis; no horn translation. Vstone shaft offset assumed."
+  },
+  {
+    "selected_yaw_deg": 180,
+    "trials": [
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "shoulder_lift_Vstone_Envelope",
+              "a": "Upper_arm_SO101",
+              "volume_mm3": 3839.7973877869254
+            }
+          ],
+          "volume_mm3": 3839.7973877869254
+        },
+        "update_ok": true,
+        "yaw_deg": 0
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "shoulder_lift_Vstone_Envelope",
+              "a": "Upper_arm_SO101",
+              "volume_mm3": 3725.7875168347596
+            },
+            {
+              "b": "shoulder_lift_Vstone_Envelope",
+              "a": "Rotation_Pitch_SO101",
+              "volume_mm3": 837.0756061719411
+            },
+            {
+              "b": "shoulder_lift_Vstone_Envelope",
+              "a": "Motor_holder_SO101_Base",
+              "volume_mm3": 834.4955299982197
+            }
+          ],
+          "volume_mm3": 5397.35865300492
+        },
+        "update_ok": true,
+        "yaw_deg": 90
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "shoulder_lift_Vstone_Envelope",
+              "a": "Upper_arm_SO101",
+              "volume_mm3": 3827.4826767038508
+            }
+          ],
+          "volume_mm3": 3827.4826767038508
+        },
+        "update_ok": true,
+        "yaw_deg": 180
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "shoulder_lift_Vstone_Envelope",
+              "a": "Upper_arm_SO101",
+              "volume_mm3": 8298.143205222686
+            }
+          ],
+          "volume_mm3": 8298.143205222686
+        },
+        "update_ok": true,
+        "yaw_deg": 270
+      }
+    ],
+    "joint": "shoulder_lift",
+    "scope": "Neutral-pose mounting yaw search. Same output axis; no horn translation. Vstone shaft offset assumed."
+  },
+  {
+    "selected_yaw_deg": 0,
+    "trials": [
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "elbow_flex_Vstone_Envelope",
+              "a": "Under_arm_SO101",
+              "volume_mm3": 3398.185879715375
+            }
+          ],
+          "volume_mm3": 3398.185879715375
+        },
+        "update_ok": true,
+        "yaw_deg": 0
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "elbow_flex_Vstone_Envelope",
+              "a": "Under_arm_SO101",
+              "volume_mm3": 3313.3435079845217
+            },
+            {
+              "b": "elbow_flex_Vstone_Envelope",
+              "a": "Upper_arm_SO101",
+              "volume_mm3": 1562.3628062819014
+            }
+          ],
+          "volume_mm3": 4875.706314266423
+        },
+        "update_ok": true,
+        "yaw_deg": 90
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "elbow_flex_Vstone_Envelope",
+              "a": "Under_arm_SO101",
+              "volume_mm3": 3410.4941020215915
+            }
+          ],
+          "volume_mm3": 3410.4941020215915
+        },
+        "update_ok": true,
+        "yaw_deg": 180
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "elbow_flex_Vstone_Envelope",
+              "a": "Under_arm_SO101",
+              "volume_mm3": 7380.488663296781
+            }
+          ],
+          "volume_mm3": 7380.488663296781
+        },
+        "update_ok": true,
+        "yaw_deg": 270
+      }
+    ],
+    "joint": "elbow_flex",
+    "scope": "Neutral-pose mounting yaw search. Same output axis; no horn translation. Vstone shaft offset assumed."
+  },
+  {
+    "selected_yaw_deg": 90,
+    "trials": [
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "wrist_flex_Vstone_Envelope",
+              "a": "Wrist_Roll_Pitch_SO101",
+              "volume_mm3": 5491.449837266169
+            }
+          ],
+          "volume_mm3": 5491.449837266169
+        },
+        "update_ok": true,
+        "yaw_deg": 0
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "wrist_flex_Vstone_Envelope",
+              "a": "Wrist_Roll_Pitch_SO101",
+              "volume_mm3": 2527.917787121397
+            }
+          ],
+          "volume_mm3": 2527.917787121397
+        },
+        "update_ok": true,
+        "yaw_deg": 90
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "wrist_flex_Vstone_Envelope",
+              "a": "Wrist_Roll_Pitch_SO101",
+              "volume_mm3": 2475.415364275465
+            },
+            {
+              "b": "wrist_flex_Vstone_Envelope",
+              "a": "Motor_holder_SO101_Wrist",
+              "volume_mm3": 837.4442206200783
+            },
+            {
+              "b": "wrist_flex_Vstone_Envelope",
+              "a": "Under_arm_SO101",
+              "volume_mm3": 855.9819010902371
+            }
+          ],
+          "volume_mm3": 4168.84148598578
+        },
+        "update_ok": true,
+        "yaw_deg": 180
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "wrist_flex_Vstone_Envelope",
+              "a": "Wrist_Roll_Pitch_SO101",
+              "volume_mm3": 2560.017129916379
+            }
+          ],
+          "volume_mm3": 2560.017129916379
+        },
+        "update_ok": true,
+        "yaw_deg": 270
+      }
+    ],
+    "joint": "wrist_flex",
+    "scope": "Neutral-pose mounting yaw search. Same output axis; no horn translation. Vstone shaft offset assumed."
+  },
+  {
+    "selected_yaw_deg": 90,
+    "trials": [
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "wrist_roll_XL330_Cradle_HOLD",
+              "a": "Moving_Jaw_SO101",
+              "volume_mm3": 170.3147551318853
+            },
+            {
+              "b": "wrist_roll_XL330_Envelope",
+              "a": "Wrist_Roll_Follower_SO101",
+              "volume_mm3": 5009.164431515386
+            },
+            {
+              "b": "wrist_roll_XL330_Cradle_HOLD",
+              "a": "Wrist_Roll_Follower_SO101",
+              "volume_mm3": 418.75446789630746
+            }
+          ],
+          "volume_mm3": 5598.233654543579
+        },
+        "update_ok": true,
+        "yaw_deg": 0
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "wrist_roll_XL330_Envelope",
+              "a": "Wrist_Roll_Follower_SO101",
+              "volume_mm3": 4145.598016446999
+            }
+          ],
+          "volume_mm3": 4145.598016446999
+        },
+        "update_ok": true,
+        "yaw_deg": 90
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "gripper_XL330_Envelope",
+              "a": "wrist_roll_XL330_Cradle_HOLD",
+              "volume_mm3": 396.90080384865206
+            },
+            {
+              "b": "wrist_roll_XL330_Cradle_HOLD",
+              "a": "Moving_Jaw_SO101",
+              "volume_mm3": 140.49889016750723
+            },
+            {
+              "b": "wrist_roll_XL330_Cradle_HOLD",
+              "a": "Wrist_Roll_Follower_SO101",
+              "volume_mm3": 582.230651770538
+            },
+            {
+              "b": "wrist_roll_XL330_Envelope",
+              "a": "Wrist_Roll_Follower_SO101",
+              "volume_mm3": 5608.519769710704
+            },
+            {
+              "b": "wrist_roll_XL330_Envelope",
+              "a": "Wrist_Roll_Pitch_SO101",
+              "volume_mm3": 268.79704754441207
+            }
+          ],
+          "volume_mm3": 6996.947163041813
+        },
+        "update_ok": true,
+        "yaw_deg": 180
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "wrist_roll_XL330_Cradle_HOLD",
+              "a": "Wrist_Roll_Follower_SO101",
+              "volume_mm3": 1501.1931612148328
+            },
+            {
+              "b": "wrist_roll_XL330_Envelope",
+              "a": "Wrist_Roll_Follower_SO101",
+              "volume_mm3": 6176.517674680099
+            }
+          ],
+          "volume_mm3": 7677.710835894932
+        },
+        "update_ok": true,
+        "yaw_deg": 270
+      }
+    ],
+    "joint": "wrist_roll",
+    "scope": "Neutral-pose mounting yaw search. Same output axis; no horn translation. Vstone shaft offset assumed."
+  },
+  {
+    "selected_yaw_deg": 90,
+    "trials": [
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "gripper_XL330_Envelope",
+              "a": "Moving_Jaw_SO101",
+              "volume_mm3": 1864.4045393273746
+            },
+            {
+              "b": "gripper_XL330_Envelope",
+              "a": "Wrist_Roll_Follower_SO101",
+              "volume_mm3": 38.96244019876396
+            }
+          ],
+          "volume_mm3": 1903.3669795261385
+        },
+        "update_ok": true,
+        "yaw_deg": 0
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "gripper_XL330_Envelope",
+              "a": "Moving_Jaw_SO101",
+              "volume_mm3": 1259.6992218350463
+            },
+            {
+              "b": "gripper_XL330_Envelope",
+              "a": "Wrist_Roll_Follower_SO101",
+              "volume_mm3": 33.10922819434931
+            }
+          ],
+          "volume_mm3": 1292.8084500293955
+        },
+        "update_ok": true,
+        "yaw_deg": 90
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "gripper_XL330_Envelope",
+              "a": "Moving_Jaw_SO101",
+              "volume_mm3": 1245.1164535510973
+            },
+            {
+              "b": "gripper_XL330_Envelope",
+              "a": "Wrist_Roll_Follower_SO101",
+              "volume_mm3": 523.8454132705803
+            },
+            {
+              "b": "gripper_XL330_Cradle_HOLD",
+              "a": "Wrist_Roll_Pitch_SO101",
+              "volume_mm3": 52.82413058245103
+            },
+            {
+              "b": "gripper_XL330_Envelope",
+              "a": "Wrist_Roll_Pitch_SO101",
+              "volume_mm3": 149.3164320769468
+            }
+          ],
+          "volume_mm3": 1971.1024294810754
+        },
+        "update_ok": true,
+        "yaw_deg": 180
+      },
+      {
+        "cost": {
+          "hits": [
+            {
+              "b": "gripper_XL330_Envelope",
+              "a": "Moving_Jaw_SO101",
+              "volume_mm3": 1278.7159505226052
+            },
+            {
+              "b": "gripper_XL330_Envelope",
+              "a": "Wrist_Roll_Follower_SO101",
+              "volume_mm3": 1146.5960714713503
+            }
+          ],
+          "volume_mm3": 2425.3120219939556
+        },
+        "update_ok": true,
+        "yaw_deg": 270
+      }
+    ],
+    "joint": "gripper",
+    "scope": "Neutral-pose mounting yaw search. Same output axis; no horn translation. Vstone shaft offset assumed."
+  }
+]

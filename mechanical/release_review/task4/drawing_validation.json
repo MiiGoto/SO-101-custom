@@ -1,0 +1,175 @@
+[
+  {
+    "border": true,
+    "dimension_styles": [
+      "Default (JIS)"
+    ],
+    "width_mm": 420.0,
+    "standard": "Default Standard (JIS)",
+    "file": "Vstone_Cradle_HOLD_JIS.idw",
+    "title_block": true,
+    "associated_dimensions": 3,
+    "views": 4,
+    "height_mm": 297.0,
+    "first_angle": false,
+    "folder": "adapters/revb",
+    "units": "11269",
+    "missing_refs": []
+  },
+  {
+    "border": true,
+    "dimension_styles": [
+      "Default (JIS)"
+    ],
+    "width_mm": 420.0,
+    "standard": "Default Standard (JIS)",
+    "file": "XL330_Cradle_HOLD_JIS.idw",
+    "title_block": true,
+    "associated_dimensions": 3,
+    "views": 4,
+    "height_mm": 297.0,
+    "first_angle": false,
+    "folder": "adapters/revb",
+    "units": "11269",
+    "missing_refs": []
+  },
+  {
+    "border": true,
+    "dimension_styles": [],
+    "width_mm": 297.0,
+    "standard": "Default Standard (JIS)",
+    "file": "Automation_Host.idw",
+    "title_block": true,
+    "associated_dimensions": 0,
+    "views": 0,
+    "height_mm": 210.0,
+    "first_angle": false,
+    "folder": "print_test",
+    "units": "11269",
+    "missing_refs": []
+  },
+  {
+    "border": true,
+    "dimension_styles": [
+      "Default (JIS)"
+    ],
+    "width_mm": 420.0,
+    "standard": "Default Standard (JIS)",
+    "file": "Bearing_Fit_Gauge_JIS.idw",
+    "title_block": true,
+    "associated_dimensions": 6,
+    "views": 4,
+    "height_mm": 297.0,
+    "first_angle": false,
+    "folder": "print_test",
+    "units": "11269",
+    "missing_refs": []
+  },
+  {
+    "border": true,
+    "dimension_styles": [
+      "Default (JIS)"
+    ],
+    "width_mm": 420.0,
+    "standard": "Default Standard (JIS)",
+    "file": "Mounting_Pitch_Gauge_JIS.idw",
+    "title_block": true,
+    "associated_dimensions": 7,
+    "views": 4,
+    "height_mm": 297.0,
+    "first_angle": false,
+    "folder": "print_test",
+    "units": "11269",
+    "missing_refs": []
+  },
+  {
+    "border": true,
+    "dimension_styles": [
+      "Default (JIS)"
+    ],
+    "width_mm": 420.0,
+    "standard": "Default Standard (JIS)",
+    "file": "OEM_Horn_Trace_Plate_JIS.idw",
+    "title_block": true,
+    "associated_dimensions": 4,
+    "views": 4,
+    "height_mm": 297.0,
+    "first_angle": false,
+    "folder": "print_test",
+    "units": "11269",
+    "missing_refs": []
+  },
+  {
+    "state": "PRINT_TEST_READY / 未測定",
+    "first_angle": false,
+    "geometry_table_rows": 12,
+    "dimension_completeness": "PENDING",
+    "part": "Servo_Body_Fit_Grid",
+    "errors": [],
+    "associated_dimensions": 16,
+    "full_jis_compliance": "NOT_VERIFIED",
+    "visual": "PENDING",
+    "missing_refs": [],
+    "file": "mechanical/print_test/idw/Servo_Body_Fit_Grid_JIS.idw",
+    "standard": "Default Standard (JIS)"
+  },
+  {
+    "border": true,
+    "dimension_styles": [
+      "Default (JIS)"
+    ],
+    "width_mm": 420.0,
+    "standard": "Default Standard (JIS)",
+    "file": "XL330_Horn_PCD_Test_JIS.idw",
+    "title_block": true,
+    "associated_dimensions": 4,
+    "views": 4,
+    "height_mm": 297.0,
+    "first_angle": false,
+    "folder": "print_test",
+    "units": "11269",
+    "missing_refs": []
+  },
+  {
+    "state": "MANUFACTURING_HOLD",
+    "first_angle": false,
+    "geometry_table_rows": 0,
+    "dimension_completeness": "PENDING",
+    "part": "SO101_Custom_Follower_RevB",
+    "errors": [],
+    "associated_dimensions": 0,
+    "full_jis_compliance": "NOT_VERIFIED",
+    "visual": "PENDING",
+    "missing_refs": [],
+    "file": "mechanical/follower_revb/idw/SO101_Custom_Follower_RevB_JIS.idw",
+    "standard": "Default Standard (JIS)"
+  },
+  {
+    "state": "MANUFACTURING_HOLD",
+    "first_angle": false,
+    "geometry_table_rows": 0,
+    "dimension_completeness": "PENDING",
+    "part": "SO101_TwoJoint_RevC",
+    "errors": [],
+    "associated_dimensions": 0,
+    "full_jis_compliance": "NOT_VERIFIED",
+    "visual": "PENDING",
+    "missing_refs": [],
+    "file": "mechanical/two_joint_revc/idw/SO101_TwoJoint_RevC_JIS.idw",
+    "standard": "Default Standard (JIS)"
+  },
+  {
+    "errors": [],
+    "standard": "Default Standard (JIS)",
+    "dimension_completeness": "PENDING",
+    "first_angle": false,
+    "full_jis_compliance": "NOT_VERIFIED",
+    "state": "PRINT_TEST_READY / 未測定",
+    "geometry_table_rows": 8,
+    "missing_refs": [],
+    "associated_dimensions": 9,
+    "visual": "PENDING",
+    "part": "Encoder_Gap_Gauge",
+    "file": "mechanical/print_test/idw/Encoder_Gap_Gauge_JIS.idw"
+  }
+]

@@ -1,0 +1,13 @@
+﻿occurrence,source_part,link,quantity,release,notes
+Base_motor_holder_SO101,Base_motor_holder_SO101,base_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified
+Base_SO101,Base_SO101,base_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified
+WaveShare_Mounting_Plate_SO101,WaveShare_Mounting_Plate_SO101,base_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified
+Motor_holder_SO101_Base,Motor_holder_SO101_Base,shoulder_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified
+Rotation_Pitch_SO101,Rotation_Pitch_SO101,shoulder_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified
+Upper_arm_SO101,Upper_arm_SO101,upper_arm_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified
+Under_arm_SO101,Under_arm_SO101,lower_arm_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified
+Motor_holder_SO101_Wrist,Motor_holder_SO101_Wrist,lower_arm_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified
+shoulder_lift_Vstone_Envelope,Vstone_Envelope,shoulder_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified
+shoulder_lift_Vstone_Cradle_HOLD,Vstone_Cradle_HOLD,shoulder_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified
+elbow_flex_Vstone_Envelope,Vstone_Envelope,upper_arm_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified
+elbow_flex_Vstone_Cradle_HOLD,Vstone_Cradle_HOLD,upper_arm_link,1,MANUFACTURING_HOLD,Official shape retained; motor mount/torque/physical fit unverified

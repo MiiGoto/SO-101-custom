@@ -1,0 +1,5037 @@
+{
+  "scope": "Independent 10-degree motion and five poses per axis; full coupled range, physical horn and cables NOT VERIFIED",
+  "constraints": [
+    {
+      "name": "shoulder_pan_AXIS",
+      "health": "11778"
+    },
+    {
+      "name": "shoulder_pan_AXIAL",
+      "health": "11778"
+    },
+    {
+      "name": "shoulder_lift_AXIS",
+      "health": "11778"
+    },
+    {
+      "name": "shoulder_lift_AXIAL",
+      "health": "11778"
+    },
+    {
+      "name": "elbow_flex_AXIS",
+      "health": "11778"
+    },
+    {
+      "name": "elbow_flex_AXIAL",
+      "health": "11778"
+    },
+    {
+      "name": "wrist_flex_AXIS",
+      "health": "11778"
+    },
+    {
+      "name": "wrist_flex_AXIAL",
+      "health": "11778"
+    },
+    {
+      "name": "wrist_roll_AXIS",
+      "health": "11778"
+    },
+    {
+      "name": "wrist_roll_AXIAL",
+      "health": "11778"
+    },
+    {
+      "name": "gripper_AXIS",
+      "health": "11778"
+    },
+    {
+      "name": "gripper_AXIAL",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:7",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:8",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:9",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:10",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:11",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:12",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:13",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:14",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:15",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:16",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:17",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:18",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:19",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:20",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:21",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:22",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:23",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:24",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:25",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:26",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:27",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:28",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:29",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:30",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:31",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:32",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:33",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:34",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:35",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:36",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:37",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:38",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:39",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:106",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:107",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:108",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:109",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:110",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:111",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:136",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:137",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:138",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:139",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:140",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:141",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:166",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:167",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:168",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:169",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:170",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:171",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:196",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:197",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:198",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:199",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:200",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:201",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:226",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:227",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:228",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:229",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:230",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:231",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:256",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:257",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:258",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:259",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:260",
+      "health": "11778"
+    },
+    {
+      "name": "フラッシュ:261",
+      "health": "11778"
+    }
+  ],
+  "independent_motion": [
+    {
+      "constraint_health": [
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778"
+      ],
+      "command_deg": 10,
+      "update_ok": true,
+      "joint": "shoulder_pan",
+      "world_rotation": [
+        -0.9848082137997728,
+        0.173645564390615,
+        -7.0414969940650184e-12,
+        0.1736455643899054,
+        0.9848082137968627,
+        2.653589793344729e-06,
+        4.607910318500765e-07,
+        2.6132758018165726e-06,
+        -0.999999999997045
+      ]
+    },
+    {
+      "constraint_health": [
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778"
+      ],
+      "command_deg": 10,
+      "update_ok": true,
+      "joint": "shoulder_lift",
+      "world_rotation": [
+        -0.17364456026843003,
+        -0.9848083908299298,
+        -6.326794896671846e-06,
+        1.514650689185573e-06,
+        -6.6914597912741496e-06,
+        0.9999999999767818,
+        -0.9848083908495967,
+        0.17364456025467073,
+        2.653576300906786e-06
+      ]
+    },
+    {
+      "constraint_health": [
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778"
+      ],
+      "command_deg": 10,
+      "update_ok": true,
+      "joint": "elbow_flex",
+      "world_rotation": [
+        -0.9848077529911802,
+        0.17364817767045324,
+        -6.32679489752404e-06,
+        -6.691465355776687e-06,
+        -1.5146261102810643e-06,
+        0.9999999999767321,
+        0.17364817765670332,
+        0.9848077530107944,
+        2.653576301270077e-06
+      ]
+    },
+    {
+      "constraint_health": [
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778"
+      ],
+      "command_deg": 10,
+      "update_ok": true,
+      "joint": "wrist_flex",
+      "world_rotation": [
+        -0.17364456026841277,
+        -0.9848083908298828,
+        -6.326794893548932e-06,
+        1.5146506892401781e-06,
+        -6.691459788084976e-06,
+        0.9999999999766841,
+        -0.9848083908494987,
+        0.17364456025466232,
+        2.653576300411761e-06
+      ]
+    },
+    {
+      "constraint_health": [
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778"
+      ],
+      "command_deg": 10,
+      "update_ok": true,
+      "joint": "wrist_roll",
+      "world_rotation": [
+        -7.708742560077922e-06,
+        -9.100008924875935e-06,
+        -0.9999999999289042,
+        0.1255188217352834,
+        0.9920912383904923,
+        -9.995631407530803e-06,
+        0.9920912384108247,
+        -0.12551882180342036,
+        -6.505553554750086e-06
+      ]
+    },
+    {
+      "constraint_health": [
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778",
+        "11778"
+      ],
+      "command_deg": 10,
+      "update_ok": true,
+      "joint": "gripper",
+      "world_rotation": [
+        -0.17365414938108834,
+        -0.9848066999201185,
+        1.3973573540932219e-05,
+        -0.04792599999873251,
+        0.008436774186472967,
+        -0.9988152578762322,
+        0.9836398400469197,
+        -0.17344908369270254,
+        -0.048662926743992134
+      ]
+    }
+  ],
+  "missing_refs": [],
+  "reopened": true,
+  "sampled_sweeps": [
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.7178368036928
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.5978337423185
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10921772093289
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2530.447721883972
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3401.6182564985106
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017517401252773356
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3833.854556982124
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2821.3965885919556
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 8.794654691143613
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10789005083540923
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -75,
+      "joint": "shoulder_pan"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.7353703870488
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597965305084
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10921774942991
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2531.3326540218445
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3403.304857612169
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017517308400006586
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3828.7466891098034
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2802.293743284684
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 43.858300147480335
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10789256573728881
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -60,
+      "joint": "shoulder_pan"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.7460431693028
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.5981472880185
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.109217800787874
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2529.815273446037
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3400.3025232003574
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751716519241633
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3828.7465302983137
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2799.899561115691
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 83.8094027539757
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10789515970386221
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -45,
+      "joint": "shoulder_pan"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6903681924864
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597962154802
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.1092178715309
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2529.1449151025367
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3399.14446238494
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516981808719294
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3828.74848833246
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2800.600620765364
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 54.451401981532875
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10789847883545214
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -30,
+      "joint": "shoulder_pan"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6868571565283
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597833286485
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10921795683048
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2528.495639725557
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.6170697301204
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516770351648198
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3826.8310943147117
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2824.7900807406395
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 8.790645574851704
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790245734460088
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -15,
+      "joint": "shoulder_pan"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992218348187
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598016447029
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.109228194324615
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177871405363
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161576
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667647173645
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676699078
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330434
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340836134313
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 0,
+      "joint": "shoulder_pan"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.7064163452112
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597833746201
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.109218147250076
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.544877635615
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3397.673919719955
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751632243698287
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3828.6900935940926
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2982.6838105349166
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 366.6577959365018
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 1.1690699742978075
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10791198039044694
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 15,
+      "joint": "shoulder_pan"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.7199250487274
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597965305797
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10921823939196
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2529.2254517272845
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3394.358048183914
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751611597746993
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 0.7088356015913113
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3828.7472932446194
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 81.8860703027592
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 3182.8165253356647
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 238.00206571990785
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 1494.033868126549
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.1079107314241646
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 30,
+      "joint": "shoulder_pan"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.726087421577
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.5981472872245
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.109218321029005
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2529.8153327294076
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3400.3025796621732
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017515940772503236
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 0.01350179279724196
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3828.7471473227297
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 4083.5347690833332
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 118.83400861194721
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 2045.342021281869
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10791597125636425
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 45,
+      "joint": "shoulder_pan"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6903686460469
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597962153696
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.109218386592765
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2529.1449579158943
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3399.1445047847665
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751580861656872
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 4.7816574300817254e-05
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3828.7473111110435
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 5534.7443210662295
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 252.377838135936
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 2346.81789531206
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10791868544885119
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 60,
+      "joint": "shoulder_pan"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6868574024095
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597833282551
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10921843160165
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2528.4956619411732
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.6170918486514
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751572860208952
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 1.23432692833673
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3826.8311000905624
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 121.64998986222659
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 7008.212341131766
+        },
+        {
+          "b": "shoulder_pan_Vstone_Cradle_HOLD",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 339.7878714563599
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 1450.4796322714892
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10792148683022533
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 75,
+      "joint": "shoulder_pan"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992209694488
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597914087628
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10823260310453
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9408468079414
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.186097933234
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01756446059116056
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 7616.001076672661
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.2408263304446
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790353203578004
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -75,
+      "joint": "shoulder_lift"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992210386868
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012910907
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10316683154479
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9363357625652
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1870412654544
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017395961608546173
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 6430.927461713218
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340824720834
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -60,
+      "joint": "shoulder_lift"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992211705892
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.59801291081
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10085132006848
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9318191471575
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1879876364287
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017261994521344803
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 5184.3017342958765
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340826137294
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -45,
+      "joint": "shoulder_lift"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992213561575
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012911467
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10174221690845
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.927252471803
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.188945302225
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017610048810068335
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 4410.515427623728
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340829391895
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -30,
+      "joint": "shoulder_lift"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992215827195
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597914133289
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.105550750925886
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.92259330328
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1845120827934
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017488718059203642
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 4031.8848102093148
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340826304452
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -15,
+      "joint": "shoulder_lift"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992218348182
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.5980164470175
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10922819432655
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177870488356
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716151
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667651745088
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990536
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.2408263304533
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790341042540354
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 0,
+      "joint": "shoulder_lift"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992220953125
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597914074219
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10823365108575
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9127560445663
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1873143597586
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01771216713306739
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3720.7036323387147
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340831759335
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 15,
+      "joint": "shoulder_lift"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992223465043
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.5980129090285
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.103166792532804
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9073832283552
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1888446789703
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01783016772256656
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3675.1171842918984
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790353019848416
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 30,
+      "joint": "shoulder_lift"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992225711208
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012908567
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10085117606024
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.90148078162
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.190511443573
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017921638627276665
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3672.2601241848724
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790336854868185
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 45,
+      "joint": "shoulder_lift"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.699222754063
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012909057
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.101741997471244
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.8947295947187
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.192370080561
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017610038197224398
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3684.8583850160467
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790341049513001
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 60,
+      "joint": "shoulder_lift"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992228827044
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.59791412775
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10555040208016
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.931336027821
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1944878823524
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017488719618102052
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3716.1462479668094
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.1079033685423696
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 75,
+      "joint": "shoulder_lift"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992209694254
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597914087601
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10823260310414
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.940846888869
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3303.682815530393
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017564460626285673
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676699049
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.2408263304533
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790353223567256
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -75,
+      "joint": "elbow_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992210386934
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012910896
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10316683154595
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.936335714916
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3273.0063885194836
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01739596238903296
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676699043
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.2408263304533
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790341053903889
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -60,
+      "joint": "elbow_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992211705788
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012910722
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10085132006712
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9318190734484
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3260.424247447322
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017261994587958185
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990395
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340844317929
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -45,
+      "joint": "elbow_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992213561057
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012911545
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10174221689881
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.927252426667
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3263.192509146445
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01761004933920063
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990427
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.1079034105390501
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -30,
+      "joint": "elbow_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992215827233
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.5979141333255
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.1055507509302
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9225934684096
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3304.0757892458014
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017488717333305134
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990413
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.2408263304533
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340839982214
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -15,
+      "joint": "elbow_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992218348053
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598016447029
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10922819432304
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.917787040706
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716165
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676366449775
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676699039
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.2408263304533
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340839507576
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 0,
+      "joint": "elbow_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992220952982
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597914074173
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10823365108271
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.912756075684
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3579.0363277139313
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01771216751144094
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676699039
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340844750307
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 15,
+      "joint": "elbow_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992223464829
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012909041
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10316679254285
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.907383228241
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3911.7637392646884
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017830168010843556
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990427
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340844751481
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 30,
+      "joint": "elbow_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992225711376
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012908589
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10085117606282
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.901480758149
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 4594.265909804658
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017921638003271477
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990204
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790353034841571
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 45,
+      "joint": "elbow_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992227540645
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.59801290904
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10174199747208
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.894729617649
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 5703.883255399903
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01761003850253573
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990327
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.1079049047009064
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 60,
+      "joint": "elbow_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992228826925
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.5979141277785
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10555040208572
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.93133598896
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 6761.900998689214
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01748872003935059
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990136
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.2408263304533
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790490470045026
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 75,
+      "joint": "elbow_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.699220969395
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597914087587
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10823260311312
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2464.353788391806
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161617
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676406140522
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990154
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.1079034085011997
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -75,
+      "joint": "wrist_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.699221038687
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012910894
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10316683154236
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2433.465815754634
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.18587971617
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667640103871
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990177
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790341060895409
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -60,
+      "joint": "wrist_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992211706036
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012910791
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.100851320064606
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2417.3216009397956
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161553
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667640441536
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.48267669902
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.1079034085498758
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -45,
+      "joint": "wrist_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.699221356144
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012911526
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.101742216900966
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2419.091063903791
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716162
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667640286643
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676699009
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340854011353
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -30,
+      "joint": "wrist_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992215826567
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597914133285
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10555075092879
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2454.394031625504
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161585
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676367808022
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990127
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340849492182
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -15,
+      "joint": "wrist_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992218348082
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598016447028
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.109228194326946
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177870516464
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161462
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676383917826
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766989986
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790353231122192
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 0,
+      "joint": "wrist_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.699222095306
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.597914074154
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.108233651084205
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2663.3153475219874
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716141
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676350447662
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766990022
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.1079050286241713
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 15,
+      "joint": "wrist_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992223464886
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.5980129090285
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10316679255175
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2913.2937274036044
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161503
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667640322721
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766989936
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.1079035304056359
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 30,
+      "joint": "wrist_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992225711622
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012908583
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10085117606043
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 3427.606171876352
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716127
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676365841876
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698997
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790490705115759
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 45,
+      "joint": "wrist_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992227540538
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598012909107
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10174199746878
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 4265.1369944315975
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161594
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676365082324
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766989877
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340862007844
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 60,
+      "joint": "wrist_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992228827164
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.5979141277785
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10555040207996
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 5012.465184408191
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716149
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667640342726
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766989895
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.1079035304091597
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 75,
+      "joint": "wrist_flex"
+    },
+    {
+      "interferences": [
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "gripper_XL330_Envelope",
+          "volume_mm3": 341.9911770363393
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "gripper_XL330_Envelope",
+          "volume_mm3": 145.32564860535777
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 246.12236084807316
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 81.3562851250506
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.731705025606
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 409.91631449356623
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 5404.58963136852
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10520910953295
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.917787070725
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161435
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676407153743
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698996
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340862024429
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -75,
+      "joint": "wrist_roll"
+    },
+    {
+      "interferences": [
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "gripper_XL330_Envelope",
+          "volume_mm3": 132.021520383809
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "gripper_XL330_Envelope",
+          "volume_mm3": 91.22688972318204
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 103.10488085665997
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 50.98241370616722
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.7178922784747
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 467.4180849744191
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 5059.118910012977
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.107314560133275
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177870749145
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161444
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676401508384
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766989695
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790490490537977
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -60,
+      "joint": "wrist_roll"
+    },
+    {
+      "interferences": [
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "gripper_XL330_Envelope",
+          "volume_mm3": 175.62414440287748
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "gripper_XL330_Envelope",
+          "volume_mm3": 127.22165444660588
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 97.37546497949675
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 68.20587918034168
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.7081386281461
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 439.0076630931892
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4663.431882227825
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10761690490553
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177870749218
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716127
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667640343773
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698979
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790490490532831
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -45,
+      "joint": "wrist_roll"
+    },
+    {
+      "interferences": [
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "gripper_XL330_Envelope",
+          "volume_mm3": 437.0591189850063
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "gripper_XL330_Envelope",
+          "volume_mm3": 49.36487579275267
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 251.6774381799009
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 29.155489278305943
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6819788815842
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 322.26010636363384
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4256.86793923755
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10824163783691
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.917787074905
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161362
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667640424256
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766989677
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340864214425
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -30,
+      "joint": "wrist_roll"
+    },
+    {
+      "interferences": [
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "gripper_XL330_Envelope",
+          "volume_mm3": 63.49380036707562
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 33.623914610766214
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.7068489654762
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 34.45926915382192
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4161.0598238788325
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10591563261542
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.917787074921
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161326
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676367420648
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698962
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340862844552
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": -15,
+      "joint": "wrist_roll"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.699221834794
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598016447019
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.109228194325375
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.91778707071
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716137
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667636394534
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698971
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790341079370223
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 0,
+      "joint": "wrist_roll"
+    },
+    {
+      "interferences": [
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 134.71965602535982
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.7317054565442
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 22.49591326564781
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4161.061166833431
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10520844090541
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177870748717
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716128
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676365023253
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766989613
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790341086606305
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 15,
+      "joint": "wrist_roll"
+    },
+    {
+      "interferences": [
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 263.30468375606836
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 74.08148143311159
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.7178927173575
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 109.2551607621059
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4201.699600570232
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.107314172915004
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.917787074894
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161512
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.0175166764043689
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766989727
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340870585687
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 30,
+      "joint": "wrist_roll"
+    },
+    {
+      "interferences": [
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 123.04225396927558
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 98.28960209234087
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.708139566407
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 157.68031255364463
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4212.129529371975
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10761684896741
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177870748895
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161235
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676366896727
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698955
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790490713245149
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 45,
+      "joint": "wrist_roll"
+    },
+    {
+      "interferences": [
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 153.07908477779338
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 95.37429760843082
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6788659136866
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 369.5052182929549
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4317.5334637329615
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10824172701609
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177870748927
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161194
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.0175166763830223
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766989677
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790490712813441
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 60,
+      "joint": "wrist_roll"
+    },
+    {
+      "interferences": [
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 299.83175061637115
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 100.13243862231796
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.688634119501
+        },
+        {
+          "b": "wrist_roll_XL330_Cradle_HOLD",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 382.0512498639149
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4637.112111758968
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10591543333515
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.917787074842
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161162
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676403842947
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698953
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790353255165124
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 75,
+      "joint": "wrist_roll"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1259.6992218347627
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598016447011
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.1092281943262
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.917787074863
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716122
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667638455484
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698949
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340872583387
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 0,
+      "joint": "gripper"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1288.8396250997969
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598016447006
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.1092281943212
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177870748613
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161453
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667640317334
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698947
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.1079034088054051
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 15,
+      "joint": "gripper"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1346.1063072465033
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598016447009
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10922819432393
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.917787074863
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716146
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.01751667639765257
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698952
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.107903408805168
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 30,
+      "joint": "gripper"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1450.5861444572874
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598016447005
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.109228194323364
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177870706853
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161444
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676405333404
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698945
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340885203671
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 45,
+      "joint": "gripper"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1570.8922598379052
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598016447018
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.10922819432646
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177870706503
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.185879716141
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676402074632
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.482676698941
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340882736497
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 60,
+      "joint": "gripper"
+    },
+    {
+      "interferences": [
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Moving_Jaw_SO101",
+          "volume_mm3": 1704.2335642098412
+        },
+        {
+          "b": "wrist_roll_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 4145.598016447016
+        },
+        {
+          "b": "gripper_XL330_Envelope",
+          "a": "Wrist_Roll_Follower_SO101",
+          "volume_mm3": 33.109228194322405
+        },
+        {
+          "b": "wrist_flex_Vstone_Envelope",
+          "a": "Wrist_Roll_Pitch_SO101",
+          "volume_mm3": 2527.9177870706812
+        },
+        {
+          "b": "elbow_flex_Vstone_Envelope",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 3398.1858797161444
+        },
+        {
+          "b": "Motor_holder_SO101_Wrist",
+          "a": "Under_arm_SO101",
+          "volume_mm3": 0.017516676404344206
+        },
+        {
+          "b": "shoulder_lift_Vstone_Envelope",
+          "a": "Upper_arm_SO101",
+          "volume_mm3": 3827.4826766989454
+        },
+        {
+          "b": "shoulder_pan_Vstone_Envelope",
+          "a": "Rotation_Pitch_SO101",
+          "volume_mm3": 2879.240826330453
+        },
+        {
+          "b": "Rotation_Pitch_SO101",
+          "a": "Motor_holder_SO101_Base",
+          "volume_mm3": 0.10790340884895482
+        },
+        {
+          "b": "WaveShare_Mounting_Plate_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 141.25097224809724
+        },
+        {
+          "b": "Base_SO101",
+          "a": "Base_motor_holder_SO101",
+          "volume_mm3": 1.6554653300926052
+        }
+      ],
+      "update_ok": true,
+      "angle_deg": 75,
+      "joint": "gripper"
+    }
+  ]
+}

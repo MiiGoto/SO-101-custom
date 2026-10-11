@@ -1,0 +1,12 @@
+{
+  "status": "CALCULATED SCREEN ONLY; manufacturing HOLD",
+  "wall_force_N": 25,
+  "cantilever_mm": 12,
+  "width_mm": 38.6,
+  "thickness_mm": 3,
+  "bending_MPa": 5.181347150259066,
+  "notch_factor_assumption": 3,
+  "PLA_FDM_allowable_assumption_MPa": 10,
+  "deflection_mm": 0.11053540587219343,
+  "limits": "Notch/fixation, base frame, screw load, anisotropy, creep not qualified. Not proof that removed base material or lightened bracket is adequate. Do not manufacture as load-bearing."
+}

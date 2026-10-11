@@ -1,0 +1,122 @@
+[
+  {
+    "file": "mechanical\\print_test\\stl\\Bearing_Fit_Gauge.stl",
+    "triangles": 748,
+    "binary_length_ok": true,
+    "all_edges_two": true,
+    "bbox_mm": [
+      65.0,
+      25.0,
+      6.0
+    ],
+    "volume_mm3": 6046.167654966749,
+    "PLA_solid_g": 7.497247892158769,
+    "estimate_minutes_at_6mm3_s_plus50percent": 25.19236522902812,
+    "status": "Mesh checks only; print settings/physical fit not verified"
+  },
+  {
+    "file": "mechanical\\print_test\\stl\\Encoder_Gap_Gauge.stl",
+    "triangles": 108,
+    "binary_length_ok": true,
+    "all_edges_two": true,
+    "bbox_mm": [
+      54.0,
+      32.0,
+      6.0
+    ],
+    "volume_mm3": 6288.0,
+    "PLA_solid_g": 7.79712,
+    "estimate_minutes_at_6mm3_s_plus50percent": 26.199999999999996,
+    "status": "Mesh checks only; print settings/physical fit not verified"
+  },
+  {
+    "file": "mechanical\\print_test\\stl\\Mounting_Pitch_Gauge.stl",
+    "triangles": 52,
+    "binary_length_ok": true,
+    "all_edges_two": true,
+    "bbox_mm": [
+      66.0,
+      36.0,
+      3.0
+    ],
+    "volume_mm3": 6597.599761962891,
+    "PLA_solid_g": 8.181023704833985,
+    "estimate_minutes_at_6mm3_s_plus50percent": 27.48999900817871,
+    "status": "Mesh checks only; print settings/physical fit not verified"
+  },
+  {
+    "file": "mechanical\\print_test\\stl\\OEM_Horn_Trace_Plate.stl",
+    "triangles": 108,
+    "binary_length_ok": true,
+    "all_edges_two": true,
+    "bbox_mm": [
+      50.0,
+      50.0,
+      2.0
+    ],
+    "volume_mm3": 4999.126485739304,
+    "PLA_solid_g": 6.198916842316738,
+    "estimate_minutes_at_6mm3_s_plus50percent": 20.829693690580434,
+    "status": "Mesh checks only; print settings/physical fit not verified"
+  },
+  {
+    "file": "mechanical\\print_test\\stl\\Servo_Body_Fit_Grid.stl",
+    "triangles": 788,
+    "binary_length_ok": true,
+    "all_edges_two": true,
+    "bbox_mm": [
+      75.0,
+      62.0,
+      3.0
+    ],
+    "volume_mm3": 7046.431490071093,
+    "PLA_solid_g": 8.737575047688155,
+    "estimate_minutes_at_6mm3_s_plus50percent": 29.360131208629554,
+    "status": "Mesh checks only; print settings/physical fit not verified"
+  },
+  {
+    "file": "mechanical\\print_test\\stl\\XL330_Horn_PCD_Test.stl",
+    "triangles": 1208,
+    "binary_length_ok": true,
+    "all_edges_two": true,
+    "bbox_mm": [
+      19.995524406433105,
+      19.99776268005371,
+      2.0
+    ],
+    "volume_mm3": 558.5180953766803,
+    "PLA_solid_g": 0.6925624382670836,
+    "estimate_minutes_at_6mm3_s_plus50percent": 2.3271587307361683,
+    "status": "Mesh checks only; print settings/physical fit not verified"
+  },
+  {
+    "file": "mechanical\\adapters\\revb\\stl\\Vstone_Cradle_HOLD.stl",
+    "triangles": 112,
+    "binary_length_ok": true,
+    "all_edges_two": true,
+    "bbox_mm": [
+      27.600000381469727,
+      44.59999942779541,
+      15.0
+    ],
+    "volume_mm3": 5036.399957656861,
+    "PLA_solid_g": 6.245135947494508,
+    "estimate_minutes_at_6mm3_s_plus50percent": 20.984999823570256,
+    "status": "Mesh checks only; print settings/physical fit not verified"
+  },
+  {
+    "file": "mechanical\\adapters\\revb\\stl\\XL330_Cradle_HOLD.stl",
+    "triangles": 112,
+    "binary_length_ok": true,
+    "all_edges_two": true,
+    "bbox_mm": [
+      28.600000381469727,
+      40.59999942779541,
+      15.0
+    ],
+    "volume_mm3": 4670.399957656861,
+    "PLA_solid_g": 5.791295947494508,
+    "estimate_minutes_at_6mm3_s_plus50percent": 19.459999823570254,
+    "status": "Mesh checks only; print settings/physical fit not verified"
+  }
+]

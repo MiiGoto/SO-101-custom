@@ -1,0 +1,2726 @@
+[
+  {
+    "file": ".gitattributes",
+    "sha256": "46995743faabe3d730304fcbc8590988a01ce2406ea46a21f1aa87632309b63a"
+  },
+  {
+    "file": ".gitignore",
+    "sha256": "75526b3b63984125e5bc9d1d4cb0a8d95b89cee4ccf55c51d27c4f5b193bd523"
+  },
+  {
+    "file": "AGENTS.md",
+    "sha256": "2c8ec7a84a670082a79b49bdf6b485ce4cd92cd4a41254270f1f461fe0b6d109"
+  },
+  {
+    "file": "PROJECT_CONTEXT.md",
+    "sha256": "13ac55d44944ca24d09bc266b6e497729c9712d7b990765704484579d114b6ae"
+  },
+  {
+    "file": "README.md",
+    "sha256": "c2678a574bb350c69103e93b223bf583a76445925789daa00e87b0ea47217d75"
+  },
+  {
+    "file": "requirements.md",
+    "sha256": "f9a0a2381250b19b51737a9540e19c225ae3b01860ff4ee3bd00a09eb3a333b7"
+  },
+  {
+    "file": "docs/architecture.md",
+    "sha256": "c3fc781ccfb89842c48dce86a68c1a8c3804daee38d04f11b15a05ed0c0d61b7"
+  },
+  {
+    "file": "docs/bom.md",
+    "sha256": "8213881ff5892f36b7827540e76fd3412bc1ef9889735f8e1fa6d66334bab2f9"
+  },
+  {
+    "file": "docs/build_report.py",
+    "sha256": "bbc11a74192c269a3aafe36c7a5d8433890868c8f568f2fb432d8d9a937f1bed"
+  },
+  {
+    "file": "docs/custom_modifications.md",
+    "sha256": "d2a96185b9637069f4cf3404d411b61fc1e5b9721ca24f746a6ecac13a54d454"
+  },
+  {
+    "file": "docs/drawing_quality_review.md",
+    "sha256": "0060aa0712b418b46422a3ac4f177d6cc8fb629170dd853f3c435210bdd3a59d"
+  },
+  {
+    "file": "docs/feedback.md",
+    "sha256": "767b8b67ed12fa774f5fec8b197fee6030adb69d0e01b70ce39014b071d1d840"
+  },
+  {
+    "file": "docs/jis_drawing_rules.md",
+    "sha256": "380a8042d84bb672ed0e6788b4dbe3024e234e827b827139163da5836d4ea801"
+  },
+  {
+    "file": "docs/lerobot_plan.md",
+    "sha256": "3b0e78695de9d48db27460be91229b29ae44fb1f7b46f6a7fe6942fc30171f82"
+  },
+  {
+    "file": "docs/lerobot_tree.json",
+    "sha256": "3298e511377913a50df20a27ac3597d547bbab647d6b39c2e4bea5b7ad29e09e"
+  },
+  {
+    "file": "docs/mechanical_plan.md",
+    "sha256": "132bb459f0d44fdb6fc5bd9fc266ff04932b790ff5cd0e40c9fc31538303e8cc"
+  },
+  {
+    "file": "docs/motor_compatibility.md",
+    "sha256": "6bfe89d711a7c5d665a2628d1cf264aa6b076ed7797ffea22922d457eb04e10b"
+  },
+  {
+    "file": "docs/official_geometry.json",
+    "sha256": "4f52a238c818438d40ee23c47a00d4756012be1160b87f519e5b94a220410f56"
+  },
+  {
+    "file": "docs/official_reference.md",
+    "sha256": "5fc8f890d838fafd053eabd232ed9f1ab6f4816f5bca10f66fe14b44ce9e4028"
+  },
+  {
+    "file": "docs/printing_plan.md",
+    "sha256": "f4cff8534e93e64e0250b2dd005a19565f2c82f7f5b2c7c43e034e6209211500"
+  },
+  {
+    "file": "docs/questions.md",
+    "sha256": "cebcaadeb8f17b8a184b2c123d372a934d9e425cb2778958c5bed96d264e621e"
+  },
+  {
+    "file": "docs/roadmap.md",
+    "sha256": "8c7ffd52aee22286143bd8db33ca0e286b791cb4013a857e0c910f5e86882d8a"
+  },
+  {
+    "file": "docs/simulation_plan.md",
+    "sha256": "6cef4a78781735d3e2d0cb7dc154f58c95095dfd7111f3ae961a321357119b87"
+  },
+  {
+    "file": "docs/six_axis_design_review.md",
+    "sha256": "f0016065f6f1d8e7a86518b04c35c072b9ed047c2731f3c9fae7072daf38f88d"
+  },
+  {
+    "file": "docs/source_manifest.csv",
+    "sha256": "ff6a473b8de0e9e94ffbcf377482996c206d4066df0d9e17afe49fbca691465d"
+  },
+  {
+    "file": "docs/source_versions.json",
+    "sha256": "3266c2a2c4c917961bdcc7aca42005639aec62ac112fcffa513b82c44dcc5ce5"
+  },
+  {
+    "file": "docs/torque_inputs.json",
+    "sha256": "6e0a3059a4d6276004c7337213d842b539afc1301ddced124c07980608fe8285"
+  },
+  {
+    "file": "docs/torque_report.md",
+    "sha256": "ea74f1ed3d7a4b604d79158d0f0031cb65cb577591efb79dad09893e061a60e7"
+  },
+  {
+    "file": "docs/torque_results.csv",
+    "sha256": "56ef2ef7eaabd6b38182e2aaaf7039431838dd4d096709a784a9052d85c27c93"
+  },
+  {
+    "file": "docs/upstream_alignment_report.md",
+    "sha256": "2658f6002c63a46f53094fcc722850092f93af860f26b76d082c33bba1bdb764"
+  },
+  {
+    "file": "docs/upstream_parts_mapping.csv",
+    "sha256": "52528bef7693abd58605995d39662c113f30fd468f4770894d5d4d253766d3e6"
+  },
+  {
+    "file": "docs/validation.md",
+    "sha256": "2aa603f5fb59570d60939f8c217439aa3a6b5773caff269b8ba055d54cce10e0"
+  },
+  {
+    "file": "inventory/inventory.csv",
+    "sha256": "8b04acfca763f4caa8fcf7ea475333fec89428d67892e7228be09f70f2d4971d"
+  },
+  {
+    "file": "mechanical/parameters.csv",
+    "sha256": "b69184a6ca8c2b84815d555da08ecdcfe5165096cf13b2297175b358b6cf6a8d"
+  },
+  {
+    "file": "simulation/torque_envelope.py",
+    "sha256": "8d897902a91338d5d919102a896adcc0932fb394fec67aa5b59ebad968de1d7b"
+  },
+  {
+    "file": "software/joint_contract.py",
+    "sha256": "13c82682570b26f1e8671d845215139ad9cb2f9ceef589aa4e13b994883cea24"
+  },
+  {
+    "file": "tests/test_offline.py",
+    "sha256": "5da3d57c74954450043df06ad3b91b2604bc5aef8692839b09769e2c4a038765"
+  },
+  {
+    "file": "docs/upstream/lerobot/LICENSE",
+    "sha256": "9e108af26a7ae92a6d2cb0273856a4a0a84da8819c2cffee8b2657cc4f905718"
+  },
+  {
+    "file": "docs/upstream/lerobot/pyproject.toml",
+    "sha256": "b6b7d36b1f7e9ce81d8fcee5a356b9cbcdf0877d169f16b51b1e0ade0219a7fd"
+  },
+  {
+    "file": "docs/upstream/lerobot/docs/source/integrate_hardware.mdx",
+    "sha256": "fe38b436d41da443801d81df402fee688f8e25147e25fdbe7a9ba09749cf0487"
+  },
+  {
+    "file": "docs/upstream/lerobot/docs/source/so101.mdx",
+    "sha256": "e75acfb73c32e7d3dcee8cde038bbc0ac8362602c49320c5b39ca0e21d8006a1"
+  },
+  {
+    "file": "docs/upstream/lerobot/src/lerobot/robots/robot.py",
+    "sha256": "82b2a59afb5bf1b7191eca8b64bd578f70020be287c8b4d39afae642a5be350e"
+  },
+  {
+    "file": "docs/upstream/lerobot/src/lerobot/motors/dynamixel/dynamixel.py",
+    "sha256": "6dd0c14c99f7bbd60e202094539e620347004c18cc1f0a2ad3c1be7710d6a37f"
+  },
+  {
+    "file": "docs/upstream/lerobot/src/lerobot/motors/dynamixel/tables.py",
+    "sha256": "683b400f6199415df32beae1146a662015b6d4ad90bc6af3bdf8ddc8222324b9"
+  },
+  {
+    "file": "docs/upstream/lerobot/src/lerobot/robots/so_follower/so_follower.py",
+    "sha256": "b542340fe13b6f3987caa0fb6366842dd34a9fb8be0264e77d057cb7d4cfff52"
+  },
+  {
+    "file": "mechanical/adapters/print_plan.md",
+    "sha256": "2026270cf43481a34a0c421199be88592c2d9f47be07675bf8717a23977709e3"
+  },
+  {
+    "file": "mechanical/follower_six_axis/assembly_guide.md",
+    "sha256": "8b4c6376cf028c02f864de6c42cb5f529e9e5c3c7ee040f0b78f67302ac5ab29"
+  },
+  {
+    "file": "mechanical/follower_six_axis/interference_report.md",
+    "sha256": "897fca50fb70baa1b0cfe36c2251addb538fa3b35a3c8497798cd13f48ab130d"
+  },
+  {
+    "file": "mechanical/follower_six_axis/mechanical_bom.csv",
+    "sha256": "98ef54fdffbe2e162ccbf53e54b4fd0707bcb675feb03088b2aceecdeb4e7c2d"
+  },
+  {
+    "file": "mechanical/reference/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "file": "mechanical/reference/README.md",
+    "sha256": "7e9bdd089aab15532f7304e65e748707315aaee359204143e3997ecfc568d01e"
+  },
+  {
+    "file": "mechanical/reference/tree.json",
+    "sha256": "310d3f3a135e84ca1674cb82c4c5c19501436b66053bfd1bd937a4c4ebfbd6ac"
+  },
+  {
+    "file": "mechanical/release_review/additional_bom.csv",
+    "sha256": "abeed73bd4348a8e2cdaade90a1fa091ea9ad73927d7c8764ebffb4046931ed2"
+  },
+  {
+    "file": "mechanical/release_review/artifact_manifest.json",
+    "sha256": "848e825c2213f2d64145f4fa44c4ab6b5c5b3caec41fc2eab02881373b3fecd2"
+  },
+  {
+    "file": "mechanical/release_review/assembly_mass_reference_validation.json",
+    "sha256": "c134e4fef5b18ceded2c9d0461a8db7c5e863f4124e3fa70ffd9a13e202d2cbf"
+  },
+  {
+    "file": "mechanical/release_review/axis_alignment.json",
+    "sha256": "820957407be4264654b5246133f24e6652549fc26e113b0a6d722ba091fbf0f4"
+  },
+  {
+    "file": "mechanical/release_review/dof_api.json",
+    "sha256": "8e2c349c0bff10afe0dc3a2db8884870f2f700017430aaa7d62a00581033b59c"
+  },
+  {
+    "file": "mechanical/release_review/drawing_validation.json",
+    "sha256": "8efe13adbcaa66c945e60b211e972bbe15149bca704490b7abf214c74abd3bea"
+  },
+  {
+    "file": "mechanical/release_review/fk_motion_validation.json",
+    "sha256": "fa023ec81d80d1d5f5b7ff16a0c7c1ecd9f747d5d82ee4e4e51aa00ca2794fe0"
+  },
+  {
+    "file": "mechanical/release_review/manufacturing_holds.md",
+    "sha256": "8cd20045e11048cca4b244015abb0995cf6170720d7d2c2af73e34404f899b59"
+  },
+  {
+    "file": "mechanical/release_review/mesh_validation.json",
+    "sha256": "94fbfb52bd4f998d6e896b4ac44ae72e1b24ce97ff2c547bf6f3f6c824ace10c"
+  },
+  {
+    "file": "mechanical/release_review/native_parts_validation.json",
+    "sha256": "05e11d300d22b4aa377b9c47edb049e160a26dad0c6a51750873d8e96060df1e"
+  },
+  {
+    "file": "mechanical/release_review/pdf_validation.json",
+    "sha256": "fb79ac54df29da9149f4e54036a25d44918a937c5c0ce582ce32659ffc575620"
+  },
+  {
+    "file": "mechanical/release_review/README.md",
+    "sha256": "fdbc81f81a672909d215c1dacc142c97d1b8988a8020d806c2367a2f3d704ae9"
+  },
+  {
+    "file": "mechanical/release_review/refined_dimensions.json",
+    "sha256": "b47ab9e082ecf23ed1482f055120563d285265e644bf342c0b57ccebc940a107"
+  },
+  {
+    "file": "mechanical/release_review/reva_preservation.json",
+    "sha256": "4108a8b05e25da4490a2a93099cb7984d7b55a342b9312d69be66814d6f51cf0"
+  },
+  {
+    "file": "mechanical/release_review/review_status.json",
+    "sha256": "a6a2f0e371c9bcd2f0a54d09680d59846ec595b8497c611b09f82d067d635236"
+  },
+  {
+    "file": "mechanical/release_review/XL330_dimension_reference.png",
+    "sha256": "8485c6d64e2aff204611993ac75d484f603a7361a833e965e0414e516053b1ed"
+  },
+  {
+    "file": "mechanical/templates/SO101_JIS_A3.idw",
+    "sha256": "abc7952ab4ad3a3aa6ef0b32e563e789ad0dbdffa404916e50076bf860469e71"
+  },
+  {
+    "file": "mechanical/templates/SO101_JIS_A4.idw",
+    "sha256": "0cee8103a7931798600b46c7a75f8fd28ad27a4e8db7fd409b508799c092c003"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/.gitattributes",
+    "sha256": "ce93848f2dc45aab08505c5983b650aa8abfaa3ae109899d96204c5c644a88ac"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/additional_bom.md",
+    "sha256": "4b72c4469619bfa469e52090edebb11addea167af9c5d412b20471c23e663985"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/artifact_manifest.json",
+    "sha256": "9e109f75c67d467c63ee22099c6081b6a24c9ff56ac7871267ab422017229e8d"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/assembly_guide.md",
+    "sha256": "86d52fd628a89f417bd53d7dd25a9256bc7c5a94754dfda343063f89d9bccaff"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/electrical_interface.md",
+    "sha256": "ebfd4bffcea2aabceb6aadff4d21726fb0902520ea2f5d3a648975a2eebe6055"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/encoder_mount_review.md",
+    "sha256": "d6be48af0203c6c029ab9bea2cfa19a92e17610aede0ab969f9d14a1233cc201"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/gravity_compensation.json",
+    "sha256": "e625ea3f0e22ebd4c5f5e8199e51225030a9df7a3810630f68d94f4c4914af9f"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/interference_report.md",
+    "sha256": "b1e73848c57ba47068b0e49697ecc03b2b2bd51c0c06d93c10dc51efbfb364cb"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/joint_config.py",
+    "sha256": "098c0ba97db6294c394b6a0b81b245996812bfcc7602e3676082002ecc1484de"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/kinematics.py",
+    "sha256": "bbfc327090c12820a63b571080fe95535df2cf497204af92fb8e420f87b4ecf4"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/mass_properties.json",
+    "sha256": "a3f8384b521b14e1f260ea6af61062fb1b3f01ce15127fff762c52505ed27da6"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/mechanical_bom.csv",
+    "sha256": "8071a9a63790c15a99ea430d1c73cce22368ea55c6549a358698d6720e9d3f98"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/official_sources.md",
+    "sha256": "82681465f447cd79f83c6023e5ff04901c84fdf27cf8421700762509726ca8d9"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/print_plan.md",
+    "sha256": "74eebe63dc22a32fb0f28131c9c0caaf05175608cd3a7b0b56542b331dcf326e"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/README.md",
+    "sha256": "a8b7f35253c138d4b18ca1125b63dbf3a7a818de1b3a889daef8e4d7f3de4bdc"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/review_report.md",
+    "sha256": "3fd788d7b3fe03f7b3411db9c5d82ddb8b6a5e0730c231c19d25912de5791ee0"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/servo_mount_validation.md",
+    "sha256": "852d972cf58078c6a49c109f203696d93ae90f65dce627b85c599f959fc78f82"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/torque_analysis.json",
+    "sha256": "571f008f8beb3e25e5d08c2c418a8831192a85d8d5f7fe13a98d1e2b153315b5"
+  },
+  {
+    "file": "mechanical/two_joint_revb/assembly_guide.md",
+    "sha256": "8b4c6376cf028c02f864de6c42cb5f529e9e5c3c7ee040f0b78f67302ac5ab29"
+  },
+  {
+    "file": "mechanical/two_joint_revb/interference_report.md",
+    "sha256": "9454c8b25d5f872195cb15d2ef690b4d3fd2ee7400cb333113a09cf131813c92"
+  },
+  {
+    "file": "mechanical/two_joint_revb/mechanical_bom.csv",
+    "sha256": "dc47e2478e8308366a22a214306422b3dddf33f8bddd16f22553c36da8037db2"
+  },
+  {
+    "file": "mechanical/upstream_reference/assembly_inventory.json",
+    "sha256": "4f9fe0b77140ef10315d6e677de8ec69370a95ced78d1ca880962064017f9284"
+  },
+  {
+    "file": "mechanical/upstream_reference/axis_geometry.json",
+    "sha256": "ce2e6649de0da9c2efe8b5ebe8217dc1cbe24c6f07e2870840f3cbb41578c412"
+  },
+  {
+    "file": "mechanical/upstream_reference/documents_before.json",
+    "sha256": "739260d7d5306ffc93d3530f3f5c460e16f4b27b630b2977113e935b87706719"
+  },
+  {
+    "file": "mechanical/upstream_reference/kinematic_reference.json",
+    "sha256": "15e5833351f00da2fa3f102545083e739e06f3c750e38d3ecd594ab5eafdcc68"
+  },
+  {
+    "file": "mechanical/upstream_reference/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "file": "mechanical/upstream_reference/NOTICE.md",
+    "sha256": "44b867e57e8ffedc744bf5fe1db370bca73a25e5da872f88f6e7fea5a1faa215"
+  },
+  {
+    "file": "mechanical/upstream_reference/source_manifest.json",
+    "sha256": "c7fcd3ef47c405a6b2ca24a51b14c5d947c89dbe13b823cd0b63b7f2958d8d57"
+  },
+  {
+    "file": "mechanical/adapters/idw/Bearing_Fit_Coupon_JIS.idw",
+    "sha256": "01e8f5ec51f2273525a01a7fc5c262994e7afe78fe111ab8f39bda05351d8ab9"
+  },
+  {
+    "file": "mechanical/adapters/idw/Encoder_Alignment_Test_JIS.idw",
+    "sha256": "88267e001f8ad2cbd77d7bdc1fd3dcdad215ed0d75f838469d983ba6bcd15bc8"
+  },
+  {
+    "file": "mechanical/adapters/idw/Horn_Adapter_Test_JIS.idw",
+    "sha256": "81146403f80095f5244bcb95284a85d15128475dfb9af699ba6c08a264950d23"
+  },
+  {
+    "file": "mechanical/adapters/idw/Servo_Mount_Coupon_JIS.idw",
+    "sha256": "fab3a89ad72ac6d7c8d9eb9b3565f4e88da3b23529dd93a14b5383894d42d43e"
+  },
+  {
+    "file": "mechanical/adapters/idw/Under_arm_SO101_JIS.idw",
+    "sha256": "d22478897dcffd1209e49d6516d1f9d65972f0ad41038e79808d5136cde7b4e7"
+  },
+  {
+    "file": "mechanical/adapters/idw/Upper_arm_SO101_JIS.idw",
+    "sha256": "b45d7575052bfa9163b5b83d2858230eccf5fccc1fe5ab0faf0113e4da6244d1"
+  },
+  {
+    "file": "mechanical/adapters/idw/Vstone_Cradle_HOLD_JIS.idw",
+    "sha256": "65eee260fc773fd25ef818d48744281c8841ce6fdc124f2524b5a79bb236444f"
+  },
+  {
+    "file": "mechanical/adapters/idw/XL330_Cradle_HOLD_JIS.idw",
+    "sha256": "c67bf24a1434de286a73d9ba49187e407b544d82556feda21593a0266c4fe2b1"
+  },
+  {
+    "file": "mechanical/adapters/ipt/Bearing_Fit_Coupon.ipt",
+    "sha256": "6ff378cb42a53d3640b09aa176986086767601b456a2cb7aee457f21a60fb417"
+  },
+  {
+    "file": "mechanical/adapters/ipt/Encoder_Alignment_Test.ipt",
+    "sha256": "a52790f645d241527993399abe2f9066e523fed51d1ed15f3e608d3c0fd0a2b9"
+  },
+  {
+    "file": "mechanical/adapters/ipt/Horn_Adapter_Test.ipt",
+    "sha256": "0c5bdc9bbd8d5d5e6698ce67aff48c69afb7412392d697c48f68d7509e3417af"
+  },
+  {
+    "file": "mechanical/adapters/ipt/Servo_Mount_Coupon.ipt",
+    "sha256": "d99dd523407a64016b6a3a6f4ef77e5e409c93a4105e36a95b6bdafc6193387a"
+  },
+  {
+    "file": "mechanical/adapters/ipt/Vstone_Cradle_HOLD.ipt",
+    "sha256": "246838449984a97b3b09c3681d3fb2f6a93a9805c8f238d2995937882e32b609"
+  },
+  {
+    "file": "mechanical/adapters/ipt/Vstone_Envelope.ipt",
+    "sha256": "e1f4fbc4f6b6484d5165cca7f72870b88c1b426cb51ca479a9b7b2a6c51431a6"
+  },
+  {
+    "file": "mechanical/adapters/ipt/XL330_Cradle_HOLD.ipt",
+    "sha256": "71170c6249e03398534d6dc96d894d470fd5a916a21229e8416d72f0413d6d0e"
+  },
+  {
+    "file": "mechanical/adapters/ipt/XL330_Envelope.ipt",
+    "sha256": "287febe9d195487bad03075db08c4c8b6aab519bf36942f2c5227fc9847b0892"
+  },
+  {
+    "file": "mechanical/adapters/pdf/Bearing_Fit_Coupon_JIS.pdf",
+    "sha256": "c9102b2d28bda6825cdf7f5dbfa1c2e99f43502ef7ac8bd080124c817911042d"
+  },
+  {
+    "file": "mechanical/adapters/pdf/Encoder_Alignment_Test_JIS.pdf",
+    "sha256": "cb58a2685e58eaa996c0469dc02c75af4585237b907b95da0069f7df31b8f13e"
+  },
+  {
+    "file": "mechanical/adapters/pdf/Horn_Adapter_Test_JIS.pdf",
+    "sha256": "4d450dceb3dd7fc32eafa6d02ad927f3ccbf14531a8dcc4901fb50e25dd28584"
+  },
+  {
+    "file": "mechanical/adapters/pdf/Servo_Mount_Coupon_JIS.pdf",
+    "sha256": "8a001fc536b5f55f17d5d6f42a64f8d237d7933a9b9937624aaf5f6fd46c09fa"
+  },
+  {
+    "file": "mechanical/adapters/pdf/Under_arm_SO101_JIS.pdf",
+    "sha256": "5f80d917775495111a8175433065e50cc84608919b24e3c5223fa808fc3d8eec"
+  },
+  {
+    "file": "mechanical/adapters/pdf/Upper_arm_SO101_JIS.pdf",
+    "sha256": "e72daca7dbba2a6c9e95229902ef602866554a608dec80bfa54679561c72eb40"
+  },
+  {
+    "file": "mechanical/adapters/pdf/Vstone_Cradle_HOLD_JIS.pdf",
+    "sha256": "685b0ffa3c59dd3be6b1eef97d6a2fc4b01599dc5030fe57b06f7dd2e116e8ec"
+  },
+  {
+    "file": "mechanical/adapters/pdf/XL330_Cradle_HOLD_JIS.pdf",
+    "sha256": "20120a08f660096fd5fb7c4540c9605c6641b8efd28f09e2bf7a4b5ea998f047"
+  },
+  {
+    "file": "mechanical/adapters/step/Vstone_Cradle_HOLD.step",
+    "sha256": "797383001b4c27dc1fe428f5816de334673088294886c81cf4a026951f538d34"
+  },
+  {
+    "file": "mechanical/adapters/step/XL330_Cradle_HOLD.step",
+    "sha256": "a31ecdfbb142d4b6eff34a940b21ed310029fde94bc5bdf7b0c5a8e5ff72f009"
+  },
+  {
+    "file": "mechanical/adapters/stl/Bearing_Fit_Coupon.stl",
+    "sha256": "967dd5456d3d39f02e53b124df2fcd53a6ab100d3fa9f83caa7e0cb72b998256"
+  },
+  {
+    "file": "mechanical/adapters/stl/Encoder_Alignment_Test.stl",
+    "sha256": "8cdcd34d0dfabd8c69f06dea060c9f8c035c9a2d3253f6992c33be5bd5062173"
+  },
+  {
+    "file": "mechanical/adapters/stl/Horn_Adapter_Test.stl",
+    "sha256": "54d68337fe6f7342b8c4dd1bb0410631289a7fec1823c326a76b770fd01b9175"
+  },
+  {
+    "file": "mechanical/adapters/stl/Servo_Mount_Coupon.stl",
+    "sha256": "2f1b9400ef19d13795e81c600651bd14a007bc8567b8f038d0225ba13c6dea35"
+  },
+  {
+    "file": "mechanical/adapters/stl/Vstone_Cradle_HOLD.stl",
+    "sha256": "13a5d662df3e4b8162a49b5023229ff6256ddb19e9f638c62ed9bd4ba4a09831"
+  },
+  {
+    "file": "mechanical/adapters/stl/XL330_Cradle_HOLD.stl",
+    "sha256": "557e28d7b4aaf66c6201c44af8346e45ec92344a2b3f821e66587a14d91226ca"
+  },
+  {
+    "file": "mechanical/follower_six_axis/analysis/assembly.json",
+    "sha256": "03246224bef2d41414b78ccca91e38a6b8f0eb2dd2a555d3f7507598e5a62b1c"
+  },
+  {
+    "file": "mechanical/follower_six_axis/analysis/mass_properties.json",
+    "sha256": "b8417f54e2334913f882b78235120d4c68c3eadc842621bb3b07d89c6ff1544d"
+  },
+  {
+    "file": "mechanical/follower_six_axis/analysis/motion_interference.json",
+    "sha256": "10da4cfb68151f1bd0ff347a0270257436d90751104d27ef656ce35b86dd2ea7"
+  },
+  {
+    "file": "mechanical/follower_six_axis/analysis/part_mass_properties.json",
+    "sha256": "e9b4295aa914bfcabf69b63907eef6a29a3d9ce358604088381081937106cf11"
+  },
+  {
+    "file": "mechanical/follower_six_axis/analysis/torque_analysis.json",
+    "sha256": "9073651181432dff69d68f67c705d7a0273c25c116f2dab5b80004ef2fc72b30"
+  },
+  {
+    "file": "mechanical/follower_six_axis/iam/SO101_Custom_Follower_RevA.iam",
+    "sha256": "472df24b3e748094b6fd9410ee69e4bf381cf7405a8db5e8771428a5bd39262f"
+  },
+  {
+    "file": "mechanical/follower_six_axis/idw/SO101_Custom_Follower_RevA_JIS.idw",
+    "sha256": "046ab08e48cd520b4322f50454fdf0f92cd0b87a6bc8033310d5920dbd1e1859"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/Base_motor_holder_SO101.ipt",
+    "sha256": "6ebf1ee01eec57b70843ebcbe74066977e6f8587238cc1ecf1be5f050ebcc6a4"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/Base_SO101.ipt",
+    "sha256": "cd1d853f93be0b2e288ae0ef9d52bd0258b521a90ad3b76f304841d1f024baf1"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/Motor_holder_SO101_Base.ipt",
+    "sha256": "b9e8a28338d4c825cbfc08eb5d3c114ab7eb0c5fb41c515a781b9ef9fcd24b4c"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/Motor_holder_SO101_Wrist.ipt",
+    "sha256": "25277a8d6f46c9530ed6d3a11f6ed81fae219956ed68328578c3641c67bf3331"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/Moving_Jaw_SO101.ipt",
+    "sha256": "eebc4a1273acfdd76645aa951d8063c09ddcc4e052dcee362483dc481208be72"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/REF_base_link.ipt",
+    "sha256": "6432dc9e6236ecd8b63af51d108e2298a7d98e68223a1d6e4656b1d3bfd36996"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/REF_gripper_link.ipt",
+    "sha256": "513c59ea2f3a0408f985e4b99cd53641411a57efcfae9a323f34e8e90e6202f1"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/REF_lower_arm_link.ipt",
+    "sha256": "834df83a8ec0fa23d8ca641528581671b95d8423d74fe009b58a881900eb259c"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/REF_moving_jaw_so101_v1_link.ipt",
+    "sha256": "f5dd92400890f83c35558f221326ebdef25f75e06e8b10197bdbd7067d188ab7"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/REF_shoulder_link.ipt",
+    "sha256": "871f35df6dad24a9110fd2297e6fb81f8b7de9107bc4f04c32b92a9bef9a8b9e"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/REF_upper_arm_link.ipt",
+    "sha256": "a587a7701d3f1f66950b112f53425cca5ed3e4212a746ab2d0b21f0100b9ac61"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/REF_wrist_link.ipt",
+    "sha256": "e6bc3b6b0cdf9f673bab39ca7e18f9d455b4c600082ae87e33987725202f1f2a"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/Rotation_Pitch_SO101.ipt",
+    "sha256": "cd4a252f6230e4ce7058d7a1df63da7583d44c8f5901c134fd8152601466ed53"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/Under_arm_SO101.ipt",
+    "sha256": "88da74a7b3140e48d31c75b78f28cbe8e352da4849953e43f79c0a1cd368ef0a"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/Upper_arm_SO101.ipt",
+    "sha256": "1ddc69ed66afbb262464e5a0a76c2529876711c7ee643b2647e0268980373924"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/WaveShare_Mounting_Plate_SO101.ipt",
+    "sha256": "12d6a8b224f073c09e5e0e9645582ef8cb683769912cb418624d004116e270ee"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/Wrist_Roll_Follower_SO101.ipt",
+    "sha256": "9abfeb7f6524718fce21e3aca857281d2f1d02726de3dedbb33766b8ec4c3447"
+  },
+  {
+    "file": "mechanical/follower_six_axis/ipt/Wrist_Roll_Pitch_SO101.ipt",
+    "sha256": "68c573e7440e145a717ff8c93a2123cdcbf3ea00fd8f9d44e8f331606e17f925"
+  },
+  {
+    "file": "mechanical/follower_six_axis/pdf/SO101_Custom_Follower_RevA_JIS.pdf",
+    "sha256": "677fe82a3d150e531e208a369a70623c925847ebdb301ce45d6300676bab966a"
+  },
+  {
+    "file": "mechanical/follower_six_axis/step/SO101_Custom_Follower_RevA.step",
+    "sha256": "049345dfe6b2c592f907dae62d3a552bc8470ec66cce55889e071fe23ec44c47"
+  },
+  {
+    "file": "mechanical/follower_six_axis/views/inventor_assembly.png",
+    "sha256": "beb75d80cc275c9e284d0d4b9ef8fff121a5fb166535d554d83816a24f85c37b"
+  },
+  {
+    "file": "mechanical/reference/Simulation/README.md",
+    "sha256": "77fbc25c334aefa17e47664b901d528c1aab60674d2567f3e77fbd699328bc78"
+  },
+  {
+    "file": "mechanical/reference/Simulation/SO101/README.md",
+    "sha256": "c6df213e471e4573ba6384cb957e9eee9644f5d671272f98f67d28866333f747"
+  },
+  {
+    "file": "mechanical/reference/Simulation/SO101/so101_new_calib.urdf",
+    "sha256": "3a65d2d35e68a8d2f0c2cc176d19b884506543c93ba72980145b80abe276022c"
+  },
+  {
+    "file": "mechanical/reference/Simulation/SO101/so101_new_calib.xml",
+    "sha256": "d75253eb568e8a7214db9c631ab7bed4217f608a26f7276ebe9a7636cac82580"
+  },
+  {
+    "file": "mechanical/reference/STEP/SO101/SO101 Assembly.step",
+    "sha256": "f754be35708382b05ce65768ae33c612f91dca11ad19d14807dc637eb944ba3d"
+  },
+  {
+    "file": "mechanical/reference/STEP/SO101/Under_arm_SO101.step",
+    "sha256": "677a1a57efeddc439d97ebdc309b1c2853cfcb83f14c7d695c312fcf13a89713"
+  },
+  {
+    "file": "mechanical/reference/STEP/SO101/Upper_arm_SO101.step",
+    "sha256": "efa19a6dd2ccb459248500c76629cfa840630e7e15d9e146394d31da1525dd61"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/Bearing_Fit_Coupon_JIS.png",
+    "sha256": "78942d8cba91c0f661311398b6b2f87120488420950d200a64c8e383ad3cde0a"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/contact_1.png",
+    "sha256": "c495975c9ab30110ef2d8787f98b17d42513366607e2e700ab173cc82353fd47"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/contact_2.png",
+    "sha256": "f272e08cd35c32b194c37beddf6f0ed8c79c51bff344410f4291f6d45275dd17"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/contact_3.png",
+    "sha256": "75db5e85eced84e8a6ea2392261807235f18577be31243e674bc21cdc0cf1025"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/Encoder_Alignment_Test_JIS.png",
+    "sha256": "7396acbd61d710f90c2fc2372b874743280ad6391331aafdcb97da6ad2b9a508"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/Horn_Adapter_Test_JIS.png",
+    "sha256": "7cc939181437ebe62911ff67583e16ceafb8303d3dd0811c99194b7924573f7b"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/Servo_Mount_Coupon_JIS.png",
+    "sha256": "964162a1364fd9a94b1b957baca75cab4f5269fb6c553497e0398248000a38ef"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/SO101_Custom_Follower_RevA_JIS.png",
+    "sha256": "7cf9a8a07f3be0fb36eec49feecf82b9db9c894442d4016d0c0a26ff3d95872c"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/SO101_TwoJoint_RevB_JIS.png",
+    "sha256": "3034f5e46e3544e0c80be9ff7b627c126992c81c3ae8b6c7c132484cc2449528"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/Under_arm_SO101_JIS.png",
+    "sha256": "f4bb49540e4227bbd32278ec201f8e7e124d90c6df5c5cd959ede7b036430eef"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/Upper_arm_SO101_JIS.png",
+    "sha256": "fcd53911c09a146ad5fc6cee2f6760113b286f79cb9cd07ae57721a81996cfa3"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/Vstone_Cradle_HOLD_JIS.png",
+    "sha256": "78c64fd798e91717d9abbd4f1fbc70c0b91f81238d0c5aa361946440bc3533de"
+  },
+  {
+    "file": "mechanical/release_review/pdf_qa/XL330_Cradle_HOLD_JIS.png",
+    "sha256": "e908c73e5c144178a8bae2812417341404ec7cef246eddf98ed1f0db347d9fce"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/assembly_validation.json",
+    "sha256": "a311feebef9e273469dc383f661c517fda21ad448bd1e1a29a176f63abe443ab"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/calculation_log.json",
+    "sha256": "88bd5f916724f74bc66b4afb6c2fbfae6a73a20ca14b61af9d62c7d325076c63"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/drawing_reopen_validation.json",
+    "sha256": "5914f380e9b5b3866e29a59609395c21d8e93efa325bf35adc922410f0704d1a"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/drawing_validation.json",
+    "sha256": "8959a35e5420faccae268d7435a80fe3a0dbc962194934a4842459253d38ae9f"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/inventor_view_validation.json",
+    "sha256": "6d5ee0f09eed666b66cb05f24724f2256fa54090ccf9ef9f4aa6f15221e38d89"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/kinematic_audit.json",
+    "sha256": "cf44bce2f6971c940cb76341fa7244c3db1a25f3728c09de66349f07bd844f73"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/mass_properties.json",
+    "sha256": "14856f9a2ef1423d062fae88c18feb25ca67600ade8c4925f0d7d3c5aaf0abc8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/part_reopen_validation.json",
+    "sha256": "b52ec7ac5ef02108b3bc42e43f66247282b6530cc66420e5375f0d777f53cf49"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/pdf_validation.json",
+    "sha256": "523da2d8accf29c94956274660c28c3d54532e7f10e8ddab23977cc17ba5baeb"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/reopen_validation.json",
+    "sha256": "3b8acb107e8792a7770eb7be13333a46980399e94b764fdcedbc33b8a5f6c25e"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/stl_validation.json",
+    "sha256": "69af873eed810faa9abd5e012ff540765fb177be2385e5086ff7a660a0902e6b"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/analysis/test_results.json",
+    "sha256": "ee6f871ec31363e078b240d11943d1e68920dcb771dbcc5510769732306a8642"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/iam/SO101_TwoJoint_Prototype.iam",
+    "sha256": "1aeea9ae0bc24c51e28eacaad8165ed34c73951af8215bbd4367fa0a4c4a9384"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Base.idw",
+    "sha256": "1c5905ebf950ab5cbb394da4e234cada4d5075ced5171a68cd4bb1533e73485f"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Bearing_625_Envelope.idw",
+    "sha256": "07268d270f2e6755bc0f1c3062c16d9093274a4f88dc322851fdb28178d6aedd"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Bearing_Fit_Coupon.idw",
+    "sha256": "8d3b6e031f7d93cb8b05f5a906a4d48cba1e8e1711984a9e90a2307566060c8b"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Bearing_Retainer.idw",
+    "sha256": "923562352a92fc41b0ddc368ce39cb7629cb51d9a34ce02f2307afceaef8b7dc"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Bearing_Support.idw",
+    "sha256": "9227d2d6ac4fedff17c3e8ebaa578c788e1f10b8d1b963877867709dd5bc628b"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Elbow_Horn_Adapter.idw",
+    "sha256": "2da604160251b8e94f451b595d13b68c9d643069b03870333cc180f9d7c6bd48"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Elbow_Mount.idw",
+    "sha256": "4e3fac0eff540440a1fa277a02aa4b12f428d46062164b63393464a4ad322337"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Elbow_Output_Flange.idw",
+    "sha256": "4c5b41ef61ba99091b7765fd5c5cdd45bb2df3d054e650cd5709ea4306e38318"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Elbow_Shaft_Envelope.idw",
+    "sha256": "6cef0fed79bc89bb3d8a3134afc92ba04ffe89faa54d597030ca9777de96db11"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Elbow_Support_Carrier.idw",
+    "sha256": "80ee74174808c104cb5ae8225e2062acc38e849b37f0f32e0087acd742f7e1c3"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Encoder_Alignment_Test.idw",
+    "sha256": "61188d94e01db7a2ebd0addc5b4406f55bd01b6386dde3e111cf81a026046b2c"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Encoder_Board_Envelope.idw",
+    "sha256": "bfb8a5597df2f794412033f168c7e5d9bd8fbd6d481f9e86c4316a2b29d2c6af"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Encoder_Mount.idw",
+    "sha256": "9f2d7c177cc0984a9c595cdbe6a020fcbc9ea653889c5a90ad118b0582a0379b"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Encoder_Standoff.idw",
+    "sha256": "b9f13fa71304b572ec921e48149d91f03f138dbbe9835761e46dd3f9a8362e29"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Forearm.idw",
+    "sha256": "f76afc682a964d68b323055a2a995a792722e688174e7439a70087c06a5d32ef"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Horn_Adapter_Test.idw",
+    "sha256": "5bef5efd472c09dbdc166f21e80ed1d1594bf485e47565a5b17c3eca46324132"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Joint_Stop.idw",
+    "sha256": "72c36ae392528c4a424d5da0ce5d1a055454b620d81a3204a1a0d0852cf6aa69"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Magnet_6x2_Envelope.idw",
+    "sha256": "6b5e6c2e704c713e98c08f6698fb6d5f3acaaeb7cac30d94a1bd4664023495cd"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Magnet_Carrier.idw",
+    "sha256": "a18901eddd3d328b60fe85278502745e82cc852d85857d19c7da1001f46b7599"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Payload_Mount.idw",
+    "sha256": "40a8de6da67e18351c9fa07d71e1b3968e46fc666f52e9616c80e6f7ed019228"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Servo_Envelope.idw",
+    "sha256": "111912c74d9bcc4d46a477c3e9fd43f053a6474c94a4b8459877e241e02e5e97"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Servo_Horn_Adapter.idw",
+    "sha256": "943ea46d78d408bbab557d7a269f405a91c0147b0281afd9e256d4a9742d3435"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Servo_Mount_Coupon.idw",
+    "sha256": "8a0b16c706bdec767380b6dc02e3f6ff96ded50154cdeb590478b4a69dd5c9d5"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Shoulder_Mount.idw",
+    "sha256": "583faa36ab82007255ed05791c4e0202624eeb85c5a97e523cce344d68cd83dc"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Shoulder_Output_Flange.idw",
+    "sha256": "1cb739d030bb1fd76b8a7fea62946ca85f7df3b1e23ffad2a6d0fb22bc127825"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Shoulder_Shaft_Envelope.idw",
+    "sha256": "cb9665d3f07242da0527faae97498544dda32415be1d40a524f55bb779763174"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Shoulder_Support_Carrier.idw",
+    "sha256": "908fe0516506a139510a473b77acbaa965086127b9534bc088d416d17abe9122"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/SO101_TwoJoint_Prototype.idw",
+    "sha256": "b0b2995c9288bfa73e5af9ad99fa55679b6da7fa9f1dfe86990703acbb1ca1d6"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Spacer.idw",
+    "sha256": "d617b3c80b8707716dd2b092b2cbc244d4b865839f4af8f2fdcdbbb36b12f2ac"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Spring_Base_Anchor.idw",
+    "sha256": "9c65dc73204296399f07cc9ae2bf45211cdc81ed13cb8257a5812c9cc765ed28"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Spring_Link_Anchor.idw",
+    "sha256": "c3d6256114b19d1f859d4a09219ee2318acea366d6df1064c1b1ad11bc24508c"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/idw/Upper_Arm.idw",
+    "sha256": "d2d3d3cd5d2882178a3d3552536719c504131d188e23ca50930de25a780b0161"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Base.ipt",
+    "sha256": "070d449516cac7fb56d72d0b748d83f3d1a12f655cf2b2d943bf15ca21e37615"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Bearing_625_Envelope.ipt",
+    "sha256": "274a09f75ce64af64046f5e9acf1c38cc1036f2d6e335fc5c2dc00a70cb56492"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Bearing_Fit_Coupon.ipt",
+    "sha256": "6ff378cb42a53d3640b09aa176986086767601b456a2cb7aee457f21a60fb417"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Bearing_Retainer.ipt",
+    "sha256": "7ccea7c9aa879a767c3e8f417b0e8628449fff8d91872ebc6ec685f5efc6ebd6"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Bearing_Support.ipt",
+    "sha256": "fdcc925e9f5d8737ec5d15ca8044bf7868abdce49b88a9914076a8def6cd135f"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Elbow_Horn_Adapter.ipt",
+    "sha256": "c87cae714bb2e8dc6dd9f48fdfec4cebe7b004d2e66f5723781cd4599db1cfd6"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Elbow_Mount.ipt",
+    "sha256": "f5910420ab82589015a5e9c24248ff8e479bb31a1068134927bcf56cba48495a"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Elbow_Output_Flange.ipt",
+    "sha256": "dcd6778e50ad94a90f3b29a041f005ca61c1b1259efeae1572cd795790d6e658"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Elbow_Shaft_Envelope.ipt",
+    "sha256": "b1821f5cc0c5d7336bacb704584938f1cbed740e3fabbe718a971c8313682890"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Elbow_Support_Carrier.ipt",
+    "sha256": "0219c4c2c5dc0e42503d9e2a14e5b22d9b604aa2d7e708daa4f654c756f78c08"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Encoder_Alignment_Test.ipt",
+    "sha256": "a52790f645d241527993399abe2f9066e523fed51d1ed15f3e608d3c0fd0a2b9"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Encoder_Board_Envelope.ipt",
+    "sha256": "6efabc95cc0092fd7542604de02e784a2fa83de62865a3d2c99eb9d4019f3737"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Encoder_Mount.ipt",
+    "sha256": "238fd45db177d231ae1bbff3bdf57626198347c671236d5002eea220fcbba7e5"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Encoder_Standoff.ipt",
+    "sha256": "45cce4ec651a1d445dcdf06c715bff8532f7481ed7e8e17e3a3a623829655306"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Forearm.ipt",
+    "sha256": "a49c502d2274ec3066942c3054c3d059e0fb6c36e929c27c013d08e1d4fe6c61"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Horn_Adapter_Test.ipt",
+    "sha256": "0c5bdc9bbd8d5d5e6698ce67aff48c69afb7412392d697c48f68d7509e3417af"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Joint_Stop.ipt",
+    "sha256": "306d8816f7ef18c0309e3ac7bef85362a60db4e9eef17fba14c24cca6691684b"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Magnet_6x2_Envelope.ipt",
+    "sha256": "f7fdd10c5f75d32ea8abb2765a6381457053fa16823d906c77fe432fc91c4dfe"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Magnet_Carrier.ipt",
+    "sha256": "7c26c783d7bbf93aa3f2efa66c1b48918059e1d2b5bcc08da5aa2de823dfdb27"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Payload_Mount.ipt",
+    "sha256": "67b482e017d05d7febe4f1ad0dff0e00ff5529ca1916be3ff003b5df02ad558c"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Servo_Envelope.ipt",
+    "sha256": "d0f406a2b00cf160f2b35a949eaca7583ee29110708c27a24e6d043325446555"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Servo_Horn_Adapter.ipt",
+    "sha256": "af9ca59d6093d056ad340612ce489c8fb9e2a42593aca2c2fbf1d4103e557560"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Servo_Mount_Coupon.ipt",
+    "sha256": "d99dd523407a64016b6a3a6f4ef77e5e409c93a4105e36a95b6bdafc6193387a"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Shoulder_Mount.ipt",
+    "sha256": "15996bbce87264b6ddf28c8f95146237de122f1d624cd2a06772b93b40a0d8ed"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Shoulder_Output_Flange.ipt",
+    "sha256": "0241e7fdab795884b59be6d3f8bfdf88f79ed0bc9690ed32782428673211b145"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Shoulder_Shaft_Envelope.ipt",
+    "sha256": "28f4625e0d29cc7232e77e7e02da1ff963ed5f0064bcc7dbd99506766e5cf0c3"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Shoulder_Support_Carrier.ipt",
+    "sha256": "d23ecca9c843b9b68f6e97a110abe90110f3120ac62882afe21b8a2141828ce0"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Spacer.ipt",
+    "sha256": "58d0b48d879bb8241072504e52a17ff406a152d386bbb74e648d66a9f284d0e0"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Spring_Base_Anchor.ipt",
+    "sha256": "b3659c7f4cb2c29ed7622bee143f78be0e073cf76551557abdf3084fc74c5091"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Spring_Link_Anchor.ipt",
+    "sha256": "d2bf28dbaa6959f21d4318a915874ad975a8ae2384a0c2ad9134373bb346ccac"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/ipt/Upper_Arm.ipt",
+    "sha256": "44ecfe594531af8218e281adab82421b15a09381e8a7e8689ec49bd921021d92"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Base.pdf",
+    "sha256": "d4feed718e693b0974eef6bb043f13783fabbe8171c63cf35fd78fcf3918d8a8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Bearing_625_Envelope.pdf",
+    "sha256": "d3eb25291c2d86b931744b15fc2eb517da79fe19ad8d6c1b744cdcebc7d94471"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Bearing_Fit_Coupon.pdf",
+    "sha256": "b520a5efb6442880e7967391619744a8ffd876ecb3cbb1dde45591fe2b35109a"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Bearing_Retainer.pdf",
+    "sha256": "0dd8b20576021efc2b5bb93774cd233520da75bf72b1ae94e8c6b8eba526006d"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Bearing_Support.pdf",
+    "sha256": "019bb51d0f46316a36e71a2a268c1b20cb895b82e56b9e2737d7e51cac636fb1"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Elbow_Horn_Adapter.pdf",
+    "sha256": "390605ec3bdd33bf82c016207eb4d2f349b255ae3a1d8a20bd020a6ebac85c33"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Elbow_Mount.pdf",
+    "sha256": "6d1a2ad87b2a221b698e509a5a1c3d75804d572ff22b7392151b9b9387dba19a"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Elbow_Output_Flange.pdf",
+    "sha256": "241aa0da07fd858236713071f7328e6ec0e0afa1da14d733cd63d3b0205d303a"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Elbow_Shaft_Envelope.pdf",
+    "sha256": "330f12e1a5b329c46962ab4f4a9624006a6a707e12045e99555e1235c8bc2666"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Elbow_Support_Carrier.pdf",
+    "sha256": "cfed8b116f242fde0dc964bc2a13f8d2c215827f96b9835d58728b9899cf3f87"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Encoder_Alignment_Test.pdf",
+    "sha256": "8686a93325f66786ee5e181c27c6da1d16f69f5e46d3c203d2e7efbb97200d90"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Encoder_Board_Envelope.pdf",
+    "sha256": "84e9f14f2863b904689a9dc3ba2400cf98eb628d94aad0d76a99dbceac07e5f4"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Encoder_Mount.pdf",
+    "sha256": "0bc94c21398eec8c54ed1c6ae3f6d40831b978e7871da89672360f5d1a0145a3"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Encoder_Standoff.pdf",
+    "sha256": "0f6fb0cff26d3f71e9df56a6749ad3ba4cc4d7b3801dae5a74b5cd5f608b280a"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Forearm.pdf",
+    "sha256": "ebde32378543240e65330feaaff21cc9a21845b3bc16711eba130446819b55e8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Horn_Adapter_Test.pdf",
+    "sha256": "b895b85c6a9d7f279c847b8cdb4d1a71a6a298ec98001e733eface0a3fc2b8e2"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Joint_Stop.pdf",
+    "sha256": "a871e04891e2037a576c32f45715546e2fe8eb5ebb24e57e346c135a48987482"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Magnet_6x2_Envelope.pdf",
+    "sha256": "f8f31565f285ea4b0c6010d62dc2fc9ba42714f28a03623cccb084bf62b2da20"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Magnet_Carrier.pdf",
+    "sha256": "ecfcedeb4b0c571a20bffc1c8acddb21ac2a49e1bce43a7b947183ed65e4ba51"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Payload_Mount.pdf",
+    "sha256": "4125f1179948a4b02b99775a86630ac7bd58490747c9636fc4d99474c9b2035d"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Servo_Envelope.pdf",
+    "sha256": "6ba450ad86ebe9a8d003e425cbeeb41833e7562f94bb71ad12ab73acdc2c1b14"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Servo_Horn_Adapter.pdf",
+    "sha256": "d290ffff24dfd32079a62d1f399466aab701467f4300936ecec7dd9af602bf07"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Servo_Mount_Coupon.pdf",
+    "sha256": "706946f38cd800da91ce6a9357b496759416fba56625ce916cf109a47ceaec83"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Shoulder_Mount.pdf",
+    "sha256": "cbff6dbe5fba58e77d5f6574788784e73bb29db286f8cf182e289a81afa3eda4"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Shoulder_Output_Flange.pdf",
+    "sha256": "1cb38a8a892ac27f8343478dfc2cd35be314824cc3129a91047037a1c8beb124"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Shoulder_Shaft_Envelope.pdf",
+    "sha256": "1eb0bcd37564f2a6f67ca9aa5939cadd9dcbb25380d72881c4f625d829753974"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Shoulder_Support_Carrier.pdf",
+    "sha256": "5bcb01d8c08dfecb1eb00ee53eea800d09543b11b18b5d364bcbc6aafe12f983"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/SO101_TwoJoint_Prototype.pdf",
+    "sha256": "b2dc8e97f1799a2d0dd0843908893863d0d02683aaa23fb18904b0c09d58f1f8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Spacer.pdf",
+    "sha256": "f70be8c6e385ae10e839d56ca5c728659b82de5ebf8aa58e80d1b77746f4fa75"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Spring_Base_Anchor.pdf",
+    "sha256": "9b45d5e8e9cc4d9d23885ff53ff6b82b3b084e5c3b0d44443118386679fdf7cb"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Spring_Link_Anchor.pdf",
+    "sha256": "9d5f55cbd407d4118841f8f1a1372b3f5887cbb87fb83b375ca84dd820f56db8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/pdf/Upper_Arm.pdf",
+    "sha256": "6346483a7e4c2003e53cbbecabed27cafc2983f588288a942792570e0cded858"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/scripts/analyze.py",
+    "sha256": "12f32a14da0dd87f92f1eaaa83a31b46358383f1efccf461e145eec29f39344a"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/scripts/audit_inventor.ps1",
+    "sha256": "1a1e66907424d75d8878814cf022c899261c84dd10b395fed9e61cb10c529284"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/scripts/build_inventor.ps1",
+    "sha256": "6d05133e002602699adfd1473767e1d2b3633897fc5c6f41cbd8e857acb4fcd7"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/scripts/connect_inventor.ps1",
+    "sha256": "f4411efb6ac39c47daf0ccb6a3e2abdea2352a2c69e9d130fc5485df6cc446c3"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/scripts/drawings.ps1",
+    "sha256": "5872b4af39516c2f95fd7b56b9afb8e0727ec3b73ff3268747a60beeb2dcfb81"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/scripts/export_assembly.ps1",
+    "sha256": "31e680acf376c901eba07cfda647b70a916a230040d82356ae291a28f3813edd"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/scripts/finalize_report.py",
+    "sha256": "445fdca6646d476658a077123ba3fe4e369f3b8e0ed84ae564949c9c952566d5"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/scripts/pdf_qa.py",
+    "sha256": "eeda3fc186a504fdde88b3bb0ee00b73d9598874aa147126b0a0ed52c6f92938"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/scripts/support_assembly.fragment.ps1",
+    "sha256": "8b4ee9013d72786c28055c590e96723a4c6bad6f6cdec281fbed9f062922014d"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/scripts/support_parts.fragment.ps1",
+    "sha256": "0eb64948f12ce0820aeb448a687f956fa1259e8edc45b15ff8080d126d313d13"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/scripts/validate_meshes.py",
+    "sha256": "d3f9ed9809e57b7fae76987fe273b94ea8f2f05b3326caa0a5bc4a1ca4bf4f65"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Base.step",
+    "sha256": "f9f74fa0b0a7bad70d9469988d0532ab439b8bdef1413f065d1fb082f1b68991"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Bearing_625_Envelope.step",
+    "sha256": "f037a10d98c18b4a4ec2b7c2c29376120883e09b7fc22de019662f835079e0f8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Bearing_Fit_Coupon.step",
+    "sha256": "9ad3a55399932239e69734cf562b41672ba5eaeeb339f45575b007e2862632da"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Bearing_Retainer.step",
+    "sha256": "601098d83b6d297ecb8f4f978175956fa80ad48cd007e5978b6bf188129f1707"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Bearing_Support.step",
+    "sha256": "f4e7b7af2ed2f9e64ce0417fd53c9e010a35465f051dccf4d157a7ba9e5ddc38"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Elbow_Horn_Adapter.step",
+    "sha256": "48a12b9a2653f31438cb30fbc51c4f9905c12cc67bfc74bb9d846e331d946e31"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Elbow_Mount.step",
+    "sha256": "449cdf5fccbfee20f2221f33939aca88da83b62464ddc6b1abb81ff6842f35a3"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Elbow_Output_Flange.step",
+    "sha256": "7f308f43a81c3275753f16f2956cf60d327b40bf677871163699f5f21b33411f"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Elbow_Shaft_Envelope.step",
+    "sha256": "5b688963f12e6686c16610aea7c186112eb234790134a474fafa37ebe8ce0975"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Elbow_Support_Carrier.step",
+    "sha256": "db01c49601519cada5628457c6b67b595f85aafe32a07a53713dd2b50ba6d123"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Encoder_Alignment_Test.step",
+    "sha256": "ab8b42bf6a8a194bd4c227cc3328298239c897eecf562601e4e18274d9246ba9"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Encoder_Board_Envelope.step",
+    "sha256": "3d002fbcd07f17e0dadb15844745a8ae1041e302ec67bb195d6ba21db7cd8a3f"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Encoder_Mount.step",
+    "sha256": "4d9c943382e20c123a154f9bed501dd567a8673903f8bb19833cd94e4e9bae34"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Encoder_Standoff.step",
+    "sha256": "d6e9bda1c028e6bf65430da7b4ef0ce12b46ec448fd2d6ec28290a7c80c17d13"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Forearm.step",
+    "sha256": "1a0df7c2244214fee3e529db53426accc598fce33870327de8616c6c766cda45"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Horn_Adapter_Test.step",
+    "sha256": "99bc451de227e280862b011f568ee2ed224a81afd463ca53d0ee5a7bbf6deeb4"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Joint_Stop.step",
+    "sha256": "2534635d60d0d5b4e41c5924e3be3d8197ab17bde5ef2d51c2c7921cc9cbf8b1"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Magnet_6x2_Envelope.step",
+    "sha256": "dd6228e2d5eb03820cd20024fd5ce9142c4264c237c22cb018ff72ed0710051e"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Magnet_Carrier.step",
+    "sha256": "b771e69c27e595532abac114100ac56ad208cdfe3b652cb4d167723b52bada70"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Payload_Mount.step",
+    "sha256": "b75182f451da24418a7a666fd75a313b334d32b8d5912378599d74978fd611e8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Servo_Envelope.step",
+    "sha256": "a49f329a9c88c1da14a95625be585e84d10689af8d58a8768f142c70a8149a63"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Servo_Horn_Adapter.step",
+    "sha256": "a1cc5cff999c23bf60aaea1494766f88653fb481d04648a82564be1e90d78740"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Servo_Mount_Coupon.step",
+    "sha256": "0996ec80027ed6f79964c496f58b477e7912279d1f379d597af3d5dd9b0f60d5"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Shoulder_Mount.step",
+    "sha256": "177db8e4101d2ae1423639ba475f4dbfbb84ff36cc95b1bb3671569b76a20586"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Shoulder_Output_Flange.step",
+    "sha256": "80214b0cae55e5b7e3021c72cbb0c6b56d12d67775a67868e1befd5bb3dbd506"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Shoulder_Shaft_Envelope.step",
+    "sha256": "4e420f49b485761c92b1a1de25ca3eefba301f5644c182e37a712caec8955ab8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Shoulder_Support_Carrier.step",
+    "sha256": "a08017808e32972c305d682793741daf6a8a0de9a2c28b8b58ba7d6b3dc22c04"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/SO101_TwoJoint_Prototype.step",
+    "sha256": "f4f392d32f6d3d83c536be973a53e233a2131c862a4fb3e52ed32eb4920e088a"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Spacer.step",
+    "sha256": "cbd74c849fff6d3c53b6b3e16c55bd9153ee73e6805318444856eadbfc2477ed"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Spring_Base_Anchor.step",
+    "sha256": "e7ba3b7955df6ba5dd5e9296b050bd4d3ed5f1f2e9e88d095608b952192eb7cf"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Spring_Link_Anchor.step",
+    "sha256": "d988669aa418b18bf9b08118d55f0a2c92a3abda26d2c380580822e2489634a3"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/step/Upper_Arm.step",
+    "sha256": "4cbbcff9dd509b0910e3a4a451e874d0676922daf244c49d3323e0b11444c589"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Base.stl",
+    "sha256": "5f700d683d0412b1c66067740a80c63a0c6d6793dda3d5ebc0ce355f424d1e80"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Bearing_625_Envelope.stl",
+    "sha256": "5a813e2b75dd7908449a513302956310acef8fac6b7d02a7d7635f51aa478ae2"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Bearing_Fit_Coupon.stl",
+    "sha256": "967dd5456d3d39f02e53b124df2fcd53a6ab100d3fa9f83caa7e0cb72b998256"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Bearing_Retainer.stl",
+    "sha256": "206386322a285d4491b03409ee4ec4c16a7765749923d1b198773d66fbac998b"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Bearing_Support.stl",
+    "sha256": "de6fbce17899c14d32a3d3640c2b597e4b0c916539f383b4410bf9bb492248a8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Elbow_Horn_Adapter.stl",
+    "sha256": "907598926752c1d185b3770166440596814cc2519f4272696ee4048921e02b22"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Elbow_Mount.stl",
+    "sha256": "e8f9c40111788377ebbe8e545c88fb901cac7a444a1951cd90af4a1f6af87c28"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Elbow_Output_Flange.stl",
+    "sha256": "3f0e34bb4f8f84a1e0666539386c75755e6b68fc63229e77cdc56da3b91dd5c4"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Elbow_Shaft_Envelope.stl",
+    "sha256": "ebfd368954ae8ed2cd0f43a0145e3c24a5b01df579d5f9dad9265a49eff2e782"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Elbow_Support_Carrier.stl",
+    "sha256": "c335dcb951af419181bda2112e509cef8f9f137813078d7b38afeb41746a9d40"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Encoder_Alignment_Test.stl",
+    "sha256": "8cdcd34d0dfabd8c69f06dea060c9f8c035c9a2d3253f6992c33be5bd5062173"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Encoder_Board_Envelope.stl",
+    "sha256": "46dc526336bf19241e2ac7da51ae36a46addd0a306b8a2e1d89669fdb856b599"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Encoder_Mount.stl",
+    "sha256": "e73c501d6121764f2b555b0b00ecfa2190c1a1e7ebd65d158d97655de0b1ff57"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Encoder_Standoff.stl",
+    "sha256": "dc1009865410b7df7518f67b9a1d06e74e5d520af0d2ffd47bea93edf3022fb8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Forearm.stl",
+    "sha256": "4ea251dbfa392b7cdac44476d9b00cc2b64898a6fb4bc7196642aaae55556af0"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Horn_Adapter_Test.stl",
+    "sha256": "54d68337fe6f7342b8c4dd1bb0410631289a7fec1823c326a76b770fd01b9175"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Joint_Stop.stl",
+    "sha256": "7df1461cc8b4237771d14585cbc599a2e6e65a556ea7e71fb9894bd8eab41605"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Magnet_6x2_Envelope.stl",
+    "sha256": "864d818d09d92a1cca263aa0c597de87e349641580de4f8f50fe8375c730875c"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Magnet_Carrier.stl",
+    "sha256": "ea12c006adb042c80db1bfd901986939d9533bd83c5071ac51dfda4c35e4e475"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Payload_Mount.stl",
+    "sha256": "b0e20307e0114f71a85704875198de1e91e300c3403f3f9154c4a370a1f97ef9"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Servo_Envelope.stl",
+    "sha256": "1086792ef9379027599f250e0086b6ea64375adc2e94df6c1b51ed1fade35e5d"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Servo_Horn_Adapter.stl",
+    "sha256": "c912a3653f728d82466ae6a55e13a1e7343e2bf54729d7a9da88c211a7e776d1"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Servo_Mount_Coupon.stl",
+    "sha256": "2f1b9400ef19d13795e81c600651bd14a007bc8567b8f038d0225ba13c6dea35"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Shoulder_Mount.stl",
+    "sha256": "bc5cd63b4b74845c902802e98413d6108f632973459145fa8481971d1f7568e9"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Shoulder_Output_Flange.stl",
+    "sha256": "bbbe22c0b585435c0ec82a49ef70037408978614526b231480a33ccd47798b26"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Shoulder_Shaft_Envelope.stl",
+    "sha256": "de617075ac3836392c456436614027aba1dd7952cfb39a6c3d251a1a4842b2d0"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Shoulder_Support_Carrier.stl",
+    "sha256": "e51e34643f17ab2c138dd228820926c3b71219d71a3f35569cfc55d27793e589"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Spacer.stl",
+    "sha256": "e33705d410614f7e6f012d301289fcd44464a8f81cb7dd84b85bb0deeb25c4fc"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Spring_Base_Anchor.stl",
+    "sha256": "67d4d481a6e0f1c450d1f8d246a90769629701a9ae56e24b041e306c1ee97c24"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Spring_Link_Anchor.stl",
+    "sha256": "8e71278511250ef82f6f6b624eb7c691db692005bea22c6a2df54ce92662df59"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/stl/Upper_Arm.stl",
+    "sha256": "7d7f42cc743a8a915e98a96f64f6625b930501d10414e7efaabb7abdb067fe5c"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/tests/test_analysis_artifacts.py",
+    "sha256": "a683793ae40cad5ddc80268af86694bdff6d83600dd5a054648d4562a269e58b"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/tests/test_two_joint.py",
+    "sha256": "f4f07782b68d4adc78deb4fde3352346cae26f68b501465ebeba07a6f72612e7"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/assembly_mesh_preview.png",
+    "sha256": "975fce366d64f4294a3350e5a84748881b3b0d237821c26f44afc4ed8fc7901b"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/coupons_mesh_preview.png",
+    "sha256": "7f2e03740fcd49d1063d84c8534fcc5b7baa9c0b9c9736c4dce2f730957613f2"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/inventor_assembly.png",
+    "sha256": "09dd386320eda1f75dc37688bfaa121c9d5c9809612674b37563bd8ac9364995"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/Servo_Mount_Coupon_drawing.png",
+    "sha256": "fc46b054401ce696581b862126fadf0a1a7855c28dd2bcf64f4b601e72351572"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/__pycache__/joint_config.cpython-312.pyc",
+    "sha256": "bbef13be2a71be54362071ead619bed43bd2491b2858d75801af282ea12c91c0"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/__pycache__/kinematics.cpython-312.pyc",
+    "sha256": "37d3f286635b14b1bbc90b4c0f09086321ae24ef5d69a6b8beb847820d5ddc14"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/tests/__pycache__/test_analysis_artifacts.cpython-312.pyc",
+    "sha256": "cce7d14701b396307728f5a41d1cee1d7d7bfe0c222b413e8016ff9ce2d99c88"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/tests/__pycache__/test_two_joint.cpython-312.pyc",
+    "sha256": "ad7684c0950ea11a470837f763ca80cb47773ec96b9cde868312124c2c5a81b8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Base.png",
+    "sha256": "86da80db6a2415ea278b687d602936206df492a72bacffdcd686b3143804622e"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Bearing_625_Envelope.png",
+    "sha256": "2ff496842af2883857183402e43fa957d307aac02372322b509d27e2ffa316d5"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Bearing_Fit_Coupon.png",
+    "sha256": "55371de590e31b9ac583f772f30dfafc8ed85f4af34f8251960f667ec32383b1"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Bearing_Retainer.png",
+    "sha256": "3b529a0d7bb65774e905246d269a4c6bb665305aaba61a74a68354f45b301f7e"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Bearing_Support.png",
+    "sha256": "d21cc708c1c452eafd70b2a05261578ea6e86c841ab524ffc7b32078cb184368"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/contact_1.png",
+    "sha256": "a36beb6231762e801df5da5e566ba3c290f12de499378890c090ca437b8d0da9"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/contact_2.png",
+    "sha256": "2d74e708f009d61f23c11b6d3c6c6676ae32a53991cd8cf3a92bb1f2e3d8e782"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/contact_3.png",
+    "sha256": "b6f4049fcf6ad3d9ece7d44cd8d7804001f971fd8cffd4782de4ccc6d33a34d3"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/contact_4.png",
+    "sha256": "4ea55449b5d7aaf5068d16659dfac9857567ed62027dddb18afd9e5ad86b6f84"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Elbow_Horn_Adapter.png",
+    "sha256": "442733d3740361e7b7edf572eda1b92a3df0ad1595fffb88f89a03513319c1b0"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Elbow_Mount.png",
+    "sha256": "6cf327cbdec851c10ffda6548b49603e9ccc24e71014941d7b78966d74806994"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Elbow_Output_Flange.png",
+    "sha256": "d91dd613405fb57d26fa2dac7708a79a6d612d6e3d41f950dbf4e421176ab793"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Elbow_Shaft_Envelope.png",
+    "sha256": "2336506a7bda50d21f90fb5e329083bf06153f290ba9b04f2e3f9d9c8cafc83a"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Elbow_Support_Carrier.png",
+    "sha256": "dc6c34845a2d5b6d832210ebedd013b7e2d3fc13a8b7ee0d985a371aff60f0f4"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Encoder_Alignment_Test.png",
+    "sha256": "66ab97eb17ff5335f0ca41992c47b4474d50885eea7045c53f9e128031071bb6"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Encoder_Board_Envelope.png",
+    "sha256": "b0041edb29b01b1545fb9446a269eb2fd46d54439c5cc31c282dcd164268d182"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Encoder_Mount.png",
+    "sha256": "7849079e32964d468053607ac5d4a082a1af61042cedba513fc90f45973a8133"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Encoder_Standoff.png",
+    "sha256": "4032e2778051840a88cbb8b27d2e63697aa6bed7cbca6e586dd3dae096879681"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Forearm.png",
+    "sha256": "c7dd0f25806212070a2f32b1f847a107012d9190883e69cafce4ee9121970be1"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Horn_Adapter_Test.png",
+    "sha256": "cc4aee08349d50a52980792e01b4581b2db544112153c09e864209e63fb8e949"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Joint_Stop.png",
+    "sha256": "bd513b189f47e885275206464afe50843167037090c721d59e2ef5060106d1df"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Magnet_6x2_Envelope.png",
+    "sha256": "e89185ac0d88bb82cde9e760400730f51c66b3786119959cda7512e0042d0cf9"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Magnet_Carrier.png",
+    "sha256": "399477d5b9016ee2debe6ab5e32f2f326afd5a9532a84523de9d00c14e0991c8"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Payload_Mount.png",
+    "sha256": "21cc4b40da271875860fad4cb64a8628210c3988e5e699ed76ec7f5dd99d761d"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Servo_Envelope.png",
+    "sha256": "c053c39dff8d880bcd43535f5bc0a800408571bdf805aaf3a252b4da79eb7b9e"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Servo_Horn_Adapter.png",
+    "sha256": "80fb77d5d69582ea09f71887ced0293214cf7e568de8b0401eb58a19e0d1bc4f"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Servo_Mount_Coupon.png",
+    "sha256": "7688fcd47a388fe057663d8c7788c00c5b495172dcac26d5545ab308ec91da15"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Shoulder_Mount.png",
+    "sha256": "abd7f6a13e88bced36263b0a07bf09dc828b9aaf5f379c7db3957b8a3060a288"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Shoulder_Output_Flange.png",
+    "sha256": "2d89e2392173e76062e26c446d1e97c32745e6e585c260a59e49c154133309c6"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Shoulder_Shaft_Envelope.png",
+    "sha256": "78b981b9197f389e54c7ec3d68c8cd07a37af5b7e701154cc7d5e93c4ff11d5e"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Shoulder_Support_Carrier.png",
+    "sha256": "435c6d206e331506232243caafd1d4bb09d4182f8433bf9c57f943351cb8ae3a"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/SO101_TwoJoint_Prototype.png",
+    "sha256": "0bc18337b5fdce5ba0c52b580f9c6128679f611b179c893304e633c5bbff3cff"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Spacer.png",
+    "sha256": "403d74c777b33fa958a13cc9cf700d366c41eb05a8ea80d696957646ce2f58b2"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Spring_Base_Anchor.png",
+    "sha256": "45fa48f25719e403cee47bf320d633490cf00c1c060158fa6e220e611928435f"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Spring_Link_Anchor.png",
+    "sha256": "bead8ef5dcc33e9da52daa84da767b6d8970d1e17f7b202355aeef83fe60beed"
+  },
+  {
+    "file": "mechanical/two_joint_prototype/views/pdf_qa/Upper_Arm.png",
+    "sha256": "56bbbf168767c96f7bfb978899088c7862eb0490d366c9147709f51bf1da3b49"
+  },
+  {
+    "file": "mechanical/two_joint_revb/analysis/assembly.json",
+    "sha256": "e88bba4a175be737ac4e2e417495fcdcba6c73ff50a26e6b343c92660f68ade4"
+  },
+  {
+    "file": "mechanical/two_joint_revb/analysis/mass_properties.json",
+    "sha256": "861a2a0c23306535a8d7472d047e4900653c1a5bfc777495b087f2dadcf825c5"
+  },
+  {
+    "file": "mechanical/two_joint_revb/analysis/motion_interference.json",
+    "sha256": "51611de9e1ecc6bfd2aba5a1cd7506f09a69e3d66b24493b467a910f353e9497"
+  },
+  {
+    "file": "mechanical/two_joint_revb/analysis/torque_analysis.json",
+    "sha256": "ba007df7f6eb01fbd408c4a5813d62e2498df9d9603fe82c650cd1da721c5340"
+  },
+  {
+    "file": "mechanical/two_joint_revb/iam/SO101_TwoJoint_RevB.iam",
+    "sha256": "9b390aa5496fcde6d6f20856015296217aed79474c3da048906cd8a1a070eb46"
+  },
+  {
+    "file": "mechanical/two_joint_revb/idw/SO101_TwoJoint_RevB_JIS.idw",
+    "sha256": "64b04c40d2cbd47e4b99579fe37c90ab206b9221b72e20942e33742e0a806900"
+  },
+  {
+    "file": "mechanical/two_joint_revb/pdf/SO101_TwoJoint_RevB_JIS.pdf",
+    "sha256": "5e47bd23e4c7bbbea90da18204ec9c83a315176758f6170a419068bce26e36fd"
+  },
+  {
+    "file": "mechanical/two_joint_revb/step/SO101_TwoJoint_RevB.step",
+    "sha256": "57bb7057fe2e4b16ef94b207ed3463638567bec028b05a4f818add856d5cfc1c"
+  },
+  {
+    "file": "mechanical/two_joint_revb/views/inventor_assembly.png",
+    "sha256": "ca08be11ec5ce2f6e953885d8389181ed958571c89ee51b56701ff6866e10402"
+  },
+  {
+    "file": "mechanical/upstream_reference/native/Motor_holder_SO101_Base_source.iam",
+    "sha256": "c9217370e8a88b667c1803a99c73acd9922ff3c9996273549d0c10b58436c9d5"
+  },
+  {
+    "file": "mechanical/upstream_reference/native/Motor_holder_SO101_Wrist_source.iam",
+    "sha256": "7080ced79bf26c852974df292fb1fb8a3f622b5d1670e921f5fbd4e4a48f05b8"
+  },
+  {
+    "file": "mechanical/upstream_reference/native/Official_SO101_Imported.iam",
+    "sha256": "203c5401f9175e3f3bcadb2849504e046cc74f0648026e453f3364b7df9eb7c4"
+  },
+  {
+    "file": "mechanical/upstream_reference/native/Under_arm_SO101_source.iam",
+    "sha256": "98de8b59c6f4a70962fd145beafc31c0499ef8222dea6a567a5f572d06f59eae"
+  },
+  {
+    "file": "mechanical/upstream_reference/native/Upper_arm_SO101_source.iam",
+    "sha256": "1c8c744f03765e23605c5dab672e0e8461e4e5d7034bf5d90db9192f8df32fe9"
+  },
+  {
+    "file": "mechanical/upstream_reference/native/Wrist_Roll_Follower_SO101_source.iam",
+    "sha256": "0ce8a42eefddb3a022941dd930ec867dbff9ad61c224b3af9d8dae9e7fcd228e"
+  },
+  {
+    "file": "mechanical/upstream_reference/native/Wrist_Roll_Pitch_SO101_source.iam",
+    "sha256": "4e7ccc9552c92cec5742a01a5a4cf655ff961116e18df41174d390d9081416a7"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/add_revb_base.ps1",
+    "sha256": "4ee6b88efcfd7d562497283d97dac3c8b20771fca826e619ada44bf7e21b1c26"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/analyze_custom.py",
+    "sha256": "5479c363189780f109173719d13fb1fb290f4e1661afadc98bc2400cacbaff84"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/audit_custom.ps1",
+    "sha256": "e7f92d4d1facc414f897b6ee9cd7d1551e89482641195a802b7809ceb6c902ae"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/build_custom.ps1",
+    "sha256": "e4a58a5cacb5e7cb736406966ef1eaf6e3f934afe7d769621b1ad995e38059b2"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/final_native_audit.ps1",
+    "sha256": "49406aecb270f5c3cac87f514d9e267687d1709955634cffbeaad8bf80e2025f"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/final_report.py",
+    "sha256": "f4128a646eb85701f10646e5ea2fdf9775e995086d46a71cf84fe9aea0f17ae5"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/fix_assembly_drawings.ps1",
+    "sha256": "6d1051df8b205f3a35bca2fb4b50b7da4be17806c5f821d43799cebe501aa135"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/fix_part_labels.ps1",
+    "sha256": "881a820bc2ebfd5c84ff50994b3c7fa5f4ad462d353568e445cb2bd902cde442"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/inspect.ps1",
+    "sha256": "1332a8f27d3580e4d5c254cf5937e7c35f24ed12dd03a5ed0b75530dbfc1e29f"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/jis_drawings.ps1",
+    "sha256": "b5058b18026faf051d2afec69e8985f46a563a7f6ff09510dee57ca5d4a5945c"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/measure_axes.ps1",
+    "sha256": "23d8245eef254ad1bc9b6b984ba31fd1eaf912e10dc8bf755a324af8d0e141f2"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/pdf_review.py",
+    "sha256": "2f6be85a755cab2339aa1768ee200167f7aae6e4faf3f90ca0876777824249bf"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/prepare.py",
+    "sha256": "16824ed3c46569a8f940d2e59030288e8cdc45e5478aac31dd6b1242a7c826b3"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/refine_drawings.ps1",
+    "sha256": "db14fd81f74a9d7b1305f3177fd8fdb0075d58d9227b8a026281f3878326569b"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/reports.py",
+    "sha256": "5ed7bab76cacc2f36b9feaf74b3c17f2cdddd766fc448232853664a71efe5d9b"
+  },
+  {
+    "file": "mechanical/upstream_reference/scripts/validate_release.py",
+    "sha256": "fbaa4b7d6f6ce62682af4fcdb499d5af28374d036c80a2fa14ad14ef7daeeec6"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Base_motor_holder_SO101.step",
+    "sha256": "f13462eea875727ae7cec7d190c59642444b9076c76cf2423bbe3c5b6c469587"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Base_SO101.step",
+    "sha256": "95209ec6a3ca06b1ec084f72d9c73324bdcf9d0e17213ef293f45f95a3993288"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Motor_holder_SO101_Base.step",
+    "sha256": "fb2ef4603324ddea53ab655f6ecd48c7f5a72dd7603e57e92c60c0a8e67a9083"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Motor_holder_SO101_Wrist.step",
+    "sha256": "e58d86502535a5a4936677e9d934f1bda9417e83f7480f475061728c146739c4"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Moving_Jaw_SO101.step",
+    "sha256": "dff53ace072470c9a6c84dbb68dd84f9fd0959429f181905d9d05fe3007549b5"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Rotation_Pitch_SO101.step",
+    "sha256": "a392681efb05bf4009c17115a9b3e37bbee9d2fcfe25e2066b11b95aaa380915"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Seeedstudio_Mounting_Plate_SO101.step",
+    "sha256": "7410dc0e5f53c89c14f0679f10c566e66ba06f6d9993f9ea65055874d0914a26"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly.step",
+    "sha256": "f754be35708382b05ce65768ae33c612f91dca11ad19d14807dc637eb944ba3d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Under_arm_SO101.step",
+    "sha256": "677a1a57efeddc439d97ebdc309b1c2853cfcb83f14c7d695c312fcf13a89713"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Upper_arm_SO101.step",
+    "sha256": "efa19a6dd2ccb459248500c76629cfa840630e7e15d9e146394d31da1525dd61"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/WaveShare_Mounting_Plate_SO101.step",
+    "sha256": "16510f5aedf04186d34aa279207d0d354d4b08c1d179a46a9974b1430d0702f8"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Wrist_Roll_Follower_SO101.step",
+    "sha256": "b7f9d59f7991f425fff784eab07f0bf65471903dd6d6177e7cb109bebcd02b35"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Wrist_Roll_Pitch_SO101.step",
+    "sha256": "39c5e78647d471ab4e4328ec6d00f06ad90dc48a0b1ffe4baf1a951c1304f74b"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/Base_motor_holder_SO101.stl",
+    "sha256": "e10eb1296560bc00dca91af5f35d9be637be026a5b544c0ebfcac51501aa3c70"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/Base_SO101.stl",
+    "sha256": "19f3c6baafc23a3bc92805762e906df9514d1008be84d490a90a9096ffdcf3c8"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/Motor_holder_SO101_Base.stl",
+    "sha256": "f9971aa805e2d6fb61726d2787e752a6fe0ff21d3c66023296ee4c57a2b100a4"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/Motor_holder_SO101_Wrist.stl",
+    "sha256": "936c84ed2c918b3ec14e2c3ec3f742f47bed10a4e3d0a2c9bf7869d0a2a55149"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/Moving_Jaw_SO101.stl",
+    "sha256": "403763bbab8656cc7ce5ea6374741d0860bd19426b5b4b0041de3a2c1275f90b"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/Rotation_Pitch_SO101.stl",
+    "sha256": "5ef34a5420071627d01323be13e80b7ac8af0760c72d8382c0664c914f281800"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/Seeedstudio_Mounting_Plate_SO101.stl",
+    "sha256": "96942f7245dd3b384090b228d2e37c18b7dc92f14295f7036a421fcd78e5090b"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/Under_arm_SO101.stl",
+    "sha256": "537b03e68ff7c061da4cc70bf0b5a61018a76c00bccc72d61f022d1644230db5"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/Upper_arm_SO101.stl",
+    "sha256": "96333913c296b13ecb1c81e63e57e4352fb6b5dea7722c84ec1fbd5073e23865"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/WaveShare_Mounting_Plate_SO101.stl",
+    "sha256": "6275f05ef28cd407be13ea882735282c4a8b2ef64930c77a9e7b5a3811740be1"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/Wrist_Roll_Follower_SO101.stl",
+    "sha256": "3f47a4b889b95a4c71046bda9ddfc9399d96d80a57ad7fc079700e240323a302"
+  },
+  {
+    "file": "mechanical/upstream_reference/stl/Wrist_Roll_Pitch_SO101.stl",
+    "sha256": "14eb2f45ab1b279025ed2aea358f0091aad6aff967faef58527fd216f28fb6e5"
+  },
+  {
+    "file": "mechanical/upstream_reference/vendor_local_only/XL330_dimensions.pdf",
+    "sha256": "948b707cb26a64501c03fc45b1a9557b69a554dd5d6934f02e8e6f86cf2b46c2"
+  },
+  {
+    "file": "mechanical/upstream_reference/vendor_local_only/XL330_download_response.html",
+    "sha256": "66547c5269221f6beca512f1f757b0c77d3c8567beaf2de2a0ba9d988b154eff"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Motor_holder_SO101_Base/Part310.ipt",
+    "sha256": "c4d2011842bfd8752eb0d31a1c9d88ad866c4901828dbc68e274177e45c3c0cc"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Motor_holder_SO101_Wrist/Part321.ipt",
+    "sha256": "cdfa7fd742ad13588a9bd29d8f4c22a227ce4e98a3d6ff4b5a3e7b43e76b08b2"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/050375033 v3.ipt",
+    "sha256": "9ad9b7504598de6fb854b0eddf8f9515897bb17042e22bb31ca5f31752aff29a"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/1653192640.iam",
+    "sha256": "274507258c49f88c85b95c48b2f2379084190fdc2b52cc794810ebbf3f3afc10"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/1653192640_1.iam",
+    "sha256": "1fc42c776875b0044a493640a45e46c8b4246beba2286c216b175159b4d67a35"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/1653192640_2.iam",
+    "sha256": "844d32bd847ca27e90a53d23c87bd775c9a5f0d9cb2936690ef24074dcc53025"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/1653192640_3.iam",
+    "sha256": "dab0493fd3e7f4c515f4d385a9e2fac98b9a5b1a454d51cfce95252fd3276bd2"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/1653192640_4.iam",
+    "sha256": "c45df2d2b524976e5cce7ec877a2a41e06a23c31cf2227ae577189fddab0eb20"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/1653192640_5.iam",
+    "sha256": "a0abacc4ba9796c63111d8c765f9ef59cd656898fa8b2c9c35fe7ee07dc07c4f"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/1653192640_6.iam",
+    "sha256": "7286173c22cd32f3ea890520a4bf96f804cb0417cbc52c876279399210848cc4"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/1653192640_7.iam",
+    "sha256": "b20ef852318372620ed39b496976296f436aaf94874978ce7928f5956afc57ef"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/1653192640_8.iam",
+    "sha256": "a56f7d7a1e59f2d53f19a520c52ad33d501cf6d3aec01acfba70e9aca4b9a73f"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/1653192640_9.iam",
+    "sha256": "b5875c6e04f81466f5331a6216bfc06413da38601ff0dcaf30e49f3778823a4b"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/1653246912.iam",
+    "sha256": "3dc4768163656ad0b87b618770a935e8adb2cf1373dbb1cf9a7d36b263fc37a2"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/2_1_200.ipt",
+    "sha256": "08b096d5ae8d68cdbc1851734a221221be6de80a0c56a7810288e486e129147b"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/3_1_2_A.ipt",
+    "sha256": "111b753126ce7428454ff73f914adeaccc6c2148d37876f65ad1067a10f00d0c"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/5_1_2_3_400.ipt",
+    "sha256": "1af3db51191fb932c82b03da2a65acd69552e2b22f498284d7fb389c748c362e"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/698b116-264-211.iam",
+    "sha256": "1d66a36fb2cae372f80fae1fe8e5fbff9451d250c78b6c880909cb227d69fae0"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/736125216.iam",
+    "sha256": "38a52b7faea95281a48fea7b917e23da068a43a47548239c3bc26009a867e86a"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/736125216_1.iam",
+    "sha256": "2dd8d3f0fbd0e686341a69f404d88c396c3701f96a870a2e2ba81449e77551e4"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721632.iam",
+    "sha256": "0138d20a5b67f15f513865465c7babd5c1114aeaf170f14334adf16daa4c2964"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721632_1.iam",
+    "sha256": "206734a71274b2f12f1f8e68727e1e2490266d909a68e3ef68cb32c3e6790ac8"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721632_2.iam",
+    "sha256": "f3265b88a48f17fd510893be6a218bf5f590ef9c1fb0b1897389d100ac3823c7"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721632_3.iam",
+    "sha256": "31d6908970b6369c283734839717558375294dfbbedbd079d340e9de09d857b8"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721632_4.iam",
+    "sha256": "f12333ca9f14e6597eef80e2e0e9d7843aa5a16e9cc5fc62b7f62eb0b12a0c4a"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721760.iam",
+    "sha256": "a02fbeb88bc42882c189cbae69fcd3d3f5ad59b4c718b5031496b1ff1d215c93"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721760_1.iam",
+    "sha256": "3f28c6e5e80a6f09229d6634db6737b215db45a26f2fbdf1e58e5fada7c28a06"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721760_2.iam",
+    "sha256": "f4b85799162a2640069f289afc974af7fab6ecddfc398de9aa7cf5af9c971636"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721760_3.iam",
+    "sha256": "84cfa7c26d6c99855e54620664c02dc9d325d8d72c6e066c985adb49baf6a721"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721760_4.iam",
+    "sha256": "3108df046167cb88bfd1ac43b11d11d1862b3b4be0d3fe383633e9b5516b6e62"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721760_5.iam",
+    "sha256": "30c282f993ffb81d2f6f868d6d67dd3963584153dcaf01c83741f058a29cc926"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721760_6.iam",
+    "sha256": "222f89d11733f7bd255f026a2b1e8b6353a071d1d51a55be0a2003227945f35c"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721760_7.iam",
+    "sha256": "66ee1770ada52d4523086cb0a821c72443d09fb04dd12df24bab75c65073fb56"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/840721760_8.iam",
+    "sha256": "d9e820c52a4a214d2a06bc9e3ea23b081cebc79474169701b8d67f2fe1ab7959"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Base_08p v18.ipt",
+    "sha256": "f818d1b5eb99a4a1c64c072c39cdd56d2d94f5b678e9ce667d1882cc106f0c51"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Base_SO101 v12.ipt",
+    "sha256": "77cd8570a2425efa959fb6d6f76d30a0981bcaba6680b4fc15cab6ec0f75d333"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Board.ipt",
+    "sha256": "83aa7166b972ff96c7e94586e619846683904a8e3f04199a15c6bb56bec4b949"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Bus Servo Adapter (A) v3.iam",
+    "sha256": "7fe04aea3fd91a51059c0475ccd60674c44562ec83879a7fa4f6d0348318db9a"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C1.iam",
+    "sha256": "3a4b2e343ac7226833b8291bd6ff030e1201634fa91d7e996cdd0d9c3387dd32"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C10.iam",
+    "sha256": "a0693584a87c0a987fdff418a9042ddc328ac8d19cd3e1d065019e0476e69f25"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C2.iam",
+    "sha256": "ea7b15be0467891c13565971465a80e24d5efedc448ebb60836bce871eb62581"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C3.iam",
+    "sha256": "fc9fe306525d480de17d2bcf902293fcaeea2bf1527173b478af55b93fae2b7c"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C4.iam",
+    "sha256": "b9f753029f85784709723698982d05a854c9fdec14d40fbe732e53f3b65d913c"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C5.iam",
+    "sha256": "9e467bb36e24d9a3e219bae48c31eac671ffcf97a253b2b1602f5ec711290f6a"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C6.iam",
+    "sha256": "1c028c154dd323e3bf5f0f50163aa24b596729abf058b8dc5ca8266ce67d9a4a"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C7.iam",
+    "sha256": "48f245d198b30e5d61ff528de8bf5dc760acc3653a46a8eab48be26aa599a675"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C8.iam",
+    "sha256": "16076367826515fd459faa591dca4115a74d4a06e85fd569c96623440340150e"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C9.iam",
+    "sha256": "7cbb623e85ce1a441230b3ec4b737c6a1e9788231f6140fc45a483acdb7d0038"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Component1.ipt",
+    "sha256": "fa6005276cd38b2f46ad7558439ab79879bd5fc7c3449dc0b1ed01683a4bc3ff"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Component2.ipt",
+    "sha256": "db5f059fb67bc801ce05dfa267dee05f991f994752d7198d2dda4ca585a1c50d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Component3.ipt",
+    "sha256": "5e228a5e049cd2aa48a7b945500c21934ed2aff77234f1bcb027d638f3434b40"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Component4.ipt",
+    "sha256": "b12de56332835619a75af7d335f53a383c51418945fbeadcba6dac0fb5ef2232"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Component6.ipt",
+    "sha256": "23cf55d42b8de51c92933b39a3e5a5a9c68c1b55fcbd58b9f71c6e4077126345"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Component7.ipt",
+    "sha256": "2f3acba3150acd0792304a01450ba62d1d03e8122150397801612a6bb816ca95"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C_0603-683_AF0_ASM.iam",
+    "sha256": "1562b8e14e6822f015684a82b86039fa35890a644bedbc0daa46a6a33854fc81"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C_0603-683_AF0_ASM_1.iam",
+    "sha256": "14893e6519f579ca3348ceea6de8d671a6bca3c827cc053d6ed1afb98abb1f2d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C_0603-683_AF0_ASM_2.iam",
+    "sha256": "9a2ee72eb3b3f12ce06664ce0b3e47725a3396058b18123eeaea1f5c23d47621"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C_0603-7177_AF0_ASM.iam",
+    "sha256": "518950f6c931e3b23eecade9cd16299a5a0ce934c094fd0d73d6aeb951f2f64e"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C_0603-7177_AF0_ASM_1.iam",
+    "sha256": "cca16e3fcbc47ca4df0babad4d12575da4937671ba733d28754af961daea499d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C_0603-7177_AF0_ASM_2.iam",
+    "sha256": "28dd2307d116a974973c7246b1c4f1fdd41de7786aa437f27f16d1e57a46e8c7"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C_0603.iam",
+    "sha256": "dae7cbac33a0f7627165b9477fb1f27b2468225098a07f551cb12bc96e729090"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C_0603_1.iam",
+    "sha256": "21e125a3fafa989544e1350f7e651586aa7b5810053e1d4d6f4ba23207937c79"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/C_0603_2.iam",
+    "sha256": "18f96e3334daafe56908f5430303866e45fa353408cb2b482c0efaf8e3af8345"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/D1.iam",
+    "sha256": "fe5e0290dbb5d8ab4de0fd8c7d3f4b4dac3d94109f797d094a6db6f00e6a60f8"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/D2.iam",
+    "sha256": "1711fe7b01a7222198e3151fa9ebaec85d3c7c7500f826e6f4fba32b310f940d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/D3.iam",
+    "sha256": "25ff1825bf2b7d5eaa1d8abe8f31ef56bbd52f636c42a06833d1531cccf93563"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/D4.iam",
+    "sha256": "097837c414cfe3b99342f97c4ad89ef966df3a681894c14ce966537bf55a236d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/dc-005-5a-20.ipt",
+    "sha256": "e62c22f0084ab48543a5773eb297a60277e8e3f4e3fd3c2e73f68c6ae5431cc3"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/DC1.iam",
+    "sha256": "d167b47b97866461af4fbc5ca50dfa07cca70a95e15dd6bba37ba4c35fedb83f"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Extruded (1).ipt",
+    "sha256": "e7ae74f7903d75b7b4b67fdceea7151a4ded816b07ff2efc53a1e3f7652a25e9"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Extruded (2).ipt",
+    "sha256": "5595c06f19e56214b0ad6ec432c27e65d2f9819d86299af0376f2e190643476c"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Extruded (3).ipt",
+    "sha256": "d3648dd56bafbbd31912bc629ca9137449e00a944ccb4335acde985558c3e644"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Extruded (4).ipt",
+    "sha256": "34b6c6f83d18ece73303c573650d8dac9b54a9bac6468fb26e2c6765a76bd7ae"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Extruded.ipt",
+    "sha256": "6226f59a7a259a379ebcbc71345807311e7867fffbca0a53db075d443a9d42cf"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/GE_27.ipt",
+    "sha256": "22459bc9825d2f68686298886eae0f52f70ae92df0a9cef4d4495ef80a261b2a"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/H1.iam",
+    "sha256": "a89454bb7a6f2a4b7f972ec5625fee0af99cdcff897bd70bd69f9dc14da57614"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/H2.iam",
+    "sha256": "726a16c293a6e660eee98340624929aa64e1af32b4a43acd2093478f8a31c96d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/H3.iam",
+    "sha256": "17c4fc51c8a547e1cb3819eea6e67cce0bee749c564ac8d472b4fd8ca90f0caa"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/H4.iam",
+    "sha256": "da8a78ff5e69a8a63e37edcb4f4b2861e77dc284b7b5b97d2fb963ec2ea26a0e"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/H5.iam",
+    "sha256": "a14927ddc2f03e760cb570921e6b65cb6920d4e094c3f2d30e6f74fbd20e5db8"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Hexagon Nut DIN 555 - M3 Steel 6 Plain v1.ipt",
+    "sha256": "317f066a3517c3b64d067f85b034dbb43097af8857f732d70d2f34c23f82f598"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Hexagon Nut DIN 934 - M3 x 0.5 Steel 6 Plain v1.ipt",
+    "sha256": "581a755f1565d2321c8b8f11a25ff86562f767607f5c9bf3ae4f5f01eafccd38"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/hexagonal_spacer_FF_M2.5_H06_HEX5_pass_through v1.ipt",
+    "sha256": "6d5bd60674e9986bab2709a500a9280209e582da1b7e0fcc4d1f77c45d56664e"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/LED1.iam",
+    "sha256": "fe0e5dc64ee18d9f2afea7e915a171d09da36a394a5aa8db5737deece547f7c0"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/M1.iam",
+    "sha256": "cf5cd3291dd06ad6d69be6c7ce181966b5806fc29fc6485142f39ac616b4f600"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/MOTOR-1723_3.ipt",
+    "sha256": "1d20575b9bb18d0d868addcca2856390e44a52d142e46a41492bb8b63df8251a"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Motor_holder_SO101_Base v6.iam",
+    "sha256": "eb500de116178008c16c6fb141f3e26a47eadaf68eb2f31f5ad4c053b28742ff"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Motor_holder_SO101_Wrist v8.iam",
+    "sha256": "b4013017123c11acbeab125d1b7cb532a7e99f78b568af0ed85140dd9f9230dd"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Moving_Jaw_SO101 v3.ipt",
+    "sha256": "d8cfe9c5b777955742fda18654525b7cfae6d311f5bf56ff23eab2fd161f9f26"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Pan Head Screw DIN EN ISO 7045 - M2.5 x 4 - H Steel 4.6 Plain v1.ipt",
+    "sha256": "3f62f4925d08c9e3726277f4763a65237b5a2c69900ff2412507b5644fc31640"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Pan Head Screw DIN EN ISO 7045 - M3 x 6 - H Steel 4.6 Plain v1.ipt",
+    "sha256": "253166309924d128714f71cb3f70b1974a461ed10c9db91c02b6ac97962a8abb"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Part138.ipt",
+    "sha256": "5e4462b0fa23555618859fa3c87c52fa1ea0359121d0170ed7ffefd93b1b1f92"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Part140.ipt",
+    "sha256": "08db6714c1b4136904120048a56c3c13fce3d89aca8cf80e0c195fe394510723"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Part144.ipt",
+    "sha256": "c1edf32cebe9019df5ae4a1d1f70e368dfaf8e5c7c437908b72231349fe9cc7e"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Part146.ipt",
+    "sha256": "b9e9678df00e8e405f56a181ddd6dfc7cd26ea493917986357b1b211d244e1fc"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Part148.ipt",
+    "sha256": "81e43b830b31feaadf2409ade701d2a3ba6fac86a1ef3ab5003a30d8a4a9dda5"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Part150.ipt",
+    "sha256": "05181596b53816a4be08bce030c9764412ba3ad2c866c9bd2e9c7175191ebfc2"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/PCB-CHAZUO_92.ipt",
+    "sha256": "d6afd3dc5ca18700b2503c24b3f5d16d448eb8099587f1659e0796e636df6054"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Q1.iam",
+    "sha256": "ac9bd3b8415e17d775dfff93721feb1b3be57be58e9da7845a8be7285bf616e0"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R0603.iam",
+    "sha256": "200f8bf330d8851f5c4569fe1893ed0307b828747e7a95c16c6f80218106c4a2"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R0603_1.iam",
+    "sha256": "00dcc8d461af17c4ce239619e3f9daf7c0e42fe1b430e0f767e2a5b48f96671d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R0603_2.iam",
+    "sha256": "5544c6a2725c4518f22592e47f763d9bd4e85f1af92b10109aadfdea7ccf52be"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R0603_3.iam",
+    "sha256": "37a3069cb181998f6e09c431ff054bd3d3308dfbeebe45e7c62118d49c3040de"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R0603_4.iam",
+    "sha256": "b21cd72072408a3d6d7f8eeaaa899c6ddc742a9f70190b9c8875972aa3f28297"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R0603_5.iam",
+    "sha256": "2b0393e421cb5a2c0e9a34d494bc78fe7405d63c49a5299ec3141c9453e5007a"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R0603_6.iam",
+    "sha256": "442094d9f921819c55d699d7fcd84e9c8d7152fc5de473d22c69d72d8ecc511e"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R0603_7.iam",
+    "sha256": "a7b636ebbfa08dc2ad1b1eaf06245ffcc4a8f88b067655037e03e3433f217f26"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R0603_8.iam",
+    "sha256": "3bb4fa1742faf8b611834518a6ed40129cff6d101030edd514dbf5d93e70d876"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R1.iam",
+    "sha256": "24a37ef8507793858a7f9885d4cc1906b4d830648236afb502f567b7261c4569"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R2.iam",
+    "sha256": "35fbca32589a586e337a3116516eb616b71e5b81bb27fabf3063e2ce53828c33"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R3.iam",
+    "sha256": "7a14d23e6e96b406f75e0c5dc45174c0d45c49269075ef3b5b6dcc2b177d4d0c"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R4.iam",
+    "sha256": "f02c8320ec1ba49aa77dee07b9218be9d6e321044131a10645be59e4bed3b061"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R5.iam",
+    "sha256": "de5c011175cd14a2c051d599d6a6fbc50915ee0c33fbb1b2f89273dab7a93a24"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R6.iam",
+    "sha256": "55ef3ba085f738605abed8746ff4b7d50485c23aa1590908b40bb45463fd6287"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R7.iam",
+    "sha256": "dc8081545b4bcd1303683292893f65a6f4f5706257f30a711b549781376048a5"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R8.iam",
+    "sha256": "d3512ebe7458055fa1bcaa11e118f6445eeacbad4f8b19f909aa0e68a9116ce2"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R9.iam",
+    "sha256": "fe4fb230b82457dd08ee3a453a9dc5fb93394be5b649fbb4daaf19b5dc199523"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Rotation_Pitch_SO101 v8.ipt",
+    "sha256": "29d90d7b0a4381227bd36515e8bde1452aa4ff01038622fd5b95e98fd986435f"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3601_AF0_ASM.iam",
+    "sha256": "8844a980c5157e76877d702e5597fc0abb92326ef8c44455c2974f6e60896584"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3601_AF0_ASM_1.iam",
+    "sha256": "d74c4c4fd1efc7a954b478e885af34da344df0a42aabe4023072ae54c8c7d2a7"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3601_AF0_ASM_2.iam",
+    "sha256": "979951d5912ce7de6e26ec942bc8c3e8faa4d1fc4d4988a869435d2f9f4f7356"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3601_AF0_ASM_3.iam",
+    "sha256": "4058f0f674616e43df8227a89d83f31c8186b3985d92a72a57d76ccb2d50b7d7"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3601_AF0_ASM_4.iam",
+    "sha256": "37ead1ae9ed885b11ec9235dfc42ecf96c4191f6ff90d09daeb27f6bfffa4f74"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3601_AF0_ASM_5.iam",
+    "sha256": "d110a3181245a5d6c0d476f8203c819a759c20d6df44ecc8534b6245f1c63369"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3601_AF0_ASM_6.iam",
+    "sha256": "f5978e73c9454072b2b34bf960aeb2f35fdf4b0164730b2b089572e80b45debd"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3601_AF0_ASM_7.iam",
+    "sha256": "be889bc7a2c5039e727ee42ffae1c7538d7e595b93ed02aa8e85608d9f7a47b6"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3601_AF0_ASM_8.iam",
+    "sha256": "26d4f6b91f41771ef513b0f4d74bfc12ebfcd5c1b685e75596d7172da2f4249f"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3615_AF0_ASM.iam",
+    "sha256": "9b5598c172ca1eb53d713b6fe7c6f5fb4094dd96934b6f01c679bde2098e590e"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3615_AF0_ASM_1.iam",
+    "sha256": "5ee2c1768783c0951474653e0cbde020d508da8ccac26382879bb90a71a34cf1"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3615_AF0_ASM_2.iam",
+    "sha256": "a171470207a8e93c2049149d5d4c83395655d17be924ae245e10392376986c20"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3615_AF0_ASM_3.iam",
+    "sha256": "523e8022525197e9ce34a8198502f6f2cf45a78d958ccabd5a61516aa4cbd7be"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3615_AF0_ASM_4.iam",
+    "sha256": "0880337ceb1354be35a0cffc7bfa024f6595c175519b49f4b3a49a4fba9092fc"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3615_AF0_ASM_5.iam",
+    "sha256": "c6cc5a080117fc21e7353936cba0a0e2bdb881ca1232f5c8bbf1871ea0580732"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3615_AF0_ASM_6.iam",
+    "sha256": "ca5b2a67ea0d79b56439484efd621d3051fe7310da7dd60222def6a04d6b7f97"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3615_AF0_ASM_7.iam",
+    "sha256": "900edcf5a8bd5cd23d632857534ff7a81133c95b4ead9bc27dc713395aab4101"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/R_0603-3615_AF0_ASM_8.iam",
+    "sha256": "08cc2b8604907193730810c3d9088d0e9e481ed9b9cbc8b203227ed0ab39c9f6"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SCS215 v6_7.iam",
+    "sha256": "3f2120d3c65aa4978c8a8ca9d9450beddf6250210b88f42c68050542d256c404"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SCS215 v6_7_1.iam",
+    "sha256": "69ca0b98c9a55f20ba3198515bbf85a1a7ad763b819834bd241406f42aed3b24"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SCS215 v6_7_2.iam",
+    "sha256": "e45a075b895dcd2e5ca70415db49fb312d99b8bb192c5fa286fa32a9d012abae"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SCS215 v6_7_3.iam",
+    "sha256": "5ce2fa7fb6f73bf86a71a607826a1e50c5ddc5e6a08e796e13cbf6fb3ddaf77b"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SCS215 v6_7_4.iam",
+    "sha256": "fc14eca39abc2a6b10b3e4584f83300d61305d4a716b5415575ce15c9d0f97b7"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SCS215 v6_7_5.iam",
+    "sha256": "b48e451f3094b2dc5b939cf407db7b4663b80c4672fcc22d0b6eb3cbb134f055"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SG-ZIJI_15.ipt",
+    "sha256": "b82cb255f3e90fa3761ec27a7e48a436790dfc9fa3866d05cb7a039646ef5435"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOD323.ipt",
+    "sha256": "1c2cbbd2b263fb7c925c039611b1b200862bdafcce261a81ddd529ba562c22fa"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (1).ipt",
+    "sha256": "f0408358598fd287f32444fd743bb09f6ede4ce769285ef96f49634a7349ebcd"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (10).ipt",
+    "sha256": "d7b891feffd86d7ed833b531942ea5bf8a60cea82c1c4d869b330a881db9b9da"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (11).ipt",
+    "sha256": "4b03680db27897cda85087f0cb8ac80b5115ed6a18811a82091ca5dbf9fc3293"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (12).ipt",
+    "sha256": "bf064af1fd831101482c436b4594e5043bed3e884aaaf280ba8c9f66a90aefa4"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (13).ipt",
+    "sha256": "c8a0de33a868e2c9edb6d08de49c2804fb6055999d06eadda4343ea34f66bd42"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (14).ipt",
+    "sha256": "7280691e7f0eb6d24a5cdc82f14be74cc5dc6c73069eafe86c91557a5e7065ab"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (15).ipt",
+    "sha256": "6fee30c93168e0748f4b6f727f7be68259f8412f6c9acbdba7685158a619dd6d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (16).ipt",
+    "sha256": "3a57dec9f4c1c4f736b0e2dd5f46f107c556ba916df0d90dd6189d2e93b79415"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (17).ipt",
+    "sha256": "968cddaf96f0f5cb49508e1ea76d3aac3366dc7d9089482e896ba7ffda4b9acd"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (18).ipt",
+    "sha256": "d247fbbb3bc20bb3075bfe102912924c5e81c9c18736dac1e22caeaec653fe41"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (19).ipt",
+    "sha256": "1431929fcef684bc02690cb97ece4beede159932f0fcab2ce3dc42d667b0bfae"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (2).ipt",
+    "sha256": "3aba8e4a11b11459d10e9e6d34966410c7f4e274c4fdadc34e8897a6369bef97"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (20).ipt",
+    "sha256": "850c0938402a534d033123ede02fc40130ab1e3077a048af63eb5ddbd6690862"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (21).ipt",
+    "sha256": "96c08218be654365a85e71dcd0e6182484e2e70637e243e6bb325ae039def063"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (3).ipt",
+    "sha256": "2a94170ac0cc675143a720392c995b44ec1a0e11a5d394fb9222e43a72475736"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (4).ipt",
+    "sha256": "fdac47cfe2c180f8092532f4199e8ef61ecabffce67d9f5a06a6de6620af0da6"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (5).ipt",
+    "sha256": "182388760b8c4ceef723643918f1808a481a09a86e9954909e507003cd22a5de"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (6).ipt",
+    "sha256": "caa4dbe875e8d0b650622702b56b1d03764ab09088d026a47d7e67464ac5c2da"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (7).ipt",
+    "sha256": "b107214129d3b3e29883ff321341b5d67e50c4afcce6f4362692279a1e481c22"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (8).ipt",
+    "sha256": "b28c92982fa07059742311ba5aa9f908b206d80bdd9c5b5946dcc35c9cd0b61f"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID (9).ipt",
+    "sha256": "65342de341b40042fdd40bf177522fa940914e1b01f09295f69bf8325a33cfcd"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOLID.ipt",
+    "sha256": "5028178701565bc708718ba7053b70ce21bfd0ecb6e9ba7dba9e10564938b14b"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/SOT-23.ipt",
+    "sha256": "d555d2b3ff957fd8a1ff844242223c0af74a19e0fd3c3def9dba3712ceb2da7e"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/ST3215 Servo v2.iam",
+    "sha256": "169e9b8c62db3da4a9080814f49ef42ebf2c6724c2b98c6cc965c9b18598476e"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/ST3215 Servo v2_1.iam",
+    "sha256": "d87e7ffbdd40d111a1d411b8c7bcc401374b413b7d38bde9405c561d9d836320"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/ST3215 Servo v2_2.iam",
+    "sha256": "b63b8c527fe8e52c270e08101486c0cc208d5c1ea4d3397908a3dab009f88cfc"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/ST3215 Servo v2_3.iam",
+    "sha256": "da707b03f193b9813084605971867e9222e28cd7cd828b65616ce13b4d0b75ac"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/ST3215 Servo v2_4.iam",
+    "sha256": "c49cb41bc22045b2a9b3cef688d619a2daaf0c6178dcc7410d0e54b4a9692bb2"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/ST3215 Servo v2_5.iam",
+    "sha256": "2d635edfac1576f7a37df235b9ab06093187d45583bbec5cc14a7e13f4bba491"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/TO-223.iam",
+    "sha256": "ff9a1e4929e77fa6ef081994b84fbd146fe405c034e1c912629c28c88691a2ae"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Type I Cross Recessed Fillister Head Tapping Screw ANSI B18.6.4 0-48 x 0.1875 Type AB Steel Grade 2 Plain v1.ipt",
+    "sha256": "9d1e8c1bc61b54e296b2a89bd12a66832034626ad97957eb0e871e71fd51cfe3"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Type I Cross Recessed Fillister Head Tapping Screw ANSI B18.6.4 1-42 x 0.1875 Type AB Steel Grade 2 Plain v1.ipt",
+    "sha256": "7414575d1e51438386aacf56feab90c7ce491b0eafe7da71de0f5ddbdabad9db"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Type_C1.iam",
+    "sha256": "6c729b837afb67f260e61c93e8710f7b993c9d91c60146f5fe8d9f66bc0fbf86"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/U1.iam",
+    "sha256": "553711db78af017f69cd49255af27dcd406ee139d2042cbf65534ed018a0128c"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/U2.iam",
+    "sha256": "e8b5c274e51721e77ad99b52d42249490907876a5a85fc29c1c7df5e12527d0e"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/U3.iam",
+    "sha256": "1c50bdd035e6d4d2b085436ebd7a802400324dd36c03664ce2166228ab5a1bf5"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/U4.iam",
+    "sha256": "032395fdf0df630d80374339ea0726868b74950cd1344e4ff0d6f8c442f9a432"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Under_arm_SO101 v12.iam",
+    "sha256": "137c65538de53c4ad70946f042d405b0013c2bd716999defc3a6469f727a6525"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Upper_arm_SO101 v9.iam",
+    "sha256": "5d48d6a7cccbfa67726bb8e126a2c3a004f9b47c0a36358ae8ce728994f697ee"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-0603_SMD_Capacitor.ipt",
+    "sha256": "c9d2f94a6e074a760ce624272c13ffd07b0ca20f34230485d877ca873bdbf0b3"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-DG350-3,5-02P.ipt",
+    "sha256": "2677e5537eddba2621959c551f6c98dccf65819fccd411cd153702db6b8c56ba"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-LED_0603_R.iam",
+    "sha256": "dd337947a93b5b217267484d8ab9b6680627a4e7b43fc16a1adc7e2e72ba4da2"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-LED_0603_R_Fillet.ipt",
+    "sha256": "54f98bee0c7f53fe9023f8405659995d6de3a889b58333cfa5d1a4ce2f8cff02"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-LED_0603_R_Pad.ipt",
+    "sha256": "1e4a2de63bf8f9844630b4d750cbec3c5ce6814bb19151886e92b5c8696b354f"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-LED_0603_R_Pad004.ipt",
+    "sha256": "ed498368ad1c8f04d7c1b390f6cfa92ac53aeba3b97aaabdd5650341555964ae"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-LED_0603_R_Pocket001.ipt",
+    "sha256": "33618203b1fb732c14b82988bb71ff47fe9599b00934e020c257b7f7e5d44154"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-LED_0603_R_Pocket002.ipt",
+    "sha256": "3535540fe04c7ad891aa3215dae4b1f489c785386ed921b885f2a428a02744d5"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-QFN-16.ipt",
+    "sha256": "7590ae6c70f57b60e14540ccc535fd8cb1f2be20f37801a262fcef0df7affcf0"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-sop-8.ipt",
+    "sha256": "c76de4ed85ebe7307139c75eba4f9e758914f0dd4661248fe1f6338a92e8a24d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-TO-223_1_1.ipt",
+    "sha256": "1814ac62542cbc636602d6e847db364349cefafc76f8ad6587a09d4b229054b5"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-TO-223_2_1.ipt",
+    "sha256": "765fe554019cea4a852dd84b6d7cd83c9a1b166e25f2dee09a63ac3316ff0f75"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-TO-223_3_1.ipt",
+    "sha256": "a4ca45251ff14887699614067704cb3932960c9635249b9942e417139c11406d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-TO-223_4_1.ipt",
+    "sha256": "82dcbaf7f9728de25b16feb60d31c5b77ff00a8f5b2ad9ee9bb2622b4cf9a434"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/User_Library-TO-223_5_1.ipt",
+    "sha256": "a00cf4fe218f575ec9987569b7d91db18d03d146711f2ff98e64aa23437d3505"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/WaveShare_Mounting_Plate_SO101 v4.ipt",
+    "sha256": "863062cf5a52058eb65f5497564f6dca3d05ab8c62db94325a1439e79a118f97"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Wrist_Roll_Follower_SO101 v10.iam",
+    "sha256": "e3be3cf7f87dc68688f1540d1d81abf36d019121eb789df25f7f8f6ca41785ad"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/Wrist_Roll_Pitch_SO100 v15.iam",
+    "sha256": "43169f8d6836e620bdd35b0e9e7ec17a0faa0ec9682ba22b00cd59cb93ede29d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/X2564WV-03-N0SN.ipt",
+    "sha256": "f422d0a4b56045442edb1d1872fdad98966def2a65b14fc092bdca827895a07d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/XG-ZIJI_16.ipt",
+    "sha256": "81e1d343a7fdd958dc8c7a9c7ad47067fe8e8463886fb421b0d26289f9d79f15"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/ZK_122.ipt",
+    "sha256": "341e6034056f34a0c63fa2c125e16847fb9f3a1572bdca7af82c1f395d0a8cd3"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/_1_1_20001.ipt",
+    "sha256": "67985c93f793677c61f3b336321fed684da24f9d5e3e9cb482e2c2624ba63fef"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/_2_1_2_3_4_AF0.ipt",
+    "sha256": "f7e28c79b21dc7d8e88032e0678e957873713d213e549c47489df30a2d4b91c0"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/_7_1_2_AF0.ipt",
+    "sha256": "9c87e4d15956c660173b6be019e256778f700656e7c4324e4d8a150723cadd78"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/金属舵盘（从动） v2.ipt",
+    "sha256": "cd052d6658ec0854337e0da35ea35ad858e700db0ee6e053af446784a566d6fe"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/SO101 Assembly/金属舵盘（驱动） v2.ipt",
+    "sha256": "20914c546efec293710bc2bacc4b806c82a36d02a755b5cd039d9b6417a9f49d"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Under_arm_SO101/Part318.ipt",
+    "sha256": "bbecffc45a0d72fe8f0ae6a40efcdcb7b6b9070d81a77aa191947af163750766"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Upper_arm_SO101/Part315.ipt",
+    "sha256": "fa3a748b2064aa0fa3fd4eb7030df1f58aa93ee944ca14f362231408e3157b35"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Wrist_Roll_Follower_SO101/Part327.ipt",
+    "sha256": "4cc2b211da89f9e7d7c3aa233dd5fc872c855155b54dc80bda87755f5427c57f"
+  },
+  {
+    "file": "mechanical/upstream_reference/step/Wrist_Roll_Pitch_SO101/Part324.ipt",
+    "sha256": "443ccd8e72ae39a91612ef33e1840dc1fcc409e973b2fad1cfe8db4435c0c020"
+  },
+  {
+    "file": "simulation/__pycache__/torque_envelope.cpython-312.pyc",
+    "sha256": "880f9d7332ec14f4cdbc8b2cfa3d9358ee05e651ffd206639926b90891ab2801"
+  },
+  {
+    "file": "software/__pycache__/joint_contract.cpython-312.pyc",
+    "sha256": "00502f678ca4c9d156dc729f1a15c5b24244f98e2f2a15cd6a866d56ec1f5869"
+  },
+  {
+    "file": "tests/__pycache__/test_offline.cpython-312.pyc",
+    "sha256": "729ed3f0aa9ec0fb29ab5a223069e7cde461279c1d66ec68bbded44c6985bbab"
+  }
+]

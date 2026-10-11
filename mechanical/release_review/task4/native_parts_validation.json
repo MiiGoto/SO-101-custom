@@ -1,0 +1,655 @@
+[
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      -0.24513238338112198,
+      51.53308025446742,
+      12.629061670361498
+    ],
+    "file": "Base_motor_holder_SO101.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      47.656232939308616,
+      31.416860336031135,
+      80.20843016801548
+    ],
+    "mass_kg": 0.029409484459383347,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      -0.0088760842609034,
+      21.498839060029095,
+      15.020692822716533
+    ],
+    "file": "Base_SO101.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      110.94203400890763,
+      72.00289739878228,
+      87.01703400890777
+    ],
+    "mass_kg": 0.1521581638740483,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      -39.79601630471733,
+      -36.0369419004197,
+      0.8813198641068599
+    ],
+    "file": "Motor_holder_SO101_Base.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      28.007325188772878,
+      38.10208902344649,
+      55.08212501748575
+    ],
+    "mass_kg": 0.01650969069804008,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      -39.810448775141275,
+      -36.29713218505874,
+      -0.12062778622986359
+    ],
+    "file": "Motor_holder_SO101_Wrist.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      28.007325188772878,
+      36.90503274859889,
+      57.239463661147845
+    ],
+    "mass_kg": 0.017211581265262257,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      -1.5748275373948093,
+      -30.02339591199501,
+      0.3756692250007566
+    ],
+    "file": "Moving_Jaw_SO101.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      22.300000467769372,
+      92.00904754135817,
+      49.6951127920212
+    ],
+    "mass_kg": 0.025658877385910384,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      0.0,
+      0.0,
+      0.05000000000000001
+    ],
+    "file": "REF_base_link.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      1.0,
+      1.0,
+      0.10000000000000002
+    ],
+    "mass_kg": 1.0000000000000003e-09,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      0.0,
+      0.0,
+      0.05000000000000001
+    ],
+    "file": "REF_gripper_link.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      1.0,
+      1.0,
+      0.10000000000000002
+    ],
+    "mass_kg": 1.0000000000000003e-09,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      0.0,
+      0.0,
+      0.05000000000000001
+    ],
+    "file": "REF_lower_arm_link.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      1.0,
+      1.0,
+      0.10000000000000002
+    ],
+    "mass_kg": 1.0000000000000003e-09,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      0.0,
+      0.0,
+      0.05000000000000001
+    ],
+    "file": "REF_moving_jaw_so101_v1_link.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      1.0,
+      1.0,
+      0.10000000000000002
+    ],
+    "mass_kg": 1.0000000000000003e-09,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      0.0,
+      0.0,
+      0.05000000000000001
+    ],
+    "file": "REF_shoulder_link.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      1.0,
+      1.0,
+      0.10000000000000002
+    ],
+    "mass_kg": 1.0000000000000003e-09,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      0.0,
+      0.0,
+      0.05000000000000001
+    ],
+    "file": "REF_upper_arm_link.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      1.0,
+      1.0,
+      0.10000000000000002
+    ],
+    "mass_kg": 1.0000000000000003e-09,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      0.0,
+      0.0,
+      0.05000000000000001
+    ],
+    "file": "REF_wrist_link.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      1.0,
+      1.0,
+      0.10000000000000002
+    ],
+    "mass_kg": 1.0000000000000003e-09,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      -43.30862465677378,
+      38.92723624704617,
+      -0.1635553195575885
+    ],
+    "file": "Rotation_Pitch_SO101.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      59.80320781389761,
+      84.20487316834678,
+      46.006415627795214
+    ],
+    "mass_kg": 0.08532815114683448,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      8.67020354605552,
+      -31.670882468073323,
+      0.3463672005849493
+    ],
+    "file": "Under_arm_SO101.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      130.80290758184276,
+      24.01707425003247,
+      64.40309533878593
+    ],
+    "mass_kg": 0.11527525091038028,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      4.525275085994797,
+      11.596232490331023,
+      0.002429870065590979
+    ],
+    "file": "Upper_arm_SO101.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      142.16997823576241,
+      24.503145367425795,
+      67.30309533878595
+    ],
+    "mass_kg": 0.14559748794185465,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      9.767387124213908e-14,
+      0.006827718066308094,
+      2.443409682772961
+    ],
+    "file": "WaveShare_Mounting_Plate_SO101.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      51.00000000000001,
+      42.0,
+      7.600000000000001
+    ],
+    "mass_kg": 0.011275699697597404,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      -14.156213520329281,
+      -0.49976270187175215,
+      29.707032826044433
+    ],
+    "file": "Wrist_Roll_Follower_SO101.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      65.2170333383553,
+      52.15079171587654,
+      105.43459943571855
+    ],
+    "mass_kg": 0.07021358662732868,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      1.766961038798254,
+      -0.3890704218061591,
+      0.9191681608313809
+    ],
+    "file": "Wrist_Roll_Pitch_SO101.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      64.96126062850168,
+      37.06005331913723,
+      77.82838633196052
+    ],
+    "mass_kg": 0.04007072852179239,
+    "missing_refs": [],
+    "folder": "follower_revb"
+  },
+  {
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "com_mm": [
+      1.7635184252643266e-15,
+      -9.5,
+      -36.732308791994285
+    ],
+    "file": "Vstone_Cradle_HOLD.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      27.6,
+      44.6,
+      15.0
+    ],
+    "mass_kg": 0.006245135999999998,
+    "missing_refs": [],
+    "folder": "adapters/revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      0.0,
+      -9.500000000000004,
+      -19.25
+    ],
+    "file": "Vstone_Envelope.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      19.0,
+      38.0,
+      38.5
+    ],
+    "mass_kg": 0.042,
+    "missing_refs": [],
+    "folder": "adapters/revb"
+  },
+  {
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "com_mm": [
+      1.9017180963089352e-15,
+      -7.5,
+      -21.321171634121274
+    ],
+    "file": "XL330_Cradle_HOLD.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      28.6,
+      40.60000000000001,
+      15.0
+    ],
+    "mass_kg": 0.0057912960000000005,
+    "missing_refs": [],
+    "folder": "adapters/revb"
+  },
+  {
+    "feature_health": [
+      "11778"
+    ],
+    "com_mm": [
+      0.0,
+      -7.500000000000001,
+      -11.500000000000002
+    ],
+    "file": "XL330_Envelope.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      20.0,
+      34.0,
+      23.000000000000004
+    ],
+    "mass_kg": 0.018,
+    "missing_refs": [],
+    "folder": "adapters/revb"
+  },
+  {
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "com_mm": [
+      -0.21235718717082763,
+      0.0,
+      3.0
+    ],
+    "file": "Bearing_Fit_Gauge.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      65.0,
+      25.0,
+      6.000000000000001
+    ],
+    "mass_kg": 0.007488936496887721,
+    "missing_refs": [],
+    "folder": "print_test"
+  },
+  {
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "com_mm": [
+      1.6870229007633593,
+      -2.8249949736009067e-15,
+      1.9885496183206106
+    ],
+    "file": "Encoder_Gap_Gauge.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      54.0,
+      32.0,
+      6.000000000000001
+    ],
+    "mass_kg": 0.007797120000000001,
+    "missing_refs": [],
+    "folder": "print_test"
+  },
+  {
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "com_mm": [
+      -5.384857643386231e-15,
+      0.0,
+      1.5000000000000004
+    ],
+    "file": "Mounting_Pitch_Gauge.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      66.0,
+      36.0,
+      3.0000000000000004
+    ],
+    "mass_kg": 0.008181024000000002,
+    "missing_refs": [],
+    "folder": "print_test"
+  },
+  {
+    "feature_health": [
+      "11778",
+      "11778"
+    ],
+    "com_mm": [
+      1.4213366424376218e-14,
+      0.0,
+      0.9998674406347532
+    ],
+    "file": "OEM_Horn_Trace_Plate.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      50.0,
+      50.0,
+      2.0
+    ],
+    "mass_kg": 0.0061989043695620605,
+    "missing_refs": [],
+    "folder": "print_test"
+  },
+  {
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "com_mm": [
+      -0.3751483425033994,
+      -6.987304550531239,
+      1.5000000000000002
+    ],
+    "file": "Servo_Body_Fit_Grid.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      75.0,
+      62.0,
+      3.0000000000000004
+    ],
+    "mass_kg": 0.008734904697253437,
+    "missing_refs": [],
+    "folder": "print_test"
+  },
+  {
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "com_mm": [
+      -1.1514749494910425e-09,
+      0.0,
+      0.9999999999999998
+    ],
+    "file": "XL330_Horn_PCD_Test.ipt",
+    "solid_bodies": [
+      true
+    ],
+    "bbox_mm": [
+      20.0,
+      20.0,
+      2.0000000000000004
+    ],
+    "mass_kg": 0.0006927111270200877,
+    "missing_refs": [],
+    "folder": "print_test"
+  }
+]

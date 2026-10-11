@@ -1,0 +1,155 @@
+{
+  "total_mass_kg": 0.6692557819934007,
+  "com_mm": [
+    70.32309583499631,
+    -5.896107757101612,
+    124.63602546850015
+  ],
+  "parts": [
+    {
+      "name": "Base_motor_holder_SO101",
+      "part": "Base_motor_holder_SO101",
+      "link": "base_link",
+      "mass": 0.029409484459383347,
+      "com": [
+        0.0062645418621860025,
+        -0.0003445273935504701,
+        0.04913303386498599
+      ],
+      "trace": 6.106253025684824e-05
+    },
+    {
+      "name": "Base_SO101",
+      "part": "Base_SO101",
+      "link": "base_link",
+      "mass": 0.1521581638740483,
+      "com": [
+        0.008656061824762893,
+        -8.829886455239984e-06,
+        0.01909878388579853
+      ],
+      "trace": 0.000488252459848019
+    },
+    {
+      "name": "WaveShare_Mounting_Plate_SO101",
+      "part": "WaveShare_Mounting_Plate_SO101",
+      "link": "base_link",
+      "mass": 0.011275699697597404,
+      "com": [
+        -0.028539290292180396,
+        -0.000199432024854894,
+        0.047406818742921346
+      ],
+      "trace": 7.066368399306322e-06
+    },
+    {
+      "name": "Motor_holder_SO101_Base",
+      "part": "Motor_holder_SO101_Base",
+      "link": "shoulder_link",
+      "mass": 0.01650969069804008,
+      "com": [
+        -0.031562108683867725,
+        -0.0010589464930220167,
+        -0.023945983933358065
+      ],
+      "trace": 1.9718360136849836e-05
+    },
+    {
+      "name": "Rotation_Pitch_SO101",
+      "part": "Rotation_Pitch_SO101",
+      "link": "shoulder_link",
+      "mass": 0.08532815114683448,
+      "com": [
+        -0.03110782465677378,
+        -0.00014145700727932693,
+        0.007472764353988683
+      ],
+      "trace": 0.00014034116738356942
+    },
+    {
+      "name": "Upper_arm_SO101",
+      "part": "Upper_arm_SO101",
+      "link": "upper_arm_link",
+      "mass": 0.14559748794185465,
+      "com": [
+        -0.06055972491400521,
+        0.00040376750326192684,
+        0.018197600901578594
+      ],
+      "trace": 0.0004708262944552036
+    },
+    {
+      "name": "Under_arm_SO101",
+      "part": "Under_arm_SO101",
+      "link": "lower_arm_link",
+      "mass": 0.11527525091038028,
+      "com": [
+        -0.05617969645394449,
+        -0.00032911845115465074,
+        0.017853548757885807
+      ],
+      "trace": 0.00030546088359273014
+    },
+    {
+      "name": "Motor_holder_SO101_Wrist",
+      "part": "Motor_holder_SO101_Wrist",
+      "link": "lower_arm_link",
+      "mass": 0.017211581265262257,
+      "com": [
+        -0.10466034877514127,
+        0.00429713186483429,
+        0.018120724103928832
+      ],
+      "trace": 2.085843515968646e-05
+    },
+    {
+      "name": "shoulder_lift_Vstone_Envelope",
+      "part": "Vstone_Envelope",
+      "link": "shoulder_link",
+      "mass": 0.042,
+      "com": [
+        -0.020899270709326415,
+        -0.03752783489531862,
+        -0.05419996510481125
+      ],
+      "trace": 2.3010750000000027e-05
+    },
+    {
+      "name": "shoulder_lift_Vstone_Cradle_HOLD",
+      "part": "Vstone_Cradle_HOLD",
+      "link": "shoulder_link",
+      "mass": 0.006245135999999998,
+      "com": [
+        -0.02089933492543229,
+        -0.05501014368719495,
+        -0.05419996510504713
+      ],
+      "trace": 4.170747159049147e-06
+    },
+    {
+      "name": "elbow_flex_Vstone_Envelope",
+      "part": "Vstone_Envelope",
+      "link": "upper_arm_link",
+      "mass": 0.042,
+      "com": [
+        -0.10307000000006411,
+        -0.027999965104551536,
+        -0.019249999999999823
+      ],
+      "trace": 2.3010750000000027e-05
+    },
+    {
+      "name": "elbow_flex_Vstone_Cradle_HOLD",
+      "part": "Vstone_Cradle_HOLD",
+      "link": "upper_arm_link",
+      "mass": 0.006245135999999998,
+      "com": [
+        -0.1030700000000641,
+        -0.02799996510455155,
+        -0.03673230879199411
+      ],
+      "trace": 4.170747159049147e-06
+    }
+  ],
+  "scope": "CAD full-solid/overrides; native assembly inertia saved separately; physical test not run"
+}

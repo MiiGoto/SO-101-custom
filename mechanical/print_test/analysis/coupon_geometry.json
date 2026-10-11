@@ -1,0 +1,856 @@
+[
+  {
+    "parameters": [
+      {
+        "expression": "75 mm",
+        "name": "BASE_W"
+      },
+      {
+        "expression": "62 mm",
+        "name": "BASE_H"
+      },
+      {
+        "expression": "3 mm",
+        "name": "BASE_T"
+      },
+      {
+        "expression": "19.2 mm",
+        "name": "WINDOW_0_W"
+      },
+      {
+        "expression": "38.2 mm",
+        "name": "WINDOW_0_H"
+      },
+      {
+        "expression": "5 mm",
+        "name": "WINDOW_0_T"
+      },
+      {
+        "expression": "19.4 mm",
+        "name": "WINDOW_1_W"
+      },
+      {
+        "expression": "38.4 mm",
+        "name": "WINDOW_1_H"
+      },
+      {
+        "expression": "5 mm",
+        "name": "WINDOW_1_T"
+      },
+      {
+        "expression": "19.6 mm",
+        "name": "WINDOW_2_W"
+      },
+      {
+        "expression": "38.6 mm",
+        "name": "WINDOW_2_H"
+      },
+      {
+        "expression": "5 mm",
+        "name": "WINDOW_2_T"
+      },
+      {
+        "expression": "2.8 mm",
+        "name": "HOLE_0_D"
+      },
+      {
+        "expression": "5 mm",
+        "name": "HOLE_0_T"
+      },
+      {
+        "expression": "3 mm",
+        "name": "HOLE_1_D"
+      },
+      {
+        "expression": "5 mm",
+        "name": "HOLE_1_T"
+      },
+      {
+        "expression": "3.2 mm",
+        "name": "HOLE_2_D"
+      },
+      {
+        "expression": "5 mm",
+        "name": "HOLE_2_T"
+      },
+      {
+        "expression": "3.4 mm",
+        "name": "HOLE_3_D"
+      },
+      {
+        "expression": "5 mm",
+        "name": "HOLE_3_T"
+      },
+      {
+        "expression": "3.6 mm",
+        "name": "HOLE_4_D"
+      },
+      {
+        "expression": "5 mm",
+        "name": "HOLE_4_T"
+      },
+      {
+        "expression": "4 mm",
+        "name": "HOLE_5_D"
+      },
+      {
+        "expression": "5 mm",
+        "name": "HOLE_5_T"
+      },
+      {
+        "expression": "4.2 mm",
+        "name": "HOLE_6_D"
+      },
+      {
+        "expression": "5 mm",
+        "name": "HOLE_6_T"
+      }
+    ],
+    "solid_bodies": [
+      true
+    ],
+    "mass_kg": 0.008734904697253437,
+    "physical_test": "NOT_RUN",
+    "name": "Servo_Body_Fit_Grid",
+    "missing_refs": [],
+    "volume_mm3": 7044.277981655999,
+    "features": [
+      {
+        "center_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "height": 62.0,
+        "cut": false,
+        "shape": "RECT",
+        "tag": "BASE",
+        "depth": 3.0,
+        "width": 75.0
+      },
+      {
+        "center_mm": [
+          -24.0,
+          8.0,
+          -1.0
+        ],
+        "height": 38.2,
+        "cut": true,
+        "shape": "RECT",
+        "tag": "WINDOW_0",
+        "depth": 5.0,
+        "width": 19.2
+      },
+      {
+        "center_mm": [
+          0.0,
+          8.0,
+          -1.0
+        ],
+        "height": 38.400000000000006,
+        "cut": true,
+        "shape": "RECT",
+        "tag": "WINDOW_1",
+        "depth": 5.0,
+        "width": 19.4
+      },
+      {
+        "center_mm": [
+          24.0,
+          8.0,
+          -1.0
+        ],
+        "height": 38.6,
+        "cut": true,
+        "shape": "RECT",
+        "tag": "WINDOW_2",
+        "depth": 5.0,
+        "width": 19.599999999999998
+      },
+      {
+        "center_mm": [
+          -27.0,
+          -22.0,
+          -1.0
+        ],
+        "diameter": 2.8,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "HOLE_0",
+        "depth": 5.0
+      },
+      {
+        "center_mm": [
+          -18.0,
+          -22.0,
+          -1.0
+        ],
+        "diameter": 3.0,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "HOLE_1",
+        "depth": 5.0
+      },
+      {
+        "center_mm": [
+          -9.0,
+          -22.0,
+          -1.0
+        ],
+        "diameter": 3.2,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "HOLE_2",
+        "depth": 5.0
+      },
+      {
+        "center_mm": [
+          0.0,
+          -22.0,
+          -1.0
+        ],
+        "diameter": 3.4,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "HOLE_3",
+        "depth": 5.0
+      },
+      {
+        "center_mm": [
+          9.0,
+          -22.0,
+          -1.0
+        ],
+        "diameter": 3.6,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "HOLE_4",
+        "depth": 5.0
+      },
+      {
+        "center_mm": [
+          18.0,
+          -22.0,
+          -1.0
+        ],
+        "diameter": 4.0,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "HOLE_5",
+        "depth": 5.0
+      },
+      {
+        "center_mm": [
+          27.0,
+          -22.0,
+          -1.0
+        ],
+        "diameter": 4.2,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "HOLE_6",
+        "depth": 5.0
+      }
+    ],
+    "bounds_mm": [
+      75.0,
+      62.0,
+      3.0000000000000004
+    ]
+  },
+  {
+    "parameters": [
+      {
+        "expression": "66 mm",
+        "name": "BASE_W"
+      },
+      {
+        "expression": "36 mm",
+        "name": "BASE_H"
+      },
+      {
+        "expression": "3 mm",
+        "name": "BASE_T"
+      },
+      {
+        "expression": "3.4 mm",
+        "name": "SLOT_0_W"
+      },
+      {
+        "expression": "26 mm",
+        "name": "SLOT_0_H"
+      },
+      {
+        "expression": "5 mm",
+        "name": "SLOT_0_T"
+      },
+      {
+        "expression": "3.4 mm",
+        "name": "SLOT_2_W"
+      },
+      {
+        "expression": "26 mm",
+        "name": "SLOT_2_H"
+      },
+      {
+        "expression": "5 mm",
+        "name": "SLOT_2_T"
+      }
+    ],
+    "solid_bodies": [
+      true
+    ],
+    "mass_kg": 0.008181024000000002,
+    "physical_test": "NOT_RUN",
+    "name": "Mounting_Pitch_Gauge",
+    "missing_refs": [],
+    "volume_mm3": 6597.600000000001,
+    "features": [
+      {
+        "center_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "height": 36.0,
+        "cut": false,
+        "shape": "RECT",
+        "tag": "BASE",
+        "depth": 3.0,
+        "width": 66.0
+      },
+      {
+        "center_mm": [
+          -20.0,
+          0.0,
+          -1.0
+        ],
+        "height": 26.0,
+        "cut": true,
+        "shape": "RECT",
+        "tag": "SLOT_0",
+        "depth": 5.0,
+        "width": 3.4
+      },
+      {
+        "center_mm": [
+          20.0,
+          0.0,
+          -1.0
+        ],
+        "height": 26.0,
+        "cut": true,
+        "shape": "RECT",
+        "tag": "SLOT_2",
+        "depth": 5.0,
+        "width": 3.4
+      }
+    ],
+    "bounds_mm": [
+      66.0,
+      36.0,
+      3.0000000000000004
+    ]
+  },
+  {
+    "parameters": [
+      {
+        "expression": "50 mm",
+        "name": "BASE_W"
+      },
+      {
+        "expression": "50 mm",
+        "name": "BASE_H"
+      },
+      {
+        "expression": "2 mm",
+        "name": "BASE_T"
+      },
+      {
+        "expression": "1.5 mm",
+        "name": "DATUM_DIMPLE_D"
+      },
+      {
+        "expression": "1 mm",
+        "name": "DATUM_DIMPLE_T"
+      }
+    ],
+    "solid_bodies": [
+      true
+    ],
+    "mass_kg": 0.0061989043695620605,
+    "physical_test": "NOT_RUN",
+    "name": "OEM_Horn_Trace_Plate",
+    "missing_refs": [],
+    "volume_mm3": 4999.1164270661775,
+    "features": [
+      {
+        "center_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "height": 50.0,
+        "cut": false,
+        "shape": "RECT",
+        "tag": "BASE",
+        "depth": 2.0,
+        "width": 50.0
+      },
+      {
+        "center_mm": [
+          0.0,
+          0.0,
+          1.5
+        ],
+        "diameter": 1.5,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "DATUM_DIMPLE",
+        "depth": 1.0
+      }
+    ],
+    "bounds_mm": [
+      50.0,
+      50.0,
+      2.0
+    ]
+  },
+  {
+    "parameters": [
+      {
+        "expression": "54 mm",
+        "name": "BASE_W"
+      },
+      {
+        "expression": "32 mm",
+        "name": "BASE_H"
+      },
+      {
+        "expression": "3 mm",
+        "name": "BASE_T"
+      },
+      {
+        "expression": "13 mm",
+        "name": "HEIGHT_0_W"
+      },
+      {
+        "expression": "24 mm",
+        "name": "HEIGHT_0_H"
+      },
+      {
+        "expression": "1 mm",
+        "name": "HEIGHT_0_T"
+      },
+      {
+        "expression": "8 mm",
+        "name": "WINDOW_0_W"
+      },
+      {
+        "expression": "16 mm",
+        "name": "WINDOW_0_H"
+      },
+      {
+        "expression": "3 mm",
+        "name": "WINDOW_0_T"
+      },
+      {
+        "expression": "13 mm",
+        "name": "HEIGHT_1_W"
+      },
+      {
+        "expression": "24 mm",
+        "name": "HEIGHT_1_H"
+      },
+      {
+        "expression": "2 mm",
+        "name": "HEIGHT_1_T"
+      },
+      {
+        "expression": "8 mm",
+        "name": "WINDOW_1_W"
+      },
+      {
+        "expression": "16 mm",
+        "name": "WINDOW_1_H"
+      },
+      {
+        "expression": "3 mm",
+        "name": "WINDOW_1_T"
+      },
+      {
+        "expression": "13 mm",
+        "name": "HEIGHT_2_W"
+      },
+      {
+        "expression": "24 mm",
+        "name": "HEIGHT_2_H"
+      },
+      {
+        "expression": "3 mm",
+        "name": "HEIGHT_2_T"
+      },
+      {
+        "expression": "8 mm",
+        "name": "WINDOW_2_W"
+      },
+      {
+        "expression": "16 mm",
+        "name": "WINDOW_2_H"
+      },
+      {
+        "expression": "3 mm",
+        "name": "WINDOW_2_T"
+      }
+    ],
+    "solid_bodies": [
+      true
+    ],
+    "mass_kg": 0.007797120000000001,
+    "physical_test": "NOT_RUN",
+    "name": "Encoder_Gap_Gauge",
+    "missing_refs": [],
+    "volume_mm3": 6288.000000000001,
+    "features": [
+      {
+        "center_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "height": 32.0,
+        "cut": false,
+        "shape": "RECT",
+        "tag": "BASE",
+        "depth": 3.0,
+        "width": 54.0
+      },
+      {
+        "center_mm": [
+          -17.0,
+          0.0,
+          3.0
+        ],
+        "height": 24.0,
+        "cut": false,
+        "shape": "RECT",
+        "tag": "HEIGHT_0",
+        "depth": 1.0,
+        "width": 13.0
+      },
+      {
+        "center_mm": [
+          -17.0,
+          0.0,
+          2.0
+        ],
+        "height": 16.0,
+        "cut": true,
+        "shape": "RECT",
+        "tag": "WINDOW_0",
+        "depth": 3.0,
+        "width": 8.0
+      },
+      {
+        "center_mm": [
+          0.0,
+          0.0,
+          3.0
+        ],
+        "height": 24.0,
+        "cut": false,
+        "shape": "RECT",
+        "tag": "HEIGHT_1",
+        "depth": 2.0,
+        "width": 13.0
+      },
+      {
+        "center_mm": [
+          0.0,
+          0.0,
+          3.0
+        ],
+        "height": 16.0,
+        "cut": true,
+        "shape": "RECT",
+        "tag": "WINDOW_1",
+        "depth": 3.0,
+        "width": 8.0
+      },
+      {
+        "center_mm": [
+          17.0,
+          0.0,
+          3.0
+        ],
+        "height": 24.0,
+        "cut": false,
+        "shape": "RECT",
+        "tag": "HEIGHT_2",
+        "depth": 3.0,
+        "width": 13.0
+      },
+      {
+        "center_mm": [
+          17.0,
+          0.0,
+          4.0
+        ],
+        "height": 16.0,
+        "cut": true,
+        "shape": "RECT",
+        "tag": "WINDOW_2",
+        "depth": 3.0,
+        "width": 8.0
+      }
+    ],
+    "bounds_mm": [
+      54.0,
+      32.0,
+      6.000000000000001
+    ]
+  },
+  {
+    "parameters": [
+      {
+        "expression": "65 mm",
+        "name": "BASE_W"
+      },
+      {
+        "expression": "25 mm",
+        "name": "BASE_H"
+      },
+      {
+        "expression": "6 mm",
+        "name": "BASE_T"
+      },
+      {
+        "expression": "16 mm",
+        "name": "BORE_0_D"
+      },
+      {
+        "expression": "8 mm",
+        "name": "BORE_0_T"
+      },
+      {
+        "expression": "16.2 mm",
+        "name": "BORE_1_D"
+      },
+      {
+        "expression": "8 mm",
+        "name": "BORE_1_T"
+      },
+      {
+        "expression": "16.4 mm",
+        "name": "BORE_2_D"
+      },
+      {
+        "expression": "8 mm",
+        "name": "BORE_2_T"
+      }
+    ],
+    "solid_bodies": [
+      true
+    ],
+    "mass_kg": 0.007488936496887721,
+    "physical_test": "NOT_RUN",
+    "name": "Bearing_Fit_Gauge",
+    "missing_refs": [],
+    "volume_mm3": 6039.464916844937,
+    "features": [
+      {
+        "center_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "height": 25.0,
+        "cut": false,
+        "shape": "RECT",
+        "tag": "BASE",
+        "depth": 6.0,
+        "width": 65.0
+      },
+      {
+        "center_mm": [
+          -21.0,
+          0.0,
+          -1.0
+        ],
+        "diameter": 16.0,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "BORE_0",
+        "depth": 8.0
+      },
+      {
+        "center_mm": [
+          0.0,
+          0.0,
+          -1.0
+        ],
+        "diameter": 16.2,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "BORE_1",
+        "depth": 8.0
+      },
+      {
+        "center_mm": [
+          21.0,
+          0.0,
+          -1.0
+        ],
+        "diameter": 16.4,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "BORE_2",
+        "depth": 8.0
+      }
+    ],
+    "bounds_mm": [
+      65.0,
+      25.0,
+      6.000000000000001
+    ]
+  },
+  {
+    "parameters": [
+      {
+        "expression": "20 mm",
+        "name": "BASE_D"
+      },
+      {
+        "expression": "2 mm",
+        "name": "BASE_T"
+      },
+      {
+        "expression": "5 mm",
+        "name": "CENTRAL_ACCESS_D"
+      },
+      {
+        "expression": "4 mm",
+        "name": "CENTRAL_ACCESS_T"
+      },
+      {
+        "expression": "2.2 mm",
+        "name": "M2_CLEARANCE_0_D"
+      },
+      {
+        "expression": "4 mm",
+        "name": "M2_CLEARANCE_0_T"
+      },
+      {
+        "expression": "2.2 mm",
+        "name": "M2_CLEARANCE_1_D"
+      },
+      {
+        "expression": "4 mm",
+        "name": "M2_CLEARANCE_1_T"
+      },
+      {
+        "expression": "2.2 mm",
+        "name": "M2_CLEARANCE_2_D"
+      },
+      {
+        "expression": "4 mm",
+        "name": "M2_CLEARANCE_2_T"
+      },
+      {
+        "expression": "2.2 mm",
+        "name": "M2_CLEARANCE_3_D"
+      },
+      {
+        "expression": "4 mm",
+        "name": "M2_CLEARANCE_3_T"
+      }
+    ],
+    "solid_bodies": [
+      true
+    ],
+    "mass_kg": 0.0006927111270200877,
+    "physical_test": "NOT_RUN",
+    "name": "XL330_Horn_PCD_Test",
+    "missing_refs": [],
+    "volume_mm3": 558.6380056613611,
+    "features": [
+      {
+        "center_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "diameter": 20.0,
+        "cut": false,
+        "shape": "CIRCLE",
+        "tag": "BASE",
+        "depth": 2.0
+      },
+      {
+        "center_mm": [
+          0.0,
+          0.0,
+          -1.0
+        ],
+        "diameter": 5.0,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "CENTRAL_ACCESS",
+        "depth": 4.0
+      },
+      {
+        "center_mm": [
+          6.0,
+          0.0,
+          -1.0
+        ],
+        "diameter": 2.2,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "M2_CLEARANCE_0",
+        "depth": 4.0
+      },
+      {
+        "center_mm": [
+          3.6739403974420594e-16,
+          6.0,
+          -1.0
+        ],
+        "diameter": 2.2,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "M2_CLEARANCE_1",
+        "depth": 4.0
+      },
+      {
+        "center_mm": [
+          -6.0,
+          7.347880794884119e-16,
+          -1.0
+        ],
+        "diameter": 2.2,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "M2_CLEARANCE_2",
+        "depth": 4.0
+      },
+      {
+        "center_mm": [
+          -1.102182119232618e-15,
+          -6.0,
+          -1.0
+        ],
+        "diameter": 2.2,
+        "cut": true,
+        "shape": "CIRCLE",
+        "tag": "M2_CLEARANCE_3",
+        "depth": 4.0
+      }
+    ],
+    "bounds_mm": [
+      20.0,
+      20.0,
+      2.0000000000000004
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+﻿feature,nominal_mm,prototype_allowance_mm,actual_measured_mm,required_correction_mm,material,nozzle_mm,status
+body_width,19,0.2,,,PLA,,MEASUREMENT_REQUIRED
+body_depth,38,0.2,,,PLA,,MEASUREMENT_REQUIRED
+hole_diameter,3,0.2,,,PLA,,MEASUREMENT_REQUIRED
+screw_clearance,3,0.4,,,PLA,,MEASUREMENT_REQUIRED
+bearing_fit,16,0.2,,,PLA,,MEASUREMENT_REQUIRED
+insert_fit,,,,,PLA,,MEASUREMENT_REQUIRED
+magnet_fit,6,0.2,,,PLA,,MEASUREMENT_REQUIRED
+sensor_window,18,0.4,,,PLA,,MEASUREMENT_REQUIRED

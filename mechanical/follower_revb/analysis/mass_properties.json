@@ -1,0 +1,287 @@
+{
+  "total_mass_kg": 0.9492718385284322,
+  "com_mm": [
+    123.11232057806406,
+    -5.8116820333497285,
+    149.2707307313215
+  ],
+  "parts": [
+    {
+      "name": "Base_motor_holder_SO101",
+      "part": "Base_motor_holder_SO101",
+      "link": "base_link",
+      "mass": 0.029409484459383347,
+      "com": [
+        0.0062645418621860025,
+        -0.0003445273935504701,
+        0.04913303386498599
+      ],
+      "trace": 6.106253025684824e-05
+    },
+    {
+      "name": "Base_SO101",
+      "part": "Base_SO101",
+      "link": "base_link",
+      "mass": 0.1521581638740483,
+      "com": [
+        0.008656061824762893,
+        -8.829886455239984e-06,
+        0.01909878388579853
+      ],
+      "trace": 0.000488252459848019
+    },
+    {
+      "name": "WaveShare_Mounting_Plate_SO101",
+      "part": "WaveShare_Mounting_Plate_SO101",
+      "link": "base_link",
+      "mass": 0.011275699697597404,
+      "com": [
+        -0.028539290292180396,
+        -0.000199432024854894,
+        0.047406818742921346
+      ],
+      "trace": 7.066368399306322e-06
+    },
+    {
+      "name": "Motor_holder_SO101_Base",
+      "part": "Motor_holder_SO101_Base",
+      "link": "shoulder_link",
+      "mass": 0.01650969069804008,
+      "com": [
+        -0.031562108683867725,
+        -0.0010589464930220167,
+        -0.023945983933358065
+      ],
+      "trace": 1.9718360136849836e-05
+    },
+    {
+      "name": "Rotation_Pitch_SO101",
+      "part": "Rotation_Pitch_SO101",
+      "link": "shoulder_link",
+      "mass": 0.08532815114683448,
+      "com": [
+        -0.03110782465677378,
+        -0.00014145700727932693,
+        0.007472764353988683
+      ],
+      "trace": 0.00014034116738356942
+    },
+    {
+      "name": "Upper_arm_SO101",
+      "part": "Upper_arm_SO101",
+      "link": "upper_arm_link",
+      "mass": 0.14559748794185465,
+      "com": [
+        -0.06055972491400521,
+        0.00040376750326192684,
+        0.018197600901578594
+      ],
+      "trace": 0.0004708262944552036
+    },
+    {
+      "name": "Under_arm_SO101",
+      "part": "Under_arm_SO101",
+      "link": "lower_arm_link",
+      "mass": 0.11527525091038028,
+      "com": [
+        -0.05617969645394449,
+        -0.00032911845115465074,
+        0.017853548757885807
+      ],
+      "trace": 0.00030546088359273014
+    },
+    {
+      "name": "Motor_holder_SO101_Wrist",
+      "part": "Motor_holder_SO101_Wrist",
+      "link": "lower_arm_link",
+      "mass": 0.017211581265262257,
+      "com": [
+        -0.10466034877514127,
+        0.00429713186483429,
+        0.018120724103928832
+      ],
+      "trace": 2.085843515968646e-05
+    },
+    {
+      "name": "Wrist_Roll_Pitch_SO101",
+      "part": "Wrist_Roll_Pitch_SO101",
+      "link": "wrist_link",
+      "mass": 0.04007072852179239,
+      "com": [
+        -0.000474587733024478,
+        -0.06018082408940011,
+        0.019845932227400904
+      ],
+      "trace": 6.950572074227204e-05
+    },
+    {
+      "name": "Wrist_Roll_Follower_SO101",
+      "part": "Wrist_Roll_Follower_SO101",
+      "link": "gripper_link",
+      "mass": 0.07021358662732868,
+      "com": [
+        0.00018975872553327262,
+        -0.031393019676268945,
+        0.003936128530992754
+      ],
+      "trace": 0.00012262701550440003
+    },
+    {
+      "name": "Moving_Jaw_SO101",
+      "part": "Moving_Jaw_SO101",
+      "link": "moving_jaw_so101_v1_link",
+      "mass": 0.025658877385910384,
+      "com": [
+        -0.0015748275373948647,
+        -0.030023395911995068,
+        0.01927566922500075
+      ],
+      "trace": 2.948940172559641e-05
+    },
+    {
+      "name": "shoulder_pan_Vstone_Envelope",
+      "part": "Vstone_Envelope",
+      "link": "base_link",
+      "mass": 0.042,
+      "com": [
+        0.03883532520923859,
+        -0.00950006005810663,
+        0.0816499747908292
+      ],
+      "trace": 2.3010750000000027e-05
+    },
+    {
+      "name": "shoulder_pan_Vstone_Cradle_HOLD",
+      "part": "Vstone_Cradle_HOLD",
+      "link": "base_link",
+      "mass": 0.006245135999999998,
+      "com": [
+        0.03883532520936169,
+        -0.009500106448982802,
+        0.09913228358276192
+      ],
+      "trace": 4.170747159049147e-06
+    },
+    {
+      "name": "shoulder_lift_Vstone_Envelope",
+      "part": "Vstone_Envelope",
+      "link": "shoulder_link",
+      "mass": 0.042,
+      "com": [
+        -0.020899270709326415,
+        -0.03752783489531862,
+        -0.05419996510481125
+      ],
+      "trace": 2.3010750000000027e-05
+    },
+    {
+      "name": "shoulder_lift_Vstone_Cradle_HOLD",
+      "part": "Vstone_Cradle_HOLD",
+      "link": "shoulder_link",
+      "mass": 0.006245135999999998,
+      "com": [
+        -0.02089933492543229,
+        -0.05501014368719495,
+        -0.05419996510504713
+      ],
+      "trace": 4.170747159049147e-06
+    },
+    {
+      "name": "elbow_flex_Vstone_Envelope",
+      "part": "Vstone_Envelope",
+      "link": "upper_arm_link",
+      "mass": 0.042,
+      "com": [
+        -0.10307000000006411,
+        -0.027999965104551536,
+        -0.019249999999999823
+      ],
+      "trace": 2.3010750000000027e-05
+    },
+    {
+      "name": "elbow_flex_Vstone_Cradle_HOLD",
+      "part": "Vstone_Cradle_HOLD",
+      "link": "upper_arm_link",
+      "mass": 0.006245135999999998,
+      "com": [
+        -0.1030700000000641,
+        -0.02799996510455155,
+        -0.03673230879199411
+      ],
+      "trace": 4.170747159049147e-06
+    },
+    {
+      "name": "wrist_flex_Vstone_Envelope",
+      "part": "Vstone_Envelope",
+      "link": "lower_arm_link",
+      "mass": 0.042,
+      "com": [
+        -0.1349000348954484,
+        -0.004299999999935899,
+        -0.019249999999999972
+      ],
+      "trace": 2.3010750000000027e-05
+    },
+    {
+      "name": "wrist_flex_Vstone_Cradle_HOLD",
+      "part": "Vstone_Cradle_HOLD",
+      "link": "lower_arm_link",
+      "mass": 0.006245135999999998,
+      "com": [
+        -0.13490003489544836,
+        -0.00429999999993588,
+        -0.03673230879199425
+      ],
+      "trace": 4.170747159049147e-06
+    },
+    {
+      "name": "wrist_roll_XL330_Envelope",
+      "part": "XL330_Envelope",
+      "link": "wrist_link",
+      "mass": 0.018,
+      "com": [
+        -0.007491147974994771,
+        -0.0725999801215291,
+        0.017735090119116396
+      ],
+      "trace": 6.255000000000002e-06
+    },
+    {
+      "name": "wrist_roll_XL330_Cradle_HOLD",
+      "part": "XL330_Cradle_HOLD",
+      "link": "wrist_link",
+      "mass": 0.0057912960000000005,
+      "com": [
+        -0.007491175791783698,
+        -0.08242115175554489,
+        0.017735126151559043
+      ],
+      "trace": 3.5807950469610683e-06
+    },
+    {
+      "name": "gripper_XL330_Envelope",
+      "part": "XL330_Envelope",
+      "link": "gripper_link",
+      "mass": 0.018,
+      "com": [
+        0.027699999999997792,
+        0.03029999999992241,
+        -0.023399957364928312
+      ],
+      "trace": 6.255000000000002e-06
+    },
+    {
+      "name": "gripper_XL330_Cradle_HOLD",
+      "part": "XL330_Cradle_HOLD",
+      "link": "gripper_link",
+      "mass": 0.0057912960000000005,
+      "com": [
+        0.02769999999999592,
+        0.04012117163397742,
+        -0.023399921289750544
+      ],
+      "trace": 3.5807950469610683e-06
+    }
+  ],
+  "scope": "CAD full-solid/overrides; native assembly inertia saved separately; physical test not run"
+}

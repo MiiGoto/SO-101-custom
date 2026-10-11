@@ -1,0 +1,112 @@
+[
+  {
+    "part": "Base_motor_holder_SO101",
+    "volume_delta_mm3": 0.0,
+    "com_delta_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "shape_change": "NONE; mass override only"
+  },
+  {
+    "part": "Base_SO101",
+    "volume_delta_mm3": 0.0,
+    "com_delta_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "shape_change": "NONE; mass override only"
+  },
+  {
+    "part": "WaveShare_Mounting_Plate_SO101",
+    "volume_delta_mm3": 0.0,
+    "com_delta_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "shape_change": "NONE; mass override only"
+  },
+  {
+    "part": "Motor_holder_SO101_Base",
+    "volume_delta_mm3": 0.0,
+    "com_delta_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "shape_change": "NONE; mass override only"
+  },
+  {
+    "part": "Rotation_Pitch_SO101",
+    "volume_delta_mm3": 0.0,
+    "com_delta_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "shape_change": "NONE; mass override only"
+  },
+  {
+    "part": "Upper_arm_SO101",
+    "volume_delta_mm3": 0.0,
+    "com_delta_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "shape_change": "NONE; mass override only"
+  },
+  {
+    "part": "Under_arm_SO101",
+    "volume_delta_mm3": 0.0,
+    "com_delta_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "shape_change": "NONE; mass override only"
+  },
+  {
+    "part": "Motor_holder_SO101_Wrist",
+    "volume_delta_mm3": 0.0,
+    "com_delta_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "shape_change": "NONE; mass override only"
+  },
+  {
+    "part": "Wrist_Roll_Pitch_SO101",
+    "volume_delta_mm3": 0.0,
+    "com_delta_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "shape_change": "NONE; mass override only"
+  },
+  {
+    "part": "Wrist_Roll_Follower_SO101",
+    "volume_delta_mm3": 0.0,
+    "com_delta_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "shape_change": "NONE; mass override only"
+  },
+  {
+    "part": "Moving_Jaw_SO101",
+    "volume_delta_mm3": 0.0,
+    "com_delta_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "shape_change": "NONE; mass override only"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "assembly": "two_joint_revc",
+    "poses": 22,
+    "updates_ok": true,
+    "missing_refs": [],
+    "constraints": 43,
+    "constraint_health": [
+      "11778"
+    ],
+    "hit_records": 132,
+    "collision_free_poses": 0,
+    "independent_axes": 2
+  },
+  {
+    "assembly": "follower_revb",
+    "poses": 61,
+    "updates_ok": true,
+    "missing_refs": [],
+    "constraints": 81,
+    "constraint_health": [
+      "11778"
+    ],
+    "hit_records": 729,
+    "collision_free_poses": 0,
+    "independent_axes": 6
+  }
+]

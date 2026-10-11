@@ -1,0 +1,268 @@
+{
+  "status": "ASSUMPTION; free-length60mm spring slack where span<60mm; full-range compensation infeasible; no native spring bracket created; selection/anchor/retention/strength HOLD",
+  "fixed_anchor_local_mm": [
+    0,
+    60,
+    0
+  ],
+  "rotating_anchor_radius_mm": 60,
+  "stiffness_N_m": 100,
+  "free_length_mm": 60.0,
+  "initial_tension_N": 10,
+  "rows": [
+    {
+      "angle_from_horizontal_deg": -75,
+      "length_mm": 118.97338336485724,
+      "extension_mm": 58.97338336485725,
+      "moment_arm_mm": 7.831571533203095,
+      "force_N": 15.897338336485724,
+      "compensation_Nm": 0.12450114236971985
+    },
+    {
+      "angle_from_horizontal_deg": -70,
+      "length_mm": 118.17693036146497,
+      "extension_mm": 58.17693036146497,
+      "moment_arm_mm": 10.418890660015823,
+      "force_N": 15.817693036146498,
+      "compensation_Nm": 0.16480281423730408
+    },
+    {
+      "angle_from_horizontal_deg": -65,
+      "length_mm": 117.155520854392,
+      "extension_mm": 57.155520854392,
+      "moment_arm_mm": 12.986376836286171,
+      "force_N": 15.7155520854392,
+      "compensation_Nm": 0.20408808157179645
+    },
+    {
+      "angle_from_horizontal_deg": -60,
+      "length_mm": 115.91109915468819,
+      "extension_mm": 55.91109915468819,
+      "moment_arm_mm": 15.529142706151251,
+      "force_N": 15.591109915468818,
+      "compensation_Nm": 0.24211657082460505
+    },
+    {
+      "angle_from_horizontal_deg": -55,
+      "length_mm": 114.44603408978722,
+      "extension_mm": 54.446034089787226,
+      "moment_arm_mm": 18.042347970256387,
+      "force_N": 15.444603408978722,
+      "compensation_Nm": 0.2786569089674021
+    },
+    {
+      "angle_from_horizontal_deg": -50,
+      "length_mm": 112.76311449430901,
+      "extension_mm": 52.76311449430901,
+      "moment_arm_mm": 20.521208599540124,
+      "force_N": 15.276311449430901,
+      "compensation_Nm": 0.3134883738853147
+    },
+    {
+      "angle_from_horizontal_deg": -45,
+      "length_mm": 110.8655439013544,
+      "extension_mm": 50.86554390135441,
+      "moment_arm_mm": 22.961005941905388,
+      "force_N": 15.08655439013544,
+      "compensation_Nm": 0.3464024649947786
+    },
+    {
+      "angle_from_horizontal_deg": -40,
+      "length_mm": 108.75693444439798,
+      "extension_mm": 48.75693444439799,
+      "moment_arm_mm": 25.357095704441964,
+      "force_N": 14.875693444439799,
+      "compensation_Nm": 0.3772043823405999
+    },
+    {
+      "angle_from_horizontal_deg": -35,
+      "length_mm": 106.4412999813866,
+      "extension_mm": 46.4412999813866,
+      "moment_arm_mm": 27.704916794102033,
+      "force_N": 14.64412999813866,
+      "compensation_Nm": 0.4057144031204451
+    },
+    {
+      "angle_from_horizontal_deg": -30,
+      "length_mm": 103.92304845413264,
+      "extension_mm": 43.92304845413264,
+      "moment_arm_mm": 30.000000000000004,
+      "force_N": 14.392304845413264,
+      "compensation_Nm": 0.43176914536239797
+    },
+    {
+      "angle_from_horizontal_deg": -25,
+      "length_mm": 101.20697349754629,
+      "extension_mm": 41.20697349754629,
+      "moment_arm_mm": 32.23797650080943,
+      "force_N": 14.120697349754629,
+      "compensation_Nm": 0.4552227093364317
+    },
+    {
+      "angle_from_horizontal_deg": -20,
+      "length_mm": 98.29824531467901,
+      "extension_mm": 38.298245314679015,
+      "moment_arm_mm": 34.41458618106277,
+      "force_N": 13.829824531467901,
+      "compensation_Nm": 0.4759476882071781
+    },
+    {
+      "angle_from_horizontal_deg": -15,
+      "length_mm": 95.20240083494821,
+      "extension_mm": 35.202400834948214,
+      "moment_arm_mm": 36.52568574052324,
+      "force_N": 13.520240083494821,
+      "compensation_Nm": 0.4938360404261575
+    },
+    {
+      "angle_from_horizontal_deg": -10,
+      "length_mm": 91.92533317427737,
+      "extension_mm": 31.92533317427737,
+      "moment_arm_mm": 38.56725658119235,
+      "force_N": 13.192533317427737,
+      "compensation_Nm": 0.5087998174091642
+    },
+    {
+      "angle_from_horizontal_deg": -5,
+      "length_mm": 88.47328041721488,
+      "extension_mm": 28.473280417214877,
+      "moment_arm_mm": 40.53541245693962,
+      "force_N": 12.847328041721488,
+      "compensation_Nm": 0.5207717411407868
+    },
+    {
+      "angle_from_horizontal_deg": 0,
+      "length_mm": 84.8528137423857,
+      "extension_mm": 24.85281374238571,
+      "moment_arm_mm": 42.426406871192846,
+      "force_N": 12.485281374238571,
+      "compensation_Nm": 0.5297056274847713
+    },
+    {
+      "angle_from_horizontal_deg": 5,
+      "length_mm": 81.07082491387922,
+      "extension_mm": 21.070824913879225,
+      "moment_arm_mm": 44.23664020860745,
+      "force_N": 12.107082491387922,
+      "compensation_Nm": 0.5355766521474582
+    },
+    {
+      "angle_from_horizontal_deg": 10,
+      "length_mm": 77.13451316238472,
+      "extension_mm": 17.13451316238472,
+      "moment_arm_mm": 45.96266658713868,
+      "force_N": 11.713451316238473,
+      "compensation_Nm": 0.5383814574329496
+    },
+    {
+      "angle_from_horizontal_deg": 15,
+      "length_mm": 73.05137148104649,
+      "extension_mm": 13.051371481046486,
+      "moment_arm_mm": 47.601200417474104,
+      "force_N": 11.305137148104649,
+      "compensation_Nm": 0.5381380991339609
+    },
+    {
+      "angle_from_horizontal_deg": 20,
+      "length_mm": 68.82917236212553,
+      "extension_mm": 8.829172362125535,
+      "moment_arm_mm": 49.14912265733951,
+      "force_N": 10.882917236212553,
+      "compensation_Nm": 0.5348858341122851
+    },
+    {
+      "angle_from_horizontal_deg": 25,
+      "length_mm": 64.47595300161886,
+      "extension_mm": 4.475953001618863,
+      "moment_arm_mm": 50.603486748773136,
+      "force_N": 10.447595300161886,
+      "compensation_Nm": 0.5286847503282865
+    },
+    {
+      "angle_from_horizontal_deg": 30,
+      "length_mm": 60.00000000000001,
+      "extension_mm": 6.938893903907228e-15,
+      "moment_arm_mm": 51.96152422706632,
+      "force_N": 10.0,
+      "compensation_Nm": 0.5196152422706632
+    },
+    {
+      "angle_from_horizontal_deg": 35,
+      "length_mm": 55.40983358820407,
+      "extension_mm": 0,
+      "moment_arm_mm": 53.220649990693296,
+      "force_N": 0,
+      "compensation_Nm": 0.0
+    },
+    {
+      "angle_from_horizontal_deg": 40,
+      "length_mm": 50.71419140888394,
+      "extension_mm": 0,
+      "moment_arm_mm": 54.37846722219898,
+      "force_N": 0,
+      "compensation_Nm": 0.0
+    },
+    {
+      "angle_from_horizontal_deg": 45,
+      "length_mm": 45.922011883810775,
+      "extension_mm": 0,
+      "moment_arm_mm": 55.4327719506772,
+      "force_N": 0,
+      "compensation_Nm": 0.0
+    },
+    {
+      "angle_from_horizontal_deg": 50,
+      "length_mm": 41.042417199080255,
+      "extension_mm": 0,
+      "moment_arm_mm": 56.38155724715449,
+      "force_N": 0,
+      "compensation_Nm": 0.0
+    },
+    {
+      "angle_from_horizontal_deg": 55,
+      "length_mm": 36.08469594051278,
+      "extension_mm": 0,
+      "moment_arm_mm": 57.2230170448936,
+      "force_N": 0,
+      "compensation_Nm": 0.0
+    },
+    {
+      "angle_from_horizontal_deg": 60,
+      "length_mm": 31.0582854123025,
+      "extension_mm": 0,
+      "moment_arm_mm": 57.9555495773441,
+      "force_N": 0,
+      "compensation_Nm": 0.0
+    },
+    {
+      "angle_from_horizontal_deg": 65,
+      "length_mm": 25.97275367257235,
+      "extension_mm": 0,
+      "moment_arm_mm": 58.57776042719598,
+      "force_N": 0,
+      "compensation_Nm": 0.0
+    },
+    {
+      "angle_from_horizontal_deg": 70,
+      "length_mm": 20.83778132003165,
+      "extension_mm": 0,
+      "moment_arm_mm": 59.08846518073247,
+      "force_N": 0,
+      "compensation_Nm": 0.0
+    },
+    {
+      "angle_from_horizontal_deg": 75,
+      "length_mm": 15.663143066406198,
+      "extension_mm": 0,
+      "moment_arm_mm": 59.48669168242859,
+      "force_N": 0,
+      "compensation_Nm": 0.0
+    }
+  ],
+  "required_length_range_mm": [
+    15.663143066406198,
+    118.97338336485724
+  ],
+  "broken_spring_behavior": "Full uncompensated CAD gravity loads return; motor fit not certified, catch/support mandatory",
+  "alternative": "Torsion needs preload 0.5..1Nm; constant force varies with lever; counterweight0.6Nm at80mm needs0.765kg excluding holder"
+}

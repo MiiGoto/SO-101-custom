@@ -1,0 +1,9 @@
+﻿part,CAD_COMPLETE,DRAWING_COMPLETE,PRINT_TEST_READY,MEASUREMENT_REQUIRED,MANUFACTURING_HOLD,VERIFIED_BY_PHYSICAL_TEST
+Bearing_Fit_Gauge,True,False,True,True,False,False
+Encoder_Gap_Gauge,True,False,True,True,False,False
+Mounting_Pitch_Gauge,True,False,True,True,False,False
+OEM_Horn_Trace_Plate,True,False,True,True,False,False
+Servo_Body_Fit_Grid,True,False,True,True,False,False
+XL330_Horn_PCD_Test,True,False,True,True,False,False
+Vstone_Cradle_HOLD,True,False,False,True,True,False
+XL330_Cradle_HOLD,True,False,False,True,True,False
