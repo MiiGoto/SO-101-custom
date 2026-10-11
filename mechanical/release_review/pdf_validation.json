@@ -1,0 +1,82 @@
+[
+  {
+    "file": "adapters/pdf/Bearing_Fit_Coupon_JIS.pdf",
+    "pages": 1,
+    "japanese_present": true,
+    "hold_present": true,
+    "nonblank": true,
+    "visual_status": "REVIEWED: nonblank/Japanese/third-angle views/title block/border/HOLD checked; manufacturing dimensions still HOLD"
+  },
+  {
+    "file": "adapters/pdf/Encoder_Alignment_Test_JIS.pdf",
+    "pages": 1,
+    "japanese_present": true,
+    "hold_present": true,
+    "nonblank": true,
+    "visual_status": "REVIEWED: nonblank/Japanese/third-angle views/title block/border/HOLD checked; manufacturing dimensions still HOLD"
+  },
+  {
+    "file": "adapters/pdf/Horn_Adapter_Test_JIS.pdf",
+    "pages": 1,
+    "japanese_present": true,
+    "hold_present": true,
+    "nonblank": true,
+    "visual_status": "REVIEWED: nonblank/Japanese/third-angle views/title block/border/HOLD checked; manufacturing dimensions still HOLD"
+  },
+  {
+    "file": "adapters/pdf/Servo_Mount_Coupon_JIS.pdf",
+    "pages": 1,
+    "japanese_present": true,
+    "hold_present": true,
+    "nonblank": true,
+    "visual_status": "REVIEWED: nonblank/Japanese/third-angle views/title block/border/HOLD checked; manufacturing dimensions still HOLD"
+  },
+  {
+    "file": "adapters/pdf/Under_arm_SO101_JIS.pdf",
+    "pages": 1,
+    "japanese_present": true,
+    "hold_present": true,
+    "nonblank": true,
+    "visual_status": "REVIEWED: nonblank/Japanese/third-angle views/title block/border/HOLD checked; manufacturing dimensions still HOLD"
+  },
+  {
+    "file": "adapters/pdf/Upper_arm_SO101_JIS.pdf",
+    "pages": 1,
+    "japanese_present": true,
+    "hold_present": true,
+    "nonblank": true,
+    "visual_status": "REVIEWED: nonblank/Japanese/third-angle views/title block/border/HOLD checked; manufacturing dimensions still HOLD"
+  },
+  {
+    "file": "adapters/pdf/Vstone_Cradle_HOLD_JIS.pdf",
+    "pages": 1,
+    "japanese_present": true,
+    "hold_present": true,
+    "nonblank": true,
+    "visual_status": "REVIEWED: nonblank/Japanese/third-angle views/title block/border/HOLD checked; manufacturing dimensions still HOLD"
+  },
+  {
+    "file": "adapters/pdf/XL330_Cradle_HOLD_JIS.pdf",
+    "pages": 1,
+    "japanese_present": true,
+    "hold_present": true,
+    "nonblank": true,
+    "visual_status": "REVIEWED: nonblank/Japanese/third-angle views/title block/border/HOLD checked; manufacturing dimensions still HOLD"
+  },
+  {
+    "file": "two_joint_revb/pdf/SO101_TwoJoint_RevB_JIS.pdf",
+    "pages": 1,
+    "japanese_present": true,
+    "hold_present": true,
+    "nonblank": true,
+    "visual_status": "REVIEWED: nonblank/Japanese/third-angle views/title block/border/HOLD checked; manufacturing dimensions still HOLD"
+  },
+  {
+    "file": "follower_six_axis/pdf/SO101_Custom_Follower_RevA_JIS.pdf",
+    "pages": 1,
+    "japanese_present": true,
+    "hold_present": true,
+    "nonblank": true,
+    "visual_status": "REVIEWED: nonblank/Japanese/third-angle views/title block/border/HOLD checked; manufacturing dimensions still HOLD"
+  }
+]

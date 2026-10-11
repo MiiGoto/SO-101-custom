@@ -1,0 +1,124 @@
+{
+  "status": "PARAMETER_STUDY_ONLY; no spring selected or tested",
+  "fixed_anchor_mm": [
+    -35,
+    40,
+    -40
+  ],
+  "rotating_anchor_local_mm": [
+    35,
+    0,
+    -40
+  ],
+  "effective_spring_k_N_m": 280,
+  "equivalent_zero_force_length_mm": 43.0,
+  "worst_residual_shoulder_Nm": 0.07290159342005764,
+  "length_range_mm": [
+    44.49173346692377,
+    80.6225774829855
+  ],
+  "force_range_N": [
+    0.4176853707386563,
+    10.53432169523594
+  ],
+  "poses": [
+    {
+      "shoulder_deg": 0,
+      "torque_Nm": 0.18292705137643026,
+      "length_mm": 80.6225774829855,
+      "force_N": 10.53432169523594
+    },
+    {
+      "shoulder_deg": 5,
+      "torque_Nm": 0.1916792753535261,
+      "length_mm": 79.03569402890909,
+      "force_N": 10.089994328094546
+    },
+    {
+      "shoulder_deg": 10,
+      "torque_Nm": 0.19775326101954183,
+      "length_mm": 77.3082408117822,
+      "force_N": 9.606307427299017
+    },
+    {
+      "shoulder_deg": 15,
+      "torque_Nm": 0.20100941144923828,
+      "length_mm": 75.44418432272404,
+      "force_N": 9.084371610362732
+    },
+    {
+      "shoulder_deg": 20,
+      "torque_Nm": 0.20133589123677317,
+      "length_mm": 73.4478762090069,
+      "force_N": 8.525405338521935
+    },
+    {
+      "shoulder_deg": 25,
+      "torque_Nm": 0.19865060688036063,
+      "length_mm": 71.32406988784246,
+      "force_N": 7.930739568595889
+    },
+    {
+      "shoulder_deg": 30,
+      "torque_Nm": 0.19290323181141678,
+      "length_mm": 69.07794321830866,
+      "force_N": 7.301824101126427
+    },
+    {
+      "shoulder_deg": 35,
+      "torque_Nm": 0.1840773619859611,
+      "length_mm": 66.7151293690202,
+      "force_N": 6.640236223325657
+    },
+    {
+      "shoulder_deg": 40,
+      "torque_Nm": 0.17219293007713418,
+      "length_mm": 64.24175883737296,
+      "force_N": 5.9476924744644295
+    },
+    {
+      "shoulder_deg": 45,
+      "torque_Nm": 0.15730906830441616,
+      "length_mm": 61.66451675465161,
+      "force_N": 5.226064691302451
+    },
+    {
+      "shoulder_deg": 50,
+      "torque_Nm": 0.13952770255278518,
+      "length_mm": 58.99072132970476,
+      "force_N": 4.477401972317334
+    },
+    {
+      "shoulder_deg": 55,
+      "torque_Nm": 0.11899830072347228,
+      "length_mm": 56.22843182101815,
+      "force_N": 3.7039609098850814
+    },
+    {
+      "shoulder_deg": 60,
+      "torque_Nm": 0.09592441337655613,
+      "length_mm": 53.38659821906217,
+      "force_N": 2.908247501337409
+    },
+    {
+      "shoulder_deg": 65,
+      "torque_Nm": 0.0705729778496161,
+      "length_mm": 50.47527055462006,
+      "force_N": 2.093075755293618
+    },
+    {
+      "shoulder_deg": 70,
+      "torque_Nm": 0.04328787590940483,
+      "length_mm": 47.50589450739081,
+      "force_N": 1.2616504620694298
+    },
+    {
+      "shoulder_deg": 75,
+      "torque_Nm": 0.014510042235462869,
+      "length_mm": 44.49173346692377,
+      "force_N": 0.4176853707386563
+    }
+  ],
+  "initial_tension_note": "Equivalent F=k(L-L0); Lfree must not exceed shortest demand44.49 mm; example44 mm -> Fi0.28 N, maximum extension36.62 mm. Initial tension, tolerance, hook compliance and fatigue TBD.",
+  "failure": "Breakage removes compensation; arm falls until a qualified stop/support. Spring overstress and excess upward torque possible."
+}

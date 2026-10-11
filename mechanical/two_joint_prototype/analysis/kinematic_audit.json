@@ -1,0 +1,3677 @@
+{
+  "final_constraints": [
+    {
+      "name": "フラッシュ:1",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:2",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:3",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:4",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:5",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:6",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "メイト:1",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:7",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:8",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:9",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:10",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:11",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:12",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:13",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:14",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:15",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:16",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "メイト:2",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:17",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:18",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:19",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:20",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:21",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:22",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:23",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:24",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:25",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:26",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:27",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:28",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:29",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:30",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:31",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:32",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:33",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:34",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:35",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:36",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:37",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:38",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:39",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:40",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:41",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:42",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:43",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:44",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:45",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:46",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:47",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:48",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:49",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:50",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:51",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:52",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:53",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:54",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:55",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:56",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:57",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:58",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:59",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:60",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:61",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:62",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:63",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:64",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:65",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:66",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:67",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:68",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:69",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:70",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:71",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:72",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:73",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:74",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:75",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:76",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:77",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:78",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:79",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:80",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:81",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:82",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:83",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:84",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:85",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:86",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:87",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:88",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:89",
+      "health": "11778",
+      "suppressed": false
+    }
+  ],
+  "after_dof": [
+    {
+      "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+      "name": "Upper_Arm_ROTATING"
+    },
+    {
+      "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+      "name": "Forearm_ROTATING"
+    }
+  ],
+  "pose_audit": [
+    {
+      "locked_dof": [
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Upper_Arm_ROTATING"
+        },
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Forearm_ROTATING"
+        }
+      ],
+      "interferences": [],
+      "constraints": [
+        {
+          "health": "11778",
+          "name": "フラッシュ:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:3"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:4"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:5"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:6"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:7"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:8"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:9"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:10"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:11"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:12"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:13"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:14"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:15"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:16"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:17"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:18"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:19"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:20"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:21"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:22"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:23"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:24"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:25"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:26"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:27"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:28"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:29"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:30"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:31"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:32"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:33"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:34"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:35"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:36"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:37"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:38"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:39"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:40"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:41"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:42"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:43"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:44"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:45"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:46"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:47"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:48"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:49"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:50"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:51"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:52"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:53"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:54"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:55"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:56"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:57"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:58"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:59"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:60"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:61"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:62"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:63"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:64"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:65"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:66"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:67"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:68"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:69"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:70"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:71"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:72"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:73"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:74"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:75"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:76"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:77"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:78"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:79"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:80"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:81"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:82"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:83"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:84"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:85"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:86"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:87"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:88"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:89"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_SHOULDER_ANGLE"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_ELBOW_ANGLE"
+        }
+      ],
+      "upper_matrix": [
+        0.9999999999999996,
+        0.0
+      ],
+      "forearm_matrix": [
+        0.9999999999999998,
+        0.0
+      ],
+      "requested_angles_deg": [
+        0,
+        0
+      ],
+      "update_ok": true,
+      "pose": "initial"
+    },
+    {
+      "locked_dof": [
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Upper_Arm_ROTATING"
+        },
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Forearm_ROTATING"
+        }
+      ],
+      "interferences": [],
+      "constraints": [
+        {
+          "health": "11778",
+          "name": "フラッシュ:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:3"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:4"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:5"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:6"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:7"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:8"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:9"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:10"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:11"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:12"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:13"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:14"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:15"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:16"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:17"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:18"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:19"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:20"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:21"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:22"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:23"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:24"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:25"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:26"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:27"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:28"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:29"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:30"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:31"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:32"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:33"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:34"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:35"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:36"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:37"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:38"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:39"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:40"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:41"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:42"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:43"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:44"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:45"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:46"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:47"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:48"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:49"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:50"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:51"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:52"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:53"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:54"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:55"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:56"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:57"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:58"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:59"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:60"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:61"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:62"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:63"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:64"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:65"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:66"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:67"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:68"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:69"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:70"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:71"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:72"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:73"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:74"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:75"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:76"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:77"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:78"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:79"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:80"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:81"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:82"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:83"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:84"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:85"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:86"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:87"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:88"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:89"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_SHOULDER_ANGLE"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_ELBOW_ANGLE"
+        }
+      ],
+      "upper_matrix": [
+        0.25881904510252063,
+        0.9659258262890679
+      ],
+      "forearm_matrix": [
+        -0.9659258262890682,
+        -0.25881904510252046
+      ],
+      "requested_angles_deg": [
+        75,
+        120
+      ],
+      "update_ok": true,
+      "pose": "maximum_flex"
+    },
+    {
+      "locked_dof": [
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Upper_Arm_ROTATING"
+        },
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Forearm_ROTATING"
+        }
+      ],
+      "interferences": [],
+      "constraints": [
+        {
+          "health": "11778",
+          "name": "フラッシュ:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:3"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:4"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:5"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:6"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:7"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:8"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:9"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:10"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:11"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:12"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:13"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:14"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:15"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:16"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:17"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:18"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:19"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:20"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:21"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:22"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:23"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:24"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:25"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:26"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:27"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:28"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:29"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:30"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:31"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:32"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:33"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:34"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:35"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:36"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:37"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:38"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:39"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:40"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:41"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:42"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:43"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:44"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:45"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:46"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:47"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:48"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:49"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:50"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:51"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:52"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:53"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:54"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:55"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:56"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:57"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:58"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:59"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:60"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:61"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:62"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:63"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:64"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:65"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:66"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:67"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:68"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:69"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:70"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:71"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:72"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:73"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:74"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:75"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:76"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:77"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:78"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:79"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:80"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:81"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:82"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:83"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:84"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:85"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:86"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:87"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:88"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:89"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_SHOULDER_ANGLE"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_ELBOW_ANGLE"
+        }
+      ],
+      "upper_matrix": [
+        0.9999999999999996,
+        -2.7755575615628914E-17
+      ],
+      "forearm_matrix": [
+        0.9999999999999998,
+        -5.551115123125783E-17
+      ],
+      "requested_angles_deg": [
+        0,
+        0
+      ],
+      "update_ok": true,
+      "pose": "extension"
+    },
+    {
+      "locked_dof": [
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Upper_Arm_ROTATING"
+        },
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Forearm_ROTATING"
+        }
+      ],
+      "interferences": [],
+      "constraints": [
+        {
+          "health": "11778",
+          "name": "フラッシュ:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:3"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:4"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:5"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:6"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:7"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:8"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:9"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:10"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:11"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:12"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:13"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:14"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:15"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:16"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:17"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:18"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:19"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:20"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:21"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:22"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:23"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:24"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:25"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:26"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:27"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:28"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:29"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:30"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:31"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:32"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:33"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:34"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:35"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:36"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:37"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:38"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:39"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:40"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:41"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:42"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:43"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:44"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:45"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:46"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:47"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:48"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:49"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:50"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:51"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:52"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:53"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:54"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:55"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:56"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:57"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:58"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:59"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:60"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:61"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:62"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:63"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:64"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:65"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:66"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:67"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:68"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:69"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:70"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:71"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:72"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:73"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:74"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:75"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:76"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:77"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:78"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:79"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:80"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:81"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:82"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:83"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:84"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:85"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:86"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:87"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:88"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:89"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_SHOULDER_ANGLE"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_ELBOW_ANGLE"
+        }
+      ],
+      "upper_matrix": [
+        0.8191520442889915,
+        0.5735764363510458
+      ],
+      "forearm_matrix": [
+        -0.0871557427476579,
+        0.9961946980917453
+      ],
+      "requested_angles_deg": [
+        35,
+        60
+      ],
+      "update_ok": true,
+      "pose": "middle"
+    },
+    {
+      "locked_dof": [
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Upper_Arm_ROTATING"
+        },
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Forearm_ROTATING"
+        }
+      ],
+      "interferences": [],
+      "constraints": [
+        {
+          "health": "11778",
+          "name": "フラッシュ:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:3"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:4"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:5"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:6"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:7"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:8"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:9"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:10"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:11"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:12"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:13"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:14"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:15"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:16"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:17"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:18"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:19"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:20"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:21"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:22"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:23"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:24"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:25"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:26"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:27"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:28"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:29"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:30"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:31"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:32"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:33"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:34"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:35"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:36"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:37"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:38"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:39"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:40"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:41"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:42"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:43"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:44"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:45"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:46"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:47"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:48"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:49"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:50"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:51"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:52"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:53"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:54"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:55"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:56"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:57"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:58"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:59"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:60"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:61"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:62"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:63"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:64"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:65"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:66"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:67"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:68"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:69"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:70"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:71"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:72"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:73"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:74"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:75"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:76"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:77"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:78"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:79"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:80"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:81"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:82"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:83"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:84"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:85"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:86"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:87"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:88"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:89"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_SHOULDER_ANGLE"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_ELBOW_ANGLE"
+        }
+      ],
+      "upper_matrix": [
+        0.49999999999999994,
+        0.8660254037844384
+      ],
+      "forearm_matrix": [
+        6.106226635438361E-16,
+        0.9999999999999998
+      ],
+      "requested_angles_deg": [
+        60,
+        30
+      ],
+      "update_ok": true,
+      "pose": "lift"
+    },
+    {
+      "locked_dof": [
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Upper_Arm_ROTATING"
+        },
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Forearm_ROTATING"
+        }
+      ],
+      "interferences": [],
+      "constraints": [
+        {
+          "health": "11778",
+          "name": "フラッシュ:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:3"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:4"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:5"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:6"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:7"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:8"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:9"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:10"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:11"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:12"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:13"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:14"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:15"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:16"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:17"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:18"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:19"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:20"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:21"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:22"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:23"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:24"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:25"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:26"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:27"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:28"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:29"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:30"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:31"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:32"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:33"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:34"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:35"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:36"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:37"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:38"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:39"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:40"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:41"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:42"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:43"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:44"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:45"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:46"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:47"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:48"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:49"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:50"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:51"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:52"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:53"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:54"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:55"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:56"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:57"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:58"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:59"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:60"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:61"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:62"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:63"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:64"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:65"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:66"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:67"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:68"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:69"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:70"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:71"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:72"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:73"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:74"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:75"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:76"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:77"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:78"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:79"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:80"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:81"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:82"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:83"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:84"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:85"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:86"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:87"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:88"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:89"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_SHOULDER_ANGLE"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_ELBOW_ANGLE"
+        }
+      ],
+      "upper_matrix": [
+        0.8660254037844387,
+        0.49999999999999983
+      ],
+      "forearm_matrix": [
+        0.8660254037844385,
+        0.49999999999999967
+      ],
+      "requested_angles_deg": [
+        30,
+        0
+      ],
+      "update_ok": true,
+      "pose": "shoulder_only"
+    },
+    {
+      "locked_dof": [
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Upper_Arm_ROTATING"
+        },
+        {
+          "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+          "name": "Forearm_ROTATING"
+        }
+      ],
+      "interferences": [],
+      "constraints": [
+        {
+          "health": "11778",
+          "name": "フラッシュ:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:3"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:4"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:5"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:6"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:1"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:7"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:8"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:9"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:10"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:11"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:12"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:13"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:14"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:15"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:16"
+        },
+        {
+          "health": "11778",
+          "name": "メイト:2"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:17"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:18"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:19"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:20"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:21"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:22"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:23"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:24"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:25"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:26"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:27"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:28"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:29"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:30"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:31"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:32"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:33"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:34"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:35"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:36"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:37"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:38"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:39"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:40"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:41"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:42"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:43"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:44"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:45"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:46"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:47"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:48"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:49"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:50"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:51"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:52"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:53"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:54"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:55"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:56"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:57"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:58"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:59"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:60"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:61"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:62"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:63"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:64"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:65"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:66"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:67"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:68"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:69"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:70"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:71"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:72"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:73"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:74"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:75"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:76"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:77"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:78"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:79"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:80"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:81"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:82"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:83"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:84"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:85"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:86"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:87"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:88"
+        },
+        {
+          "health": "11778",
+          "name": "フラッシュ:89"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_SHOULDER_ANGLE"
+        },
+        {
+          "health": "11778",
+          "name": "AUDIT_ELBOW_ANGLE"
+        }
+      ],
+      "upper_matrix": [
+        1.0,
+        0.0
+      ],
+      "forearm_matrix": [
+        0.4999999999999999,
+        0.866025403784438
+      ],
+      "requested_angles_deg": [
+        0,
+        60
+      ],
+      "update_ok": true,
+      "pose": "elbow_only"
+    }
+  ],
+  "missing_references": [],
+  "reference_geometry_checks": [
+    {
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 85815.09756462651,
+      "mass_kg": 0.13224106534708946,
+      "occurrence": "Base_FIXED",
+      "matches_saved_part": true,
+      "part": "Base"
+    },
+    {
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 47345.6,
+      "mass_kg": 0.0729595696,
+      "occurrence": "Shoulder_Housing_Cradle",
+      "matches_saved_part": true,
+      "part": "Shoulder_Mount"
+    },
+    {
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 27797.0,
+      "mass_kg": 0.042,
+      "occurrence": "Shoulder_Motor_ASSUMED_ENVELOPE",
+      "matches_saved_part": true,
+      "part": "Servo_Envelope"
+    },
+    {
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 11019.454417148263,
+      "mass_kg": 0.01698097925682547,
+      "occurrence": "Upper_Arm_ROTATING",
+      "matches_saved_part": true,
+      "part": "Upper_Arm"
+    },
+    {
+      "position_mm": [
+        -3.951196253107757E-189,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 3275.2674210001783,
+      "mass_kg": 0.005047187095761275,
+      "occurrence": "Shoulder_Horn_Adapter",
+      "matches_saved_part": true,
+      "part": "Servo_Horn_Adapter"
+    },
+    {
+      "position_mm": [
+        -1.7529962812758376E-179,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 23464.66500959809,
+      "mass_kg": 0.036159048779790655,
+      "occurrence": "Elbow_Housing_Cradle",
+      "matches_saved_part": true,
+      "part": "Elbow_Mount"
+    },
+    {
+      "position_mm": [
+        90.00000000000001,
+        -4.9960036108132044E-15,
+        34.0
+      ],
+      "volume_mm3": 27797.0,
+      "mass_kg": 0.042,
+      "occurrence": "Elbow_Motor_ASSUMED_ENVELOPE",
+      "matches_saved_part": true,
+      "part": "Servo_Envelope"
+    },
+    {
+      "position_mm": [
+        89.99999999999997,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 10510.97317405873,
+      "mass_kg": 0.0161974096612245,
+      "occurrence": "Forearm_ROTATING",
+      "matches_saved_part": true,
+      "part": "Forearm"
+    },
+    {
+      "position_mm": [
+        89.99999999999997,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 3275.2674210001787,
+      "mass_kg": 0.0050471870957612755,
+      "occurrence": "Elbow_Horn_Adapter",
+      "matches_saved_part": true,
+      "part": "Elbow_Horn_Adapter"
+    },
+    {
+      "position_mm": [
+        89.99999999999997,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 4474.03188201037,
+      "mass_kg": 0.00689448313017798,
+      "occurrence": "Payload_Mount",
+      "matches_saved_part": true,
+      "part": "Payload_Mount"
+    },
+    {
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 18451.265682638303,
+      "mass_kg": 0.02843340041694563,
+      "occurrence": "Shoulder_Fixed_Support",
+      "matches_saved_part": true,
+      "part": "Shoulder_Support_Carrier"
+    },
+    {
+      "position_mm": [
+        8.832396102868776E-179,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 15539.26568263828,
+      "mass_kg": 0.023946008416945587,
+      "occurrence": "Elbow_Fixed_Support",
+      "matches_saved_part": true,
+      "part": "Elbow_Support_Carrier"
+    },
+    {
+      "position_mm": [
+        -3.975318636812146E-189,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 1960.353815840115,
+      "mass_kg": 0.003020905230209617,
+      "occurrence": "Shoulder_Output_Flange",
+      "matches_saved_part": true,
+      "part": "Shoulder_Output_Flange"
+    },
+    {
+      "position_mm": [
+        89.99999999999997,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 1960.3538158401163,
+      "mass_kg": 0.003020905230209619,
+      "occurrence": "Elbow_Output_Flange",
+      "matches_saved_part": true,
+      "part": "Elbow_Output_Flange"
+    },
+    {
+      "position_mm": [
+        2.8728483499322915E-187,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 235.6194490192244,
+      "mass_kg": 0.0018213383409186046,
+      "occurrence": "Shoulder_Auxiliary_Shaft",
+      "matches_saved_part": true,
+      "part": "Shoulder_Shaft_Envelope"
+    },
+    {
+      "position_mm": [
+        89.99999999999997,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 255.2544031041597,
+      "mass_kg": 0.0019731165359951545,
+      "occurrence": "Elbow_Auxiliary_Shaft",
+      "matches_saved_part": true,
+      "part": "Elbow_Shaft_Envelope"
+    },
+    {
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 907.1348787240917,
+      "mass_kg": 0.005,
+      "occurrence": "Shoulder_Bearing_625_Envelope",
+      "matches_saved_part": true,
+      "part": "Bearing_625_Envelope"
+    },
+    {
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 541.9561486707989,
+      "mass_kg": 0.000835154425101701,
+      "occurrence": "Shoulder_Bearing_Retainer",
+      "matches_saved_part": true,
+      "part": "Bearing_Retainer"
+    },
+    {
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 1320.0000000000014,
+      "mass_kg": 0.002034120000000002,
+      "occurrence": "Shoulder_Encoder_Mount",
+      "matches_saved_part": true,
+      "part": "Encoder_Mount"
+    },
+    {
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 1013.5000000000009,
+      "mass_kg": 0.002,
+      "occurrence": "Shoulder_Encoder_Board_Envelope",
+      "matches_saved_part": true,
+      "part": "Encoder_Board_Envelope"
+    },
+    {
+      "position_mm": [
+        -1.4364241749661457E-187,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 283.8051971400067,
+      "mass_kg": 0.00043734380879275036,
+      "occurrence": "Shoulder_Magnet_Carrier",
+      "matches_saved_part": true,
+      "part": "Magnet_Carrier"
+    },
+    {
+      "position_mm": [
+        -1.7479555555187368E-190,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 56.54866776461875,
+      "mass_kg": 0.0004,
+      "occurrence": "Shoulder_Magnet_6x2_Envelope",
+      "matches_saved_part": true,
+      "part": "Magnet_6x2_Envelope"
+    },
+    {
+      "position_mm": [
+        -12.000000000000002,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 168.8920210569946,
+      "mass_kg": 0.00026026260444882865,
+      "occurrence": "Shoulder_Encoder_Standoff_-12",
+      "matches_saved_part": true,
+      "part": "Encoder_Standoff"
+    },
+    {
+      "position_mm": [
+        12.000000000000002,
+        0.0,
+        0.0
+      ],
+      "volume_mm3": 168.8920210569946,
+      "mass_kg": 0.00026026260444882865,
+      "occurrence": "Shoulder_Encoder_Standoff_12",
+      "matches_saved_part": true,
+      "part": "Encoder_Standoff"
+    },
+    {
+      "position_mm": [
+        90.00000000000001,
+        -4.9960036108132044E-15,
+        34.0
+      ],
+      "volume_mm3": 907.1348787240917,
+      "mass_kg": 0.005,
+      "occurrence": "Elbow_Bearing_625_Envelope",
+      "matches_saved_part": true,
+      "part": "Bearing_625_Envelope"
+    },
+    {
+      "position_mm": [
+        90.00000000000001,
+        -4.9960036108132044E-15,
+        34.0
+      ],
+      "volume_mm3": 541.9561486707989,
+      "mass_kg": 0.000835154425101701,
+      "occurrence": "Elbow_Bearing_Retainer",
+      "matches_saved_part": true,
+      "part": "Bearing_Retainer"
+    },
+    {
+      "position_mm": [
+        90.00000000000001,
+        -4.9960036108132044E-15,
+        34.0
+      ],
+      "volume_mm3": 1320.0000000000014,
+      "mass_kg": 0.002034120000000002,
+      "occurrence": "Elbow_Encoder_Mount",
+      "matches_saved_part": true,
+      "part": "Encoder_Mount"
+    },
+    {
+      "position_mm": [
+        90.00000000000001,
+        -4.9960036108132044E-15,
+        34.0
+      ],
+      "volume_mm3": 1013.5000000000009,
+      "mass_kg": 0.002,
+      "occurrence": "Elbow_Encoder_Board_Envelope",
+      "matches_saved_part": true,
+      "part": "Encoder_Board_Envelope"
+    },
+    {
+      "position_mm": [
+        89.99999999999997,
+        0.0,
+        34.00000000000002
+      ],
+      "volume_mm3": 283.8051971400067,
+      "mass_kg": 0.00043734380879275036,
+      "occurrence": "Elbow_Magnet_Carrier",
+      "matches_saved_part": true,
+      "part": "Magnet_Carrier"
+    },
+    {
+      "position_mm": [
+        89.99999999999997,
+        0.0,
+        34.00000000000002
+      ],
+      "volume_mm3": 56.54866776461875,
+      "mass_kg": 0.0004,
+      "occurrence": "Elbow_Magnet_6x2_Envelope",
+      "matches_saved_part": true,
+      "part": "Magnet_6x2_Envelope"
+    },
+    {
+      "position_mm": [
+        78.00000000000003,
+        -4.3298697960381105E-15,
+        34.0
+      ],
+      "volume_mm3": 168.8920210569946,
+      "mass_kg": 0.00026026260444882865,
+      "occurrence": "Elbow_Encoder_Standoff_-12",
+      "matches_saved_part": true,
+      "part": "Encoder_Standoff"
+    },
+    {
+      "position_mm": [
+        102.0,
+        -5.662137425588295E-15,
+        34.0
+      ],
+      "volume_mm3": 168.8920210569946,
+      "mass_kg": 0.00026026260444882865,
+      "occurrence": "Elbow_Encoder_Standoff_12",
+      "matches_saved_part": true,
+      "part": "Encoder_Standoff"
+    }
+  ],
+  "cold_reload": true,
+  "reopened": true,
+  "before_dof": [
+    {
+      "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+      "name": "Upper_Arm_ROTATING"
+    },
+    {
+      "api_count_status": "TBD: COM output marshaling failed; use independent angle-motion audit",
+      "name": "Forearm_ROTATING"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Base.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Bearing_625_Envelope.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Bearing_Fit_Coupon.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Bearing_Retainer.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Bearing_Support.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Elbow_Horn_Adapter.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Elbow_Mount.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Elbow_Output_Flange.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Elbow_Shaft_Envelope.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Elbow_Support_Carrier.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Encoder_Alignment_Test.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Encoder_Board_Envelope.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Encoder_Mount.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Encoder_Standoff.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Forearm.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Horn_Adapter_Test.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Joint_Stop.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Magnet_6x2_Envelope.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Magnet_Carrier.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Payload_Mount.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Servo_Envelope.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Servo_Horn_Adapter.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Servo_Mount_Coupon.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Shoulder_Mount.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Shoulder_Output_Flange.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Shoulder_Shaft_Envelope.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Shoulder_Support_Carrier.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Spacer.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Spring_Base_Anchor.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Spring_Link_Anchor.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  },
+  {
+    "name": "Upper_Arm.ipt",
+    "solid": true,
+    "feature_health": [
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778",
+      "11778"
+    ],
+    "solid_bodies": 1
+  }
+]

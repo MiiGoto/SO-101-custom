@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+OldVersions/
+# Local reference assembly includes vendor hardware whose redistribution rights are unverified.
+mechanical/upstream_reference/step/SO101 Assembly/
+mechanical/upstream_reference/native/Official_SO101_Imported.iam
+mechanical/upstream_reference/step/SO101 Assembly.step
+mechanical/upstream_reference/vendor_local_only/
+mechanical/upstream_reference/documents_before.json
+mechanical/release_review/XL330_dimension_reference.png

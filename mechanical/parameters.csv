@@ -1,0 +1,15 @@
+parameter,value,unit,status,note
+upper_link_C,90,mm,Assumption,joint-axis distance candidate; not approved print geometry
+forearm_C,100,mm,Assumption,joint-axis distance candidate
+wrist_axis_offset_C,45,mm,Assumption,clearance must be checked with actual motors
+tool_offset_C,70,mm,Assumption,grasp geometry TBD
+upper_link_D,50,mm,Assumption,shoulder-elbow two-joint test candidate
+forearm_D,60,mm,Assumption,passive short forearm
+PWM_soft_range,160,deg,Assumption,80 deg each side only after physical calibration
+DXL_roll_soft_range,180,deg,Assumption,90 deg each side cable limits TBD
+gripper_soft_range,60,deg,Assumption,jaw and horn sweep TBD
+vstone_hole_pitch,UNKNOWN,mm,TBD,measure label-confirmed actual motor
+vstone_horn_center,UNKNOWN,mm,TBD,do not assume STS3215 compatibility
+xl330_mount_holes,UNKNOWN,mm,TBD,manufacturer drawing and actual horn needed
+encoder_board_size,UNKNOWN,mm,TBD,selected module required
+magnet_gap,UNKNOWN,mm,TBD,magnet dimensions flux diagnostics and active plane required

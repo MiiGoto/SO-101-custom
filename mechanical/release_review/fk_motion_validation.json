@@ -1,0 +1,26 @@
+[
+  {
+    "joint": "shoulder_pan",
+    "rotation_matrix_max_error": 7.37188088351104e-14
+  },
+  {
+    "joint": "shoulder_lift",
+    "rotation_matrix_max_error": 5.1958437552457326e-14
+  },
+  {
+    "joint": "elbow_flex",
+    "rotation_matrix_max_error": 3.9190872769268026e-14
+  },
+  {
+    "joint": "wrist_flex",
+    "rotation_matrix_max_error": 3.5638159090467525e-14
+  },
+  {
+    "joint": "wrist_roll",
+    "rotation_matrix_max_error": 5.4511950509095186e-14
+  },
+  {
+    "joint": "gripper",
+    "rotation_matrix_max_error": 6.783462680459706e-14
+  }
+]

@@ -1,0 +1,684 @@
+[
+  {
+    "file": "Base.stl",
+    "triangles": 788,
+    "minimum_mm": [
+      -65.0,
+      -69.0,
+      -40.0
+    ],
+    "maximum_mm": [
+      65.0,
+      -61.0,
+      45.0
+    ],
+    "size_mm": [
+      130.0,
+      8.0,
+      85.0
+    ],
+    "mesh_volume_mm3": 85844.52492219594,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Bearing_625_Envelope.stl",
+    "triangles": 648,
+    "minimum_mm": [
+      -8.0,
+      -8.0,
+      13.0
+    ],
+    "maximum_mm": [
+      8.0,
+      8.0,
+      18.0
+    ],
+    "size_mm": [
+      16.0,
+      16.0,
+      5.0
+    ],
+    "mesh_volume_mm3": 906.7153372500701,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Bearing_Fit_Coupon.stl",
+    "triangles": 748,
+    "minimum_mm": [
+      -32.5,
+      -12.5,
+      0.0
+    ],
+    "maximum_mm": [
+      32.5,
+      12.5,
+      8.0
+    ],
+    "size_mm": [
+      65.0,
+      25.0,
+      8.0
+    ],
+    "mesh_volume_mm3": 8061.556873288998,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Bearing_Retainer.stl",
+    "triangles": 1272,
+    "minimum_mm": [
+      -14.9932861328125,
+      -14.998321533203125,
+      18.0
+    ],
+    "maximum_mm": [
+      15.0,
+      14.998321533203125,
+      19.0
+    ],
+    "size_mm": [
+      29.9932861328125,
+      29.99664306640625,
+      1.0
+    ],
+    "mesh_volume_mm3": 541.8902423990947,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Bearing_Support.stl",
+    "triangles": 1732,
+    "minimum_mm": [
+      -15.0,
+      -15.0,
+      10.0
+    ],
+    "maximum_mm": [
+      15.0,
+      15.0,
+      18.0
+    ],
+    "size_mm": [
+      30.0,
+      30.0,
+      8.0
+    ],
+    "mesh_volume_mm3": 4114.534174279532,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Elbow_Horn_Adapter.stl",
+    "triangles": 1152,
+    "minimum_mm": [
+      -14.9932861328125,
+      -14.998321533203125,
+      28.0
+    ],
+    "maximum_mm": [
+      15.0,
+      14.998321533203125,
+      33.0
+    ],
+    "size_mm": [
+      29.9932861328125,
+      29.99664306640625,
+      5.0
+    ],
+    "mesh_volume_mm3": 3274.4214523620954,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Elbow_Mount.stl",
+    "triangles": 168,
+    "minimum_mm": [
+      59.0,
+      -45.0,
+      6.0
+    ],
+    "maximum_mm": [
+      121.0,
+      -2.0,
+      30.0
+    ],
+    "size_mm": [
+      62.0,
+      43.0,
+      24.0
+    ],
+    "mesh_volume_mm3": 23465.007706648903,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Elbow_Output_Flange.stl",
+    "triangles": 1172,
+    "minimum_mm": [
+      -14.9932861328125,
+      -14.998321533203125,
+      38.0
+    ],
+    "maximum_mm": [
+      15.0,
+      14.998321533203125,
+      41.0
+    ],
+    "size_mm": [
+      29.9932861328125,
+      29.99664306640625,
+      3.0
+    ],
+    "mesh_volume_mm3": 1959.822322337325,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Elbow_Shaft_Envelope.stl",
+    "triangles": 580,
+    "minimum_mm": [
+      -2.497685194015503,
+      -2.4994213581085205,
+      41.0
+    ],
+    "maximum_mm": [
+      2.5,
+      2.4994213581085205,
+      54.0
+    ],
+    "size_mm": [
+      4.997685194015503,
+      4.998842716217041,
+      13.0
+    ],
+    "mesh_volume_mm3": 254.93935844482382,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Elbow_Support_Carrier.stl",
+    "triangles": 1004,
+    "minimum_mm": [
+      59.0,
+      -31.0,
+      30.0
+    ],
+    "maximum_mm": [
+      121.0,
+      16.0,
+      52.0
+    ],
+    "size_mm": [
+      62.0,
+      47.0,
+      22.0
+    ],
+    "mesh_volume_mm3": 15540.847047774534,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Encoder_Alignment_Test.stl",
+    "triangles": 72,
+    "minimum_mm": [
+      -16.0,
+      -16.0,
+      0.0
+    ],
+    "maximum_mm": [
+      16.0,
+      16.0,
+      4.0
+    ],
+    "size_mm": [
+      32.0,
+      32.0,
+      4.0
+    ],
+    "mesh_volume_mm3": 2310.4000549316406,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Encoder_Board_Envelope.stl",
+    "triangles": 28,
+    "minimum_mm": [
+      -12.5,
+      -12.5,
+      24.5
+    ],
+    "maximum_mm": [
+      12.5,
+      12.5,
+      27.600000381469727
+    ],
+    "size_mm": [
+      25.0,
+      25.0,
+      3.1000003814697266
+    ],
+    "mesh_volume_mm3": 1013.5002384185791,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Encoder_Mount.stl",
+    "triangles": 72,
+    "minimum_mm": [
+      -15.0,
+      -15.0,
+      23.0
+    ],
+    "maximum_mm": [
+      15.0,
+      15.0,
+      26.0
+    ],
+    "size_mm": [
+      30.0,
+      30.0,
+      3.0
+    ],
+    "mesh_volume_mm3": 1320.0000457763672,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Encoder_Standoff.stl",
+    "triangles": 798,
+    "minimum_mm": [
+      -4.0,
+      -3.998102903366089,
+      19.0
+    ],
+    "maximum_mm": [
+      4.0,
+      3.998102903366089,
+      23.0
+    ],
+    "size_mm": [
+      8.0,
+      7.996205806732178,
+      4.0
+    ],
+    "mesh_volume_mm3": 168.81496422084408,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Forearm.stl",
+    "triangles": 1092,
+    "minimum_mm": [
+      -16.0,
+      -15.993152618408203,
+      33.0
+    ],
+    "maximum_mm": [
+      111.97962188720703,
+      15.993152618408203,
+      38.0
+    ],
+    "size_mm": [
+      127.97962188720703,
+      31.986305236816406,
+      5.0
+    ],
+    "mesh_volume_mm3": 10506.368928207325,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Horn_Adapter_Test.stl",
+    "triangles": 1168,
+    "minimum_mm": [
+      -14.9932861328125,
+      -14.998321533203125,
+      0.0
+    ],
+    "maximum_mm": [
+      15.0,
+      14.998321533203125,
+      4.0
+    ],
+    "size_mm": [
+      29.9932861328125,
+      29.99664306640625,
+      4.0
+    ],
+    "mesh_volume_mm3": 2619.4960536987396,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Joint_Stop.stl",
+    "triangles": 1064,
+    "minimum_mm": [
+      -30.986125946044922,
+      -30.996530532836914,
+      -9.0
+    ],
+    "maximum_mm": [
+      31.0,
+      30.996530532836914,
+      -5.0
+    ],
+    "size_mm": [
+      61.98612594604492,
+      61.99306106567383,
+      4.0
+    ],
+    "mesh_volume_mm3": 6436.824702430793,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Magnet_6x2_Envelope.stl",
+    "triangles": 412,
+    "minimum_mm": [
+      -3.0,
+      -3.0,
+      20.799999237060547
+    ],
+    "maximum_mm": [
+      3.0,
+      3.0,
+      22.799999237060547
+    ],
+    "size_mm": [
+      6.0,
+      6.0,
+      2.0
+    ],
+    "mesh_volume_mm3": 56.514272913142065,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Magnet_Carrier.stl",
+    "triangles": 1020,
+    "minimum_mm": [
+      -5.0,
+      -4.997628688812256,
+      18.0
+    ],
+    "maximum_mm": [
+      5.0,
+      4.997628688812256,
+      23.0
+    ],
+    "size_mm": [
+      10.0,
+      9.995257377624512,
+      5.0
+    ],
+    "mesh_volume_mm3": 283.67615244798606,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Payload_Mount.stl",
+    "triangles": 664,
+    "minimum_mm": [
+      89.0,
+      -11.0,
+      38.0
+    ],
+    "maximum_mm": [
+      111.0,
+      11.0,
+      58.0
+    ],
+    "size_mm": [
+      22.0,
+      22.0,
+      20.0
+    ],
+    "mesh_volume_mm3": 4475.12415003299,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Servo_Envelope.stl",
+    "triangles": 12,
+    "minimum_mm": [
+      -19.0,
+      -38.25,
+      -26.0
+    ],
+    "maximum_mm": [
+      19.0,
+      0.25,
+      -7.0
+    ],
+    "size_mm": [
+      38.0,
+      38.5,
+      19.0
+    ],
+    "mesh_volume_mm3": 27797.0,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Servo_Horn_Adapter.stl",
+    "triangles": 1152,
+    "minimum_mm": [
+      -14.9932861328125,
+      -14.998321533203125,
+      -5.0
+    ],
+    "maximum_mm": [
+      15.0,
+      14.998321533203125,
+      0.0
+    ],
+    "size_mm": [
+      29.9932861328125,
+      29.99664306640625,
+      5.0
+    ],
+    "mesh_volume_mm3": 3274.421452362094,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Servo_Mount_Coupon.stl",
+    "triangles": 72,
+    "minimum_mm": [
+      -26.0,
+      -26.0,
+      0.0
+    ],
+    "maximum_mm": [
+      26.0,
+      26.0,
+      4.0
+    ],
+    "size_mm": [
+      52.0,
+      52.0,
+      4.0
+    ],
+    "mesh_volume_mm3": 4234.96023010253,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Shoulder_Mount.stl",
+    "triangles": 76,
+    "minimum_mm": [
+      -31.0,
+      -61.0,
+      -31.0
+    ],
+    "maximum_mm": [
+      31.0,
+      -2.0,
+      25.0
+    ],
+    "size_mm": [
+      62.0,
+      59.0,
+      56.0
+    ],
+    "mesh_volume_mm3": 47345.598388671875,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Shoulder_Output_Flange.stl",
+    "triangles": 1172,
+    "minimum_mm": [
+      -14.9932861328125,
+      -14.998321533203125,
+      5.0
+    ],
+    "maximum_mm": [
+      15.0,
+      14.998321533203125,
+      8.0
+    ],
+    "size_mm": [
+      29.9932861328125,
+      29.99664306640625,
+      3.0
+    ],
+    "mesh_volume_mm3": 1959.8223223373252,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Shoulder_Shaft_Envelope.stl",
+    "triangles": 596,
+    "minimum_mm": [
+      -2.497807025909424,
+      -2.4994516372680664,
+      8.0
+    ],
+    "maximum_mm": [
+      2.5,
+      2.4994516372680664,
+      20.0
+    ],
+    "size_mm": [
+      4.997807025909424,
+      4.998903274536133,
+      12.0
+    ],
+    "mesh_volume_mm3": 235.34393526458803,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Shoulder_Support_Carrier.stl",
+    "triangles": 900,
+    "minimum_mm": [
+      -42.0,
+      -61.0,
+      10.0
+    ],
+    "maximum_mm": [
+      42.0,
+      16.0,
+      18.0
+    ],
+    "size_mm": [
+      84.0,
+      77.0,
+      8.0
+    ],
+    "mesh_volume_mm3": 18452.70027170696,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Spacer.stl",
+    "triangles": 730,
+    "minimum_mm": [
+      -5.997209072113037,
+      -5.999302387237549,
+      5.0
+    ],
+    "maximum_mm": [
+      6.0,
+      5.999302387237549,
+      10.0
+    ],
+    "size_mm": [
+      11.997209072113037,
+      11.998604774475098,
+      5.0
+    ],
+    "mesh_volume_mm3": 525.0177640935709,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Spring_Base_Anchor.stl",
+    "triangles": 208,
+    "minimum_mm": [
+      -42.0,
+      20.0,
+      -43.0
+    ],
+    "maximum_mm": [
+      -28.0,
+      50.0,
+      -37.0
+    ],
+    "size_mm": [
+      14.0,
+      30.0,
+      6.0
+    ],
+    "mesh_volume_mm3": 2402.5264360205038,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Spring_Link_Anchor.stl",
+    "triangles": 228,
+    "minimum_mm": [
+      12.0,
+      -5.0,
+      -43.0
+    ],
+    "maximum_mm": [
+      38.0,
+      5.0,
+      -37.0
+    ],
+    "size_mm": [
+      26.0,
+      10.0,
+      6.0
+    ],
+    "mesh_volume_mm3": 1442.4660347007193,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  },
+  {
+    "file": "Upper_Arm.stl",
+    "triangles": 1472,
+    "minimum_mm": [
+      -16.0,
+      -15.997339248657227,
+      0.0
+    ],
+    "maximum_mm": [
+      106.0,
+      15.997339248657227,
+      5.0
+    ],
+    "size_mm": [
+      122.0,
+      31.994678497314453,
+      5.0
+    ],
+    "mesh_volume_mm3": 11016.314274340204,
+    "non_two_sided_edges": 0,
+    "within_220_cube_when_reoriented": true
+  }
+]

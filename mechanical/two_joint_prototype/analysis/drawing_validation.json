@@ -1,0 +1,162 @@
+[
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Base"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Bearing_625_Envelope"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Bearing_Fit_Coupon"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Bearing_Retainer"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Bearing_Support"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Elbow_Horn_Adapter"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Elbow_Mount"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Elbow_Output_Flange"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Elbow_Shaft_Envelope"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Elbow_Support_Carrier"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Encoder_Alignment_Test"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Encoder_Board_Envelope"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Encoder_Mount"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Encoder_Standoff"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Forearm"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Horn_Adapter_Test"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Joint_Stop"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Magnet_6x2_Envelope"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Magnet_Carrier"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Payload_Mount"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Servo_Envelope"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Servo_Horn_Adapter"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Servo_Mount_Coupon"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Shoulder_Mount"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Shoulder_Output_Flange"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Shoulder_Shaft_Envelope"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Shoulder_Support_Carrier"
+  },
+  {
+    "native_dimensions": 0,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Spacer"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Spring_Base_Anchor"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Spring_Link_Anchor"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "Upper_Arm"
+  },
+  {
+    "native_dimensions": 2,
+    "status": "COMPLETED drawing file; fit and manufacturing HOLD",
+    "name": "SO101_TwoJoint_Prototype"
+  }
+]

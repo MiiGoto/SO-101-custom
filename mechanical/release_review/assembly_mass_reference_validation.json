@@ -1,0 +1,264 @@
+[
+  {
+    "inertia_kg_m2": [
+      0.006506485103853794,
+      0.00880297860494804,
+      0.0031588245855129725,
+      9.010002144541814E-05,
+      0.00017832774851271943,
+      -0.003148009634657856
+    ],
+    "com_mm": [
+      72.361484545939,
+      -5.378587910446866,
+      123.91999618907656
+    ],
+    "all_reference_files_exist": [
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\WaveShare_Mounting_Plate_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Base_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Base_motor_holder_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\REF_base_link.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\adapters\\ipt\\Vstone_Cradle_HOLD.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\adapters\\ipt\\Vstone_Envelope.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Motor_holder_SO101_Wrist.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\native\\Motor_holder_SO101_Wrist_source.iam",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\step\\Motor_holder_SO101_Wrist\\Part321.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Under_arm_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\native\\Under_arm_SO101_source.iam",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\step\\Under_arm_SO101\\Part318.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Upper_arm_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\native\\Upper_arm_SO101_source.iam",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\step\\Upper_arm_SO101\\Part315.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Rotation_Pitch_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Motor_holder_SO101_Base.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\native\\Motor_holder_SO101_Base_source.iam",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\step\\Motor_holder_SO101_Base\\Part310.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\REF_lower_arm_link.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\REF_upper_arm_link.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\REF_shoulder_link.ipt",
+        "exists": true
+      }
+    ],
+    "mass_kg": 0.8310545984676052,
+    "assembly": "two_joint_revb"
+  },
+  {
+    "inertia_kg_m2": [
+      0.00969370608881521,
+      0.023725718503825294,
+      0.015247168818493775,
+      -0.00015739681403394306,
+      7.595103697789018E-05,
+      -0.008901788574229604
+    ],
+    "com_mm": [
+      126.18283226620446,
+      -5.818503715824761,
+      148.90687747437514
+    ],
+    "all_reference_files_exist": [
+      {
+        "file": ".\\mechanical\\adapters\\ipt\\XL330_Cradle_HOLD.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\adapters\\ipt\\XL330_Envelope.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\adapters\\ipt\\Vstone_Cradle_HOLD.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\adapters\\ipt\\Vstone_Envelope.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Moving_Jaw_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Wrist_Roll_Follower_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\native\\Wrist_Roll_Follower_SO101_source.iam",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\step\\Wrist_Roll_Follower_SO101\\Part327.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Wrist_Roll_Pitch_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\native\\Wrist_Roll_Pitch_SO101_source.iam",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\step\\Wrist_Roll_Pitch_SO101\\Part324.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Motor_holder_SO101_Wrist.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\native\\Motor_holder_SO101_Wrist_source.iam",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\step\\Motor_holder_SO101_Wrist\\Part321.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Under_arm_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\native\\Under_arm_SO101_source.iam",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\step\\Under_arm_SO101\\Part318.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Upper_arm_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\native\\Upper_arm_SO101_source.iam",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\step\\Upper_arm_SO101\\Part315.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Rotation_Pitch_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Motor_holder_SO101_Base.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\native\\Motor_holder_SO101_Base_source.iam",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\upstream_reference\\step\\Motor_holder_SO101_Base\\Part310.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\WaveShare_Mounting_Plate_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Base_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\Base_motor_holder_SO101.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\REF_moving_jaw_so101_v1_link.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\REF_gripper_link.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\REF_wrist_link.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\REF_lower_arm_link.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\REF_upper_arm_link.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\REF_shoulder_link.ipt",
+        "exists": true
+      },
+      {
+        "file": ".\\mechanical\\follower_six_axis\\ipt\\REF_base_link.ipt",
+        "exists": true
+      }
+    ],
+    "mass_kg": 1.1808946646744467,
+    "assembly": "follower_six_axis"
+  }
+]

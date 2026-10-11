@@ -1,0 +1,18 @@
+{
+  "scope": "offline only; no hardware IO",
+  "date": "2026-10-11",
+  "existing_suite": {
+    "elapsed_s": 0.426,
+    "tests": 8,
+    "failures": 0,
+    "command": "python -m unittest discover -s tests -v from SO-101-custom",
+    "errors": 0
+  },
+  "prototype": {
+    "elapsed_s": 0.027,
+    "tests": 12,
+    "failures": 0,
+    "command": "python -m unittest discover -s tests -v",
+    "errors": 0
+  }
+}

@@ -1,0 +1,1448 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 166,
+    "sha256": "ce93848f2dc45aab08505c5983b650aa8abfaa3ae109899d96204c5c644a88ac",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "additional_bom.md",
+    "bytes": 2433,
+    "sha256": "4b72c4469619bfa469e52090edebb11addea167af9c5d412b20471c23e663985",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/assembly_validation.json",
+    "bytes": 9729,
+    "sha256": "a311feebef9e273469dc383f661c517fda21ad448bd1e1a29a176f63abe443ab",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/calculation_log.json",
+    "bytes": 3832,
+    "sha256": "88bd5f916724f74bc66b4afb6c2fbfae6a73a20ca14b61af9d62c7d325076c63",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/drawing_reopen_validation.json",
+    "bytes": 3760,
+    "sha256": "5914f380e9b5b3866e29a59609395c21d8e93efa325bf35adc922410f0704d1a",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/drawing_validation.json",
+    "bytes": 4528,
+    "sha256": "8959a35e5420faccae268d7435a80fe3a0dbc962194934a4842459253d38ae9f",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/inventor_view_validation.json",
+    "bytes": 67,
+    "sha256": "6d5ee0f09eed666b66cb05f24724f2256fa54090ccf9ef9f4aa6f15221e38d89",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/kinematic_audit.json",
+    "bytes": 85504,
+    "sha256": "cf44bce2f6971c940cb76341fa7244c3db1a25f3728c09de66349f07bd844f73",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/mass_properties.json",
+    "bytes": 16762,
+    "sha256": "14856f9a2ef1423d062fae88c18feb25ca67600ade8c4925f0d7d3c5aaf0abc8",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/part_reopen_validation.json",
+    "bytes": 6237,
+    "sha256": "b52ec7ac5ef02108b3bc42e43f66247282b6530cc66420e5375f0d777f53cf49",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/pdf_validation.json",
+    "bytes": 8315,
+    "sha256": "523da2d8accf29c94956274660c28c3d54532e7f10e8ddab23977cc17ba5baeb",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/reopen_validation.json",
+    "bytes": 77,
+    "sha256": "3b8acb107e8792a7770eb7be13333a46980399e94b764fdcedbc33b8a5f6c25e",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/stl_validation.json",
+    "bytes": 12965,
+    "sha256": "69af873eed810faa9abd5e012ff540765fb177be2385e5086ff7a660a0902e6b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "analysis/test_results.json",
+    "bytes": 423,
+    "sha256": "ee6f871ec31363e078b240d11943d1e68920dcb771dbcc5510769732306a8642",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "assembly_guide.md",
+    "bytes": 2257,
+    "sha256": "86d52fd628a89f417bd53d7dd25a9256bc7c5a94754dfda343063f89d9bccaff",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "electrical_interface.md",
+    "bytes": 2483,
+    "sha256": "ebfd4bffcea2aabceb6aadff4d21726fb0902520ea2f5d3a648975a2eebe6055",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "encoder_mount_review.md",
+    "bytes": 2403,
+    "sha256": "d6be48af0203c6c029ab9bea2cfa19a92e17610aede0ab969f9d14a1233cc201",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "gravity_compensation.json",
+    "bytes": 3379,
+    "sha256": "e625ea3f0e22ebd4c5f5e8199e51225030a9df7a3810630f68d94f4c4914af9f",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "iam/SO101_TwoJoint_Prototype.iam",
+    "bytes": 233984,
+    "sha256": "bb2809fa9b1d8cc56026a7bbaa10e9b065b3993fe5de4fce55da2092ed0eb95f",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Base.idw",
+    "bytes": 169984,
+    "sha256": "1c5905ebf950ab5cbb394da4e234cada4d5075ced5171a68cd4bb1533e73485f",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Bearing_625_Envelope.idw",
+    "bytes": 165888,
+    "sha256": "07268d270f2e6755bc0f1c3062c16d9093274a4f88dc322851fdb28178d6aedd",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Bearing_Fit_Coupon.idw",
+    "bytes": 174592,
+    "sha256": "8d3b6e031f7d93cb8b05f5a906a4d48cba1e8e1711984a9e90a2307566060c8b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Bearing_Retainer.idw",
+    "bytes": 166912,
+    "sha256": "923562352a92fc41b0ddc368ce39cb7629cb51d9a34ce02f2307afceaef8b7dc",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Bearing_Support.idw",
+    "bytes": 169984,
+    "sha256": "9227d2d6ac4fedff17c3e8ebaa578c788e1f10b8d1b963877867709dd5bc628b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Elbow_Horn_Adapter.idw",
+    "bytes": 166400,
+    "sha256": "2da604160251b8e94f451b595d13b68c9d643069b03870333cc180f9d7c6bd48",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Elbow_Mount.idw",
+    "bytes": 173056,
+    "sha256": "4e3fac0eff540440a1fa277a02aa4b12f428d46062164b63393464a4ad322337",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Elbow_Output_Flange.idw",
+    "bytes": 166400,
+    "sha256": "4c5b41ef61ba99091b7765fd5c5cdd45bb2df3d054e650cd5709ea4306e38318",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Elbow_Shaft_Envelope.idw",
+    "bytes": 165376,
+    "sha256": "6cef0fed79bc89bb3d8a3134afc92ba04ffe89faa54d597030ca9777de96db11",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Elbow_Support_Carrier.idw",
+    "bytes": 173568,
+    "sha256": "80ee74174808c104cb5ae8225e2062acc38e849b37f0f32e0087acd742f7e1c3",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Encoder_Alignment_Test.idw",
+    "bytes": 175104,
+    "sha256": "61188d94e01db7a2ebd0addc5b4406f55bd01b6386dde3e111cf81a026046b2c",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Encoder_Board_Envelope.idw",
+    "bytes": 170496,
+    "sha256": "bfb8a5597df2f794412033f168c7e5d9bd8fbd6d481f9e86c4316a2b29d2c6af",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Encoder_Mount.idw",
+    "bytes": 174592,
+    "sha256": "9f2d7c177cc0984a9c595cdbe6a020fcbc9ea653889c5a90ad118b0582a0379b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Encoder_Standoff.idw",
+    "bytes": 165376,
+    "sha256": "b9f13fa71304b572ec921e48149d91f03f138dbbe9835761e46dd3f9a8362e29",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Forearm.idw",
+    "bytes": 175104,
+    "sha256": "f76afc682a964d68b323055a2a995a792722e688174e7439a70087c06a5d32ef",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Horn_Adapter_Test.idw",
+    "bytes": 169984,
+    "sha256": "5bef5efd472c09dbdc166f21e80ed1d1594bf485e47565a5b17c3eca46324132",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Joint_Stop.idw",
+    "bytes": 171520,
+    "sha256": "72c36ae392528c4a424d5da0ce5d1a055454b620d81a3204a1a0d0852cf6aa69",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Magnet_6x2_Envelope.idw",
+    "bytes": 165376,
+    "sha256": "6b5e6c2e704c713e98c08f6698fb6d5f3acaaeb7cac30d94a1bd4664023495cd",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Magnet_Carrier.idw",
+    "bytes": 165376,
+    "sha256": "a18901eddd3d328b60fe85278502745e82cc852d85857d19c7da1001f46b7599",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Payload_Mount.idw",
+    "bytes": 171008,
+    "sha256": "40a8de6da67e18351c9fa07d71e1b3968e46fc666f52e9616c80e6f7ed019228",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Servo_Envelope.idw",
+    "bytes": 169984,
+    "sha256": "111912c74d9bcc4d46a477c3e9fd43f053a6474c94a4b8459877e241e02e5e97",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Servo_Horn_Adapter.idw",
+    "bytes": 166400,
+    "sha256": "943ea46d78d408bbab557d7a269f405a91c0147b0281afd9e256d4a9742d3435",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Servo_Mount_Coupon.idw",
+    "bytes": 175616,
+    "sha256": "8a0b16c706bdec767380b6dc02e3f6ff96ded50154cdeb590478b4a69dd5c9d5",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Shoulder_Mount.idw",
+    "bytes": 173056,
+    "sha256": "583faa36ab82007255ed05791c4e0202624eeb85c5a97e523cce344d68cd83dc",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Shoulder_Output_Flange.idw",
+    "bytes": 166400,
+    "sha256": "1cb739d030bb1fd76b8a7fea62946ca85f7df3b1e23ffad2a6d0fb22bc127825",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Shoulder_Shaft_Envelope.idw",
+    "bytes": 165376,
+    "sha256": "cb9665d3f07242da0527faae97498544dda32415be1d40a524f55bb779763174",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Shoulder_Support_Carrier.idw",
+    "bytes": 174592,
+    "sha256": "908fe0516506a139510a473b77acbaa965086127b9534bc088d416d17abe9122",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/SO101_TwoJoint_Prototype.idw",
+    "bytes": 214528,
+    "sha256": "b0b2995c9288bfa73e5af9ad99fa55679b6da7fa9f1dfe86990703acbb1ca1d6",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Spacer.idw",
+    "bytes": 164864,
+    "sha256": "d617b3c80b8707716dd2b092b2cbc244d4b865839f4af8f2fdcdbbb36b12f2ac",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Spring_Base_Anchor.idw",
+    "bytes": 170496,
+    "sha256": "9c65dc73204296399f07cc9ae2bf45211cdc81ed13cb8257a5812c9cc765ed28",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Spring_Link_Anchor.idw",
+    "bytes": 169984,
+    "sha256": "c3d6256114b19d1f859d4a09219ee2318acea366d6df1064c1b1ad11bc24508c",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "idw/Upper_Arm.idw",
+    "bytes": 175616,
+    "sha256": "d2d3d3cd5d2882178a3d3552536719c504131d188e23ca50930de25a780b0161",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "interference_report.md",
+    "bytes": 1511,
+    "sha256": "b1e73848c57ba47068b0e49697ecc03b2b2bd51c0c06d93c10dc51efbfb364cb",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Base.ipt",
+    "bytes": 90624,
+    "sha256": "807415b400dc5ccf0a02f41dedf914d7539217f615d414fa17e37770baf3741b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Bearing_625_Envelope.ipt",
+    "bytes": 100352,
+    "sha256": "33d9ca824505e1662fb2e123fdb5579b941428e5e4a785c541047895651b257e",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Bearing_Fit_Coupon.ipt",
+    "bytes": 107520,
+    "sha256": "6ff378cb42a53d3640b09aa176986086767601b456a2cb7aee457f21a60fb417",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Bearing_Retainer.ipt",
+    "bytes": 100864,
+    "sha256": "452dc59285f224b8a45ef6f685f6b585cba9c43775f2435344ef09d696e0f1e4",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Bearing_Support.ipt",
+    "bytes": 128000,
+    "sha256": "fdcc925e9f5d8737ec5d15ca8044bf7868abdce49b88a9914076a8def6cd135f",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Elbow_Horn_Adapter.ipt",
+    "bytes": 112128,
+    "sha256": "a3462a39b2946bc9f1fd8e609b792bdb9ad786633a546d097b4fac990efb0f28",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Elbow_Mount.ipt",
+    "bytes": 111616,
+    "sha256": "17702064ee626f35a2118bc3c8c31b70308f43bb29f1bd70035be96a68fd7741",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Elbow_Output_Flange.ipt",
+    "bytes": 106496,
+    "sha256": "0f70c6d1bd339f428ca66b8e94e4f84a2478e5fd83c32f5218aedbab10e99baa",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Elbow_Shaft_Envelope.ipt",
+    "bytes": 116224,
+    "sha256": "773ab574631b129cfdf8de62064af4b32752c411a2a97e0400d2c433a7f9339b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Elbow_Support_Carrier.ipt",
+    "bytes": 137216,
+    "sha256": "8ca3f3bc719fcb2434169b3dacb51eaadf3528b9547718d46859b5719310a564",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Encoder_Alignment_Test.ipt",
+    "bytes": 92160,
+    "sha256": "a52790f645d241527993399abe2f9066e523fed51d1ed15f3e608d3c0fd0a2b9",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Encoder_Board_Envelope.ipt",
+    "bytes": 77824,
+    "sha256": "dee4491aa6e45180a9d96b80400deb2738d5f20de2863005b39fefed1796d65b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Encoder_Mount.ipt",
+    "bytes": 92160,
+    "sha256": "1e79817924bc739109d7fdb199eb272ab8dd1a7c6dcebc86cc0ed304207d032e",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Encoder_Standoff.ipt",
+    "bytes": 107008,
+    "sha256": "e22fa7fb025530b16ef3bff3949d9df2c8cd668ac97362e1e0d285b80b689f57",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Forearm.ipt",
+    "bytes": 116224,
+    "sha256": "dd5c40a189a17407b8ee21d7627d0173f4b4700ac5aaa6bb6bdd494ee8ecab1c",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Horn_Adapter_Test.ipt",
+    "bytes": 110080,
+    "sha256": "0c5bdc9bbd8d5d5e6698ce67aff48c69afb7412392d697c48f68d7509e3417af",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Joint_Stop.ipt",
+    "bytes": 102400,
+    "sha256": "306d8816f7ef18c0309e3ac7bef85362a60db4e9eef17fba14c24cca6691684b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Magnet_6x2_Envelope.ipt",
+    "bytes": 88064,
+    "sha256": "13ef30ccbdb507f8df52ca2b4bba288e794c9b1d2fd4d33860e44e469655aae9",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Magnet_Carrier.ipt",
+    "bytes": 115712,
+    "sha256": "545435fe8acd991e724b993dc87d21f55f0b7442895c5a56dcebc384e9eb44ca",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Payload_Mount.ipt",
+    "bytes": 107008,
+    "sha256": "48d21fdd8271bed06edb70c4adbba3355b588a6a5ec3ef43c0815aa75a8af000",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Servo_Envelope.ipt",
+    "bytes": 76288,
+    "sha256": "56d627a0495a0d512a5260a2c47acfad004eede31c5f35bd045ad36921129799",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Servo_Horn_Adapter.ipt",
+    "bytes": 111616,
+    "sha256": "bb7f72a0485acb690617d0d97f845fe6cf17d422cc2893e64cea9a7c9a4f00c3",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Servo_Mount_Coupon.ipt",
+    "bytes": 91136,
+    "sha256": "d99dd523407a64016b6a3a6f4ef77e5e409c93a4105e36a95b6bdafc6193387a",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Shoulder_Mount.ipt",
+    "bytes": 107008,
+    "sha256": "f4f47ce2ee2bbc09b115fc40ec180c5d79c9777414b84c746339280f1bc9cef3",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Shoulder_Output_Flange.ipt",
+    "bytes": 106496,
+    "sha256": "753838e59389146729c37bff28fb062d93a8b625605ef8cea70f19c78435a4d5",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Shoulder_Shaft_Envelope.ipt",
+    "bytes": 116736,
+    "sha256": "0c8e991a12361ec0ecded923202a9cde08190380d65f67c5dec089b75fe4763b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Shoulder_Support_Carrier.ipt",
+    "bytes": 117760,
+    "sha256": "cf5f6fc9d6f1e5bb7cea60642c45db937ecb3f187f24e12cef7fc5ac2ae52ef0",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Spacer.ipt",
+    "bytes": 100864,
+    "sha256": "58d0b48d879bb8241072504e52a17ff406a152d386bbb74e648d66a9f284d0e0",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Spring_Base_Anchor.ipt",
+    "bytes": 82944,
+    "sha256": "b3659c7f4cb2c29ed7622bee143f78be0e073cf76551557abdf3084fc74c5091",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Spring_Link_Anchor.ipt",
+    "bytes": 88576,
+    "sha256": "d2bf28dbaa6959f21d4318a915874ad975a8ae2384a0c2ad9134373bb346ccac",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "ipt/Upper_Arm.ipt",
+    "bytes": 124928,
+    "sha256": "a96bebf78373e1af034cd1faa81138bd1df3e2c8d3212ac1b1d0d8ff79575181",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "joint_config.py",
+    "bytes": 2344,
+    "sha256": "098c0ba97db6294c394b6a0b81b245996812bfcc7602e3676082002ecc1484de",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "kinematics.py",
+    "bytes": 1683,
+    "sha256": "bbfc327090c12820a63b571080fe95535df2cf497204af92fb8e420f87b4ecf4",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "mass_properties.json",
+    "bytes": 19245,
+    "sha256": "a3f8384b521b14e1f260ea6af61062fb1b3f01ce15127fff762c52505ed27da6",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "mechanical_bom.csv",
+    "bytes": 3672,
+    "sha256": "8071a9a63790c15a99ea430d1c73cce22368ea55c6549a358698d6720e9d3f98",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "official_sources.md",
+    "bytes": 2387,
+    "sha256": "82681465f447cd79f83c6023e5ff04901c84fdf27cf8421700762509726ca8d9",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Base.pdf",
+    "bytes": 74366,
+    "sha256": "d4feed718e693b0974eef6bb043f13783fabbe8171c63cf35fd78fcf3918d8a8",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Bearing_625_Envelope.pdf",
+    "bytes": 73602,
+    "sha256": "d3eb25291c2d86b931744b15fc2eb517da79fe19ad8d6c1b744cdcebc7d94471",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Bearing_Fit_Coupon.pdf",
+    "bytes": 76726,
+    "sha256": "b520a5efb6442880e7967391619744a8ffd876ecb3cbb1dde45591fe2b35109a",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Bearing_Retainer.pdf",
+    "bytes": 74333,
+    "sha256": "0dd8b20576021efc2b5bb93774cd233520da75bf72b1ae94e8c6b8eba526006d",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Bearing_Support.pdf",
+    "bytes": 75988,
+    "sha256": "019bb51d0f46316a36e71a2a268c1b20cb895b82e56b9e2737d7e51cac636fb1",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Elbow_Horn_Adapter.pdf",
+    "bytes": 73652,
+    "sha256": "390605ec3bdd33bf82c016207eb4d2f349b255ae3a1d8a20bd020a6ebac85c33",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Elbow_Mount.pdf",
+    "bytes": 74336,
+    "sha256": "6d1a2ad87b2a221b698e509a5a1c3d75804d572ff22b7392151b9b9387dba19a",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Elbow_Output_Flange.pdf",
+    "bytes": 74140,
+    "sha256": "241aa0da07fd858236713071f7328e6ec0e0afa1da14d733cd63d3b0205d303a",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Elbow_Shaft_Envelope.pdf",
+    "bytes": 72882,
+    "sha256": "330f12e1a5b329c46962ab4f4a9624006a6a707e12045e99555e1235c8bc2666",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Elbow_Support_Carrier.pdf",
+    "bytes": 75344,
+    "sha256": "cfed8b116f242fde0dc964bc2a13f8d2c215827f96b9835d58728b9899cf3f87",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Encoder_Alignment_Test.pdf",
+    "bytes": 76198,
+    "sha256": "8686a93325f66786ee5e181c27c6da1d16f69f5e46d3c203d2e7efbb97200d90",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Encoder_Board_Envelope.pdf",
+    "bytes": 73850,
+    "sha256": "84e9f14f2863b904689a9dc3ba2400cf98eb628d94aad0d76a99dbceac07e5f4",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Encoder_Mount.pdf",
+    "bytes": 75329,
+    "sha256": "0bc94c21398eec8c54ed1c6ae3f6d40831b978e7871da89672360f5d1a0145a3",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Encoder_Standoff.pdf",
+    "bytes": 73016,
+    "sha256": "0f6fb0cff26d3f71e9df56a6749ad3ba4cc4d7b3801dae5a74b5cd5f608b280a",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Forearm.pdf",
+    "bytes": 77155,
+    "sha256": "ebde32378543240e65330feaaff21cc9a21845b3bc16711eba130446819b55e8",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Horn_Adapter_Test.pdf",
+    "bytes": 75169,
+    "sha256": "b895b85c6a9d7f279c847b8cdb4d1a71a6a298ec98001e733eface0a3fc2b8e2",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Joint_Stop.pdf",
+    "bytes": 75949,
+    "sha256": "a871e04891e2037a576c32f45715546e2fe8eb5ebb24e57e346c135a48987482",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Magnet_6x2_Envelope.pdf",
+    "bytes": 73326,
+    "sha256": "f8f31565f285ea4b0c6010d62dc2fc9ba42714f28a03623cccb084bf62b2da20",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Magnet_Carrier.pdf",
+    "bytes": 73534,
+    "sha256": "ecfcedeb4b0c571a20bffc1c8acddb21ac2a49e1bce43a7b947183ed65e4ba51",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Payload_Mount.pdf",
+    "bytes": 74194,
+    "sha256": "4125f1179948a4b02b99775a86630ac7bd58490747c9636fc4d99474c9b2035d",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Servo_Envelope.pdf",
+    "bytes": 74259,
+    "sha256": "6ba450ad86ebe9a8d003e425cbeeb41833e7562f94bb71ad12ab73acdc2c1b14",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Servo_Horn_Adapter.pdf",
+    "bytes": 73653,
+    "sha256": "d290ffff24dfd32079a62d1f399466aab701467f4300936ecec7dd9af602bf07",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Servo_Mount_Coupon.pdf",
+    "bytes": 76124,
+    "sha256": "706946f38cd800da91ce6a9357b496759416fba56625ce916cf109a47ceaec83",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Shoulder_Mount.pdf",
+    "bytes": 74067,
+    "sha256": "cbff6dbe5fba58e77d5f6574788784e73bb29db286f8cf182e289a81afa3eda4",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Shoulder_Output_Flange.pdf",
+    "bytes": 74155,
+    "sha256": "1cb38a8a892ac27f8343478dfc2cd35be314824cc3129a91047037a1c8beb124",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Shoulder_Shaft_Envelope.pdf",
+    "bytes": 72879,
+    "sha256": "1eb0bcd37564f2a6f67ca9aa5939cadd9dcbb25380d72881c4f625d829753974",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Shoulder_Support_Carrier.pdf",
+    "bytes": 75751,
+    "sha256": "5bcb01d8c08dfecb1eb00ee53eea800d09543b11b18b5d364bcbc6aafe12f983",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/SO101_TwoJoint_Prototype.pdf",
+    "bytes": 83568,
+    "sha256": "b2dc8e97f1799a2d0dd0843908893863d0d02683aaa23fb18904b0c09d58f1f8",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Spacer.pdf",
+    "bytes": 72882,
+    "sha256": "f70be8c6e385ae10e839d56ca5c728659b82de5ebf8aa58e80d1b77746f4fa75",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Spring_Base_Anchor.pdf",
+    "bytes": 74436,
+    "sha256": "9b45d5e8e9cc4d9d23885ff53ff6b82b3b084e5c3b0d44443118386679fdf7cb",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Spring_Link_Anchor.pdf",
+    "bytes": 74452,
+    "sha256": "9d5f55cbd407d4118841f8f1a1372b3f5887cbb87fb83b375ca84dd820f56db8",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "pdf/Upper_Arm.pdf",
+    "bytes": 77631,
+    "sha256": "6346483a7e4c2003e53cbbecabed27cafc2983f588288a942792570e0cded858",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "print_plan.md",
+    "bytes": 3620,
+    "sha256": "74eebe63dc22a32fb0f28131c9c0caaf05175608cd3a7b0b56542b331dcf326e",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2303,
+    "sha256": "a8b7f35253c138d4b18ca1125b63dbf3a7a818de1b3a889daef8e4d7f3de4bdc",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "review_report.md",
+    "bytes": 6090,
+    "sha256": "3fd788d7b3fe03f7b3411db9c5d82ddb8b6a5e0730c231c19d25912de5791ee0",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "scripts/analyze.py",
+    "bytes": 7348,
+    "sha256": "12f32a14da0dd87f92f1eaaa83a31b46358383f1efccf461e145eec29f39344a",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "scripts/audit_inventor.ps1",
+    "bytes": 4843,
+    "sha256": "1a1e66907424d75d8878814cf022c899261c84dd10b395fed9e61cb10c529284",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "scripts/build_inventor.ps1",
+    "bytes": 10356,
+    "sha256": "6d05133e002602699adfd1473767e1d2b3633897fc5c6f41cbd8e857acb4fcd7",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "scripts/connect_inventor.ps1",
+    "bytes": 979,
+    "sha256": "f4411efb6ac39c47daf0ccb6a3e2abdea2352a2c69e9d130fc5485df6cc446c3",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "scripts/drawings.ps1",
+    "bytes": 5274,
+    "sha256": "5872b4af39516c2f95fd7b56b9afb8e0727ec3b73ff3268747a60beeb2dcfb81",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "scripts/export_assembly.ps1",
+    "bytes": 1371,
+    "sha256": "31e680acf376c901eba07cfda647b70a916a230040d82356ae291a28f3813edd",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "scripts/finalize_report.py",
+    "bytes": 10632,
+    "sha256": "445fdca6646d476658a077123ba3fe4e369f3b8e0ed84ae564949c9c952566d5",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "scripts/pdf_qa.py",
+    "bytes": 1551,
+    "sha256": "eeda3fc186a504fdde88b3bb0ee00b73d9598874aa147126b0a0ed52c6f92938",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "scripts/support_assembly.fragment.ps1",
+    "bytes": 1409,
+    "sha256": "8b4ee9013d72786c28055c590e96723a4c6bad6f6cdec281fbed9f062922014d",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "scripts/support_parts.fragment.ps1",
+    "bytes": 1473,
+    "sha256": "0eb64948f12ce0820aeb448a687f956fa1259e8edc45b15ff8080d126d313d13",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "scripts/validate_meshes.py",
+    "bytes": 3919,
+    "sha256": "d3f9ed9809e57b7fae76987fe273b94ea8f2f05b3326caa0a5bc4a1ca4bf4f65",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "servo_mount_validation.md",
+    "bytes": 2469,
+    "sha256": "852d972cf58078c6a49c109f203696d93ae90f65dce627b85c599f959fc78f82",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Base.step",
+    "bytes": 12518,
+    "sha256": "f9f74fa0b0a7bad70d9469988d0532ab439b8bdef1413f065d1fb082f1b68991",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Bearing_625_Envelope.step",
+    "bytes": 7798,
+    "sha256": "f037a10d98c18b4a4ec2b7c2c29376120883e09b7fc22de019662f835079e0f8",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Bearing_Fit_Coupon.step",
+    "bytes": 14217,
+    "sha256": "9ad3a55399932239e69734cf562b41672ba5eaeeb339f45575b007e2862632da",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Bearing_Retainer.step",
+    "bytes": 13998,
+    "sha256": "601098d83b6d297ecb8f4f978175956fa80ad48cd007e5978b6bf188129f1707",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Bearing_Support.step",
+    "bytes": 15816,
+    "sha256": "f4e7b7af2ed2f9e64ce0417fd53c9e010a35465f051dccf4d157a7ba9e5ddc38",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Elbow_Horn_Adapter.step",
+    "bytes": 14017,
+    "sha256": "48a12b9a2653f31438cb30fbc51c4f9905c12cc67bfc74bb9d846e331d946e31",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Elbow_Mount.step",
+    "bytes": 27030,
+    "sha256": "449cdf5fccbfee20f2221f33939aca88da83b62464ddc6b1abb81ff6842f35a3",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Elbow_Output_Flange.step",
+    "bytes": 14024,
+    "sha256": "7f308f43a81c3275753f16f2956cf60d327b40bf677871163699f5f21b33411f",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Elbow_Shaft_Envelope.step",
+    "bytes": 6235,
+    "sha256": "5b688963f12e6686c16610aea7c186112eb234790134a474fafa37ebe8ce0975",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Elbow_Support_Carrier.step",
+    "bytes": 31508,
+    "sha256": "db01c49601519cada5628457c6b67b595f85aafe32a07a53713dd2b50ba6d123",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Encoder_Alignment_Test.step",
+    "bytes": 24400,
+    "sha256": "ab8b42bf6a8a194bd4c227cc3328298239c897eecf562601e4e18274d9246ba9",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Encoder_Board_Envelope.step",
+    "bytes": 14884,
+    "sha256": "3d002fbcd07f17e0dadb15844745a8ae1041e302ec67bb195d6ba21db7cd8a3f",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Encoder_Mount.step",
+    "bytes": 24439,
+    "sha256": "4d9c943382e20c123a154f9bed501dd567a8673903f8bb19833cd94e4e9bae34",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Encoder_Standoff.step",
+    "bytes": 7768,
+    "sha256": "d6e9bda1c028e6bf65430da7b4ef0ce12b46ec448fd2d6ec28290a7c80c17d13",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Forearm.step",
+    "bytes": 25759,
+    "sha256": "1a0df7c2244214fee3e529db53426accc598fce33870327de8616c6c766cda45",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Horn_Adapter_Test.step",
+    "bytes": 13980,
+    "sha256": "99bc451de227e280862b011f568ee2ed224a81afd463ca53d0ee5a7bbf6deeb4",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Joint_Stop.step",
+    "bytes": 12643,
+    "sha256": "2534635d60d0d5b4e41c5924e3be3d8197ab17bde5ef2d51c2c7921cc9cbf8b1",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Magnet_6x2_Envelope.step",
+    "bytes": 6218,
+    "sha256": "dd6228e2d5eb03820cd20024fd5ce9142c4264c237c22cb018ff72ed0710051e",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Magnet_Carrier.step",
+    "bytes": 9770,
+    "sha256": "b771e69c27e595532abac114100ac56ad208cdfe3b652cb4d167723b52bada70",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Payload_Mount.step",
+    "bytes": 22446,
+    "sha256": "b75182f451da24418a7a666fd75a313b334d32b8d5912378599d74978fd611e8",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Servo_Envelope.step",
+    "bytes": 9627,
+    "sha256": "a49f329a9c88c1da14a95625be585e84d10689af8d58a8768f142c70a8149a63",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Servo_Horn_Adapter.step",
+    "bytes": 14004,
+    "sha256": "a1cc5cff999c23bf60aaea1494766f88653fb481d04648a82564be1e90d78740",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Servo_Mount_Coupon.step",
+    "bytes": 24524,
+    "sha256": "0996ec80027ed6f79964c496f58b477e7912279d1f379d597af3d5dd9b0f60d5",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Shoulder_Mount.step",
+    "bytes": 26917,
+    "sha256": "177db8e4101d2ae1423639ba475f4dbfbb84ff36cc95b1bb3671569b76a20586",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Shoulder_Output_Flange.step",
+    "bytes": 14007,
+    "sha256": "80214b0cae55e5b7e3021c72cbb0c6b56d12d67775a67868e1befd5bb3dbd506",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Shoulder_Shaft_Envelope.step",
+    "bytes": 6251,
+    "sha256": "4e420f49b485761c92b1a1de25ca3eefba301f5644c182e37a712caec8955ab8",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Shoulder_Support_Carrier.step",
+    "bytes": 31625,
+    "sha256": "a08017808e32972c305d682793741daf6a8a0de9a2c28b8b58ba7d6b3dc22c04",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/SO101_TwoJoint_Prototype.step",
+    "bytes": 366120,
+    "sha256": "f4f392d32f6d3d83c536be973a53e233a2131c862a4fb3e52ed32eb4920e088a",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Spacer.step",
+    "bytes": 7647,
+    "sha256": "cbd74c849fff6d3c53b6b3e16c55bd9153ee73e6805318444856eadbfc2477ed",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Spring_Base_Anchor.step",
+    "bytes": 11108,
+    "sha256": "e7ba3b7955df6ba5dd5e9296b050bd4d3ed5f1f2e9e88d095608b952192eb7cf",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Spring_Link_Anchor.step",
+    "bytes": 11111,
+    "sha256": "d988669aa418b18bf9b08118d55f0a2c92a3abda26d2c380580822e2489634a3",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "step/Upper_Arm.step",
+    "bytes": 30345,
+    "sha256": "4cbbcff9dd509b0910e3a4a451e874d0676922daf244c49d3323e0b11444c589",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Base.stl",
+    "bytes": 39484,
+    "sha256": "5f700d683d0412b1c66067740a80c63a0c6d6793dda3d5ebc0ce355f424d1e80",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Bearing_625_Envelope.stl",
+    "bytes": 32484,
+    "sha256": "5a813e2b75dd7908449a513302956310acef8fac6b7d02a7d7635f51aa478ae2",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Bearing_Fit_Coupon.stl",
+    "bytes": 37484,
+    "sha256": "967dd5456d3d39f02e53b124df2fcd53a6ab100d3fa9f83caa7e0cb72b998256",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Bearing_Retainer.stl",
+    "bytes": 63684,
+    "sha256": "206386322a285d4491b03409ee4ec4c16a7765749923d1b198773d66fbac998b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Bearing_Support.stl",
+    "bytes": 86684,
+    "sha256": "de6fbce17899c14d32a3d3640c2b597e4b0c916539f383b4410bf9bb492248a8",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Elbow_Horn_Adapter.stl",
+    "bytes": 57684,
+    "sha256": "907598926752c1d185b3770166440596814cc2519f4272696ee4048921e02b22",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Elbow_Mount.stl",
+    "bytes": 8484,
+    "sha256": "e8f9c40111788377ebbe8e545c88fb901cac7a444a1951cd90af4a1f6af87c28",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Elbow_Output_Flange.stl",
+    "bytes": 58684,
+    "sha256": "3f0e34bb4f8f84a1e0666539386c75755e6b68fc63229e77cdc56da3b91dd5c4",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Elbow_Shaft_Envelope.stl",
+    "bytes": 29084,
+    "sha256": "ebfd368954ae8ed2cd0f43a0145e3c24a5b01df579d5f9dad9265a49eff2e782",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Elbow_Support_Carrier.stl",
+    "bytes": 50284,
+    "sha256": "c335dcb951af419181bda2112e509cef8f9f137813078d7b38afeb41746a9d40",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Encoder_Alignment_Test.stl",
+    "bytes": 3684,
+    "sha256": "8cdcd34d0dfabd8c69f06dea060c9f8c035c9a2d3253f6992c33be5bd5062173",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Encoder_Board_Envelope.stl",
+    "bytes": 1484,
+    "sha256": "46dc526336bf19241e2ac7da51ae36a46addd0a306b8a2e1d89669fdb856b599",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Encoder_Mount.stl",
+    "bytes": 3684,
+    "sha256": "e73c501d6121764f2b555b0b00ecfa2190c1a1e7ebd65d158d97655de0b1ff57",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Encoder_Standoff.stl",
+    "bytes": 39984,
+    "sha256": "dc1009865410b7df7518f67b9a1d06e74e5d520af0d2ffd47bea93edf3022fb8",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Forearm.stl",
+    "bytes": 54684,
+    "sha256": "4ea251dbfa392b7cdac44476d9b00cc2b64898a6fb4bc7196642aaae55556af0",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Horn_Adapter_Test.stl",
+    "bytes": 58484,
+    "sha256": "54d68337fe6f7342b8c4dd1bb0410631289a7fec1823c326a76b770fd01b9175",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Joint_Stop.stl",
+    "bytes": 53284,
+    "sha256": "7df1461cc8b4237771d14585cbc599a2e6e65a556ea7e71fb9894bd8eab41605",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Magnet_6x2_Envelope.stl",
+    "bytes": 20684,
+    "sha256": "864d818d09d92a1cca263aa0c597de87e349641580de4f8f50fe8375c730875c",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Magnet_Carrier.stl",
+    "bytes": 51084,
+    "sha256": "ea12c006adb042c80db1bfd901986939d9533bd83c5071ac51dfda4c35e4e475",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Payload_Mount.stl",
+    "bytes": 33284,
+    "sha256": "b0e20307e0114f71a85704875198de1e91e300c3403f3f9154c4a370a1f97ef9",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Servo_Envelope.stl",
+    "bytes": 684,
+    "sha256": "1086792ef9379027599f250e0086b6ea64375adc2e94df6c1b51ed1fade35e5d",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Servo_Horn_Adapter.stl",
+    "bytes": 57684,
+    "sha256": "c912a3653f728d82466ae6a55e13a1e7343e2bf54729d7a9da88c211a7e776d1",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Servo_Mount_Coupon.stl",
+    "bytes": 3684,
+    "sha256": "2f1b9400ef19d13795e81c600651bd14a007bc8567b8f038d0225ba13c6dea35",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Shoulder_Mount.stl",
+    "bytes": 3884,
+    "sha256": "bc5cd63b4b74845c902802e98413d6108f632973459145fa8481971d1f7568e9",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Shoulder_Output_Flange.stl",
+    "bytes": 58684,
+    "sha256": "bbbe22c0b585435c0ec82a49ef70037408978614526b231480a33ccd47798b26",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Shoulder_Shaft_Envelope.stl",
+    "bytes": 29884,
+    "sha256": "de617075ac3836392c456436614027aba1dd7952cfb39a6c3d251a1a4842b2d0",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Shoulder_Support_Carrier.stl",
+    "bytes": 45084,
+    "sha256": "e51e34643f17ab2c138dd228820926c3b71219d71a3f35569cfc55d27793e589",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Spacer.stl",
+    "bytes": 36584,
+    "sha256": "e33705d410614f7e6f012d301289fcd44464a8f81cb7dd84b85bb0deeb25c4fc",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Spring_Base_Anchor.stl",
+    "bytes": 10484,
+    "sha256": "67d4d481a6e0f1c450d1f8d246a90769629701a9ae56e24b041e306c1ee97c24",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Spring_Link_Anchor.stl",
+    "bytes": 11484,
+    "sha256": "8e71278511250ef82f6f6b624eb7c691db692005bea22c6a2df54ce92662df59",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "stl/Upper_Arm.stl",
+    "bytes": 73684,
+    "sha256": "7d7f42cc743a8a915e98a96f64f6625b930501d10414e7efaabb7abdb067fe5c",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "tests/test_analysis_artifacts.py",
+    "bytes": 2239,
+    "sha256": "a683793ae40cad5ddc80268af86694bdff6d83600dd5a054648d4562a269e58b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "tests/test_two_joint.py",
+    "bytes": 1821,
+    "sha256": "f4f07782b68d4adc78deb4fde3352346cae26f68b501465ebeba07a6f72612e7",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "torque_analysis.json",
+    "bytes": 26033,
+    "sha256": "571f008f8beb3e25e5d08c2c418a8831192a85d8d5f7fe13a98d1e2b153315b5",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/assembly_mesh_preview.png",
+    "bytes": 26854,
+    "sha256": "975fce366d64f4294a3350e5a84748881b3b0d237821c26f44afc4ed8fc7901b",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/coupons_mesh_preview.png",
+    "bytes": 18761,
+    "sha256": "7f2e03740fcd49d1063d84c8534fcc5b7baa9c0b9c9736c4dce2f730957613f2",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/inventor_assembly.png",
+    "bytes": 736272,
+    "sha256": "09dd386320eda1f75dc37688bfaa121c9d5c9809612674b37563bd8ac9364995",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Base.png",
+    "bytes": 30819,
+    "sha256": "86da80db6a2415ea278b687d602936206df492a72bacffdcd686b3143804622e",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Bearing_625_Envelope.png",
+    "bytes": 27535,
+    "sha256": "2ff496842af2883857183402e43fa957d307aac02372322b509d27e2ffa316d5",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Bearing_Fit_Coupon.png",
+    "bytes": 39627,
+    "sha256": "55371de590e31b9ac583f772f30dfafc8ed85f4af34f8251960f667ec32383b1",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Bearing_Retainer.png",
+    "bytes": 31019,
+    "sha256": "3b529a0d7bb65774e905246d269a4c6bb665305aaba61a74a68354f45b301f7e",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Bearing_Support.png",
+    "bytes": 38185,
+    "sha256": "d21cc708c1c452eafd70b2a05261578ea6e86c841ab524ffc7b32078cb184368",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/contact_1.png",
+    "bytes": 228999,
+    "sha256": "a36beb6231762e801df5da5e566ba3c290f12de499378890c090ca437b8d0da9",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/contact_2.png",
+    "bytes": 234886,
+    "sha256": "2d74e708f009d61f23c11b6d3c6c6676ae32a53991cd8cf3a92bb1f2e3d8e782",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/contact_3.png",
+    "bytes": 228064,
+    "sha256": "b6f4049fcf6ad3d9ece7d44cd8d7804001f971fd8cffd4782de4ccc6d33a34d3",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/contact_4.png",
+    "bytes": 240542,
+    "sha256": "4ea55449b5d7aaf5068d16659dfac9857567ed62027dddb18afd9e5ad86b6f84",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Elbow_Horn_Adapter.png",
+    "bytes": 30538,
+    "sha256": "442733d3740361e7b7edf572eda1b92a3df0ad1595fffb88f89a03513319c1b0",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Elbow_Mount.png",
+    "bytes": 31589,
+    "sha256": "6cf327cbdec851c10ffda6548b49603e9ccc24e71014941d7b78966d74806994",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Elbow_Output_Flange.png",
+    "bytes": 30669,
+    "sha256": "d91dd613405fb57d26fa2dac7708a79a6d612d6e3d41f950dbf4e421176ab793",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Elbow_Shaft_Envelope.png",
+    "bytes": 26006,
+    "sha256": "2336506a7bda50d21f90fb5e329083bf06153f290ba9b04f2e3f9d9c8cafc83a",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Elbow_Support_Carrier.png",
+    "bytes": 35345,
+    "sha256": "dc6c34845a2d5b6d832210ebedd013b7e2d3fc13a8b7ee0d985a371aff60f0f4",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Encoder_Alignment_Test.png",
+    "bytes": 35413,
+    "sha256": "66ab97eb17ff5335f0ca41992c47b4474d50885eea7045c53f9e128031071bb6",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Encoder_Board_Envelope.png",
+    "bytes": 28100,
+    "sha256": "b0041edb29b01b1545fb9446a269eb2fd46d54439c5cc31c282dcd164268d182",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Encoder_Mount.png",
+    "bytes": 34748,
+    "sha256": "7849079e32964d468053607ac5d4a082a1af61042cedba513fc90f45973a8133",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Encoder_Standoff.png",
+    "bytes": 26230,
+    "sha256": "4032e2778051840a88cbb8b27d2e63697aa6bed7cbca6e586dd3dae096879681",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Forearm.png",
+    "bytes": 38907,
+    "sha256": "c7dd0f25806212070a2f32b1f847a107012d9190883e69cafce4ee9121970be1",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Horn_Adapter_Test.png",
+    "bytes": 37205,
+    "sha256": "cc4aee08349d50a52980792e01b4581b2db544112153c09e864209e63fb8e949",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Joint_Stop.png",
+    "bytes": 43750,
+    "sha256": "bd513b189f47e885275206464afe50843167037090c721d59e2ef5060106d1df",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Magnet_6x2_Envelope.png",
+    "bytes": 25889,
+    "sha256": "e89185ac0d88bb82cde9e760400730f51c66b3786119959cda7512e0042d0cf9",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Magnet_Carrier.png",
+    "bytes": 26659,
+    "sha256": "399477d5b9016ee2debe6ab5e32f2f326afd5a9532a84523de9d00c14e0991c8",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Payload_Mount.png",
+    "bytes": 28578,
+    "sha256": "21cc4b40da271875860fad4cb64a8628210c3988e5e699ed76ec7f5dd99d761d",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Servo_Envelope.png",
+    "bytes": 28514,
+    "sha256": "c053c39dff8d880bcd43535f5bc0a800408571bdf805aaf3a252b4da79eb7b9e",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Servo_Horn_Adapter.png",
+    "bytes": 30614,
+    "sha256": "80fb77d5d69582ea09f71887ced0293214cf7e568de8b0401eb58a19e0d1bc4f",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Servo_Mount_Coupon.png",
+    "bytes": 37363,
+    "sha256": "7688fcd47a388fe057663d8c7788c00c5b495172dcac26d5545ab308ec91da15",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Shoulder_Mount.png",
+    "bytes": 32186,
+    "sha256": "abd7f6a13e88bced36263b0a07bf09dc828b9aaf5f379c7db3957b8a3060a288",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Shoulder_Output_Flange.png",
+    "bytes": 30704,
+    "sha256": "2d89e2392173e76062e26c446d1e97c32745e6e585c260a59e49c154133309c6",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Shoulder_Shaft_Envelope.png",
+    "bytes": 26347,
+    "sha256": "78b981b9197f389e54c7ec3d68c8cd07a37af5b7e701154cc7d5e93c4ff11d5e",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Shoulder_Support_Carrier.png",
+    "bytes": 35727,
+    "sha256": "435c6d206e331506232243caafd1d4bb09d4182f8433bf9c57f943351cb8ae3a",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/SO101_TwoJoint_Prototype.png",
+    "bytes": 47872,
+    "sha256": "0bc18337b5fdce5ba0c52b580f9c6128679f611b179c893304e633c5bbff3cff",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Spacer.png",
+    "bytes": 26332,
+    "sha256": "403d74c777b33fa958a13cc9cf700d366c41eb05a8ea80d696957646ce2f58b2",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Spring_Base_Anchor.png",
+    "bytes": 28108,
+    "sha256": "45fa48f25719e403cee47bf320d633490cf00c1c060158fa6e220e611928435f",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Spring_Link_Anchor.png",
+    "bytes": 28047,
+    "sha256": "bead8ef5dcc33e9da52daa84da767b6d8970d1e17f7b202355aeef83fe60beed",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/pdf_qa/Upper_Arm.png",
+    "bytes": 39338,
+    "sha256": "56bbbf168767c96f7bfb978899088c7862eb0490d366c9147709f51bf1da3b49",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  },
+  {
+    "path": "views/Servo_Mount_Coupon_drawing.png",
+    "bytes": 64811,
+    "sha256": "fc46b054401ce696581b862126fadf0a1a7855c28dd2bcf64f4b601e72351572",
+    "status": "COMPLETED FILE; manufacturing validity per review_report"
+  }
+]

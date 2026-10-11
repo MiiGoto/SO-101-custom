@@ -1,0 +1,66 @@
+[
+  {
+    "associated_dimensions": 8,
+    "errors": [],
+    "center_marks": 3,
+    "full_dimension_audit": "HOLD; servo/horn interfaces remain TBD",
+    "part": "Bearing_Fit_Coupon_JIS",
+    "scale": 1.0
+  },
+  {
+    "associated_dimensions": 6,
+    "errors": [],
+    "center_marks": 0,
+    "full_dimension_audit": "HOLD; servo/horn interfaces remain TBD",
+    "part": "Encoder_Alignment_Test_JIS",
+    "scale": 1.0
+  },
+  {
+    "associated_dimensions": 4,
+    "errors": [],
+    "center_marks": 6,
+    "full_dimension_audit": "HOLD; servo/horn interfaces remain TBD",
+    "part": "Horn_Adapter_Test_JIS",
+    "scale": 1.0
+  },
+  {
+    "associated_dimensions": 7,
+    "errors": [],
+    "center_marks": 0,
+    "full_dimension_audit": "HOLD; servo/horn interfaces remain TBD",
+    "part": "Servo_Mount_Coupon_JIS",
+    "scale": 1.0
+  },
+  {
+    "associated_dimensions": 7,
+    "errors": [],
+    "center_marks": 0,
+    "full_dimension_audit": "HOLD; servo/horn interfaces remain TBD",
+    "part": "Under_arm_SO101_JIS",
+    "scale": 0.5
+  },
+  {
+    "associated_dimensions": 7,
+    "errors": [],
+    "center_marks": 0,
+    "full_dimension_audit": "HOLD; servo/horn interfaces remain TBD",
+    "part": "Upper_arm_SO101_JIS",
+    "scale": 0.5
+  },
+  {
+    "associated_dimensions": 6,
+    "errors": [],
+    "center_marks": 0,
+    "full_dimension_audit": "HOLD; servo/horn interfaces remain TBD",
+    "part": "Vstone_Cradle_HOLD_JIS",
+    "scale": 1.0
+  },
+  {
+    "associated_dimensions": 6,
+    "errors": [],
+    "center_marks": 0,
+    "full_dimension_audit": "HOLD; servo/horn interfaces remain TBD",
+    "part": "XL330_Cradle_HOLD_JIS",
+    "scale": 1.0
+  }
+]

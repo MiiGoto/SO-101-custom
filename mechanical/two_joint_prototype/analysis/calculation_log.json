@@ -1,0 +1,170 @@
+{
+  "payload_50g": {
+    "payload_g": 50.0,
+    "max_static_Nm": [
+      0.2558466905430095,
+      0.06310820340152473
+    ],
+    "max_motion_bound_Nm": [
+      0.2568181824215787,
+      0.06347785361179245
+    ],
+    "max_static_pose_deg": [
+      [
+        4,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "grid_resolution_deg": [
+      1,
+      2
+    ],
+    "poses": [
+      {
+        "name": "initial",
+        "q_deg": [
+          0,
+          0
+        ],
+        "gravity_Nm": [
+          0.2551201176597995,
+          0.06310820340152473
+        ],
+        "dynamic_addition_Nm": [
+          0.0009714918785688716,
+          0.00036965021026772024
+        ],
+        "motion_bound_Nm": [
+          0.25609160953836835,
+          0.06347785361179245
+        ],
+        "tip_m": [
+          0.19,
+          0.0
+        ]
+      },
+      {
+        "name": "extension",
+        "q_deg": [
+          0,
+          0
+        ],
+        "gravity_Nm": [
+          0.2551201176597995,
+          0.06310820340152473
+        ],
+        "dynamic_addition_Nm": [
+          0.0009714918785688716,
+          0.00036965021026772024
+        ],
+        "motion_bound_Nm": [
+          0.25609160953836835,
+          0.06347785361179245
+        ],
+        "tip_m": [
+          0.19,
+          0.0
+        ]
+      },
+      {
+        "name": "mid",
+        "q_deg": [
+          35,
+          60
+        ],
+        "gravity_Nm": [
+          0.16287098239366798,
+          -0.005500242340930168
+        ],
+        "dynamic_addition_Nm": [
+          0.0007826929083152967,
+          0.00031674877562732923
+        ],
+        "motion_bound_Nm": [
+          0.16368376996831605,
+          0.005816991116557497
+        ],
+        "tip_m": [
+          0.06500810971124346,
+          0.1512413490807687
+        ]
+      },
+      {
+        "name": "lift",
+        "q_deg": [
+          60,
+          30
+        ],
+        "gravity_Nm": [
+          0.11274175916380737,
+          3.1152467090819217e-18
+        ],
+        "dynamic_addition_Nm": [
+          0.0009162476858736163,
+          0.00035702720060533285
+        ],
+        "motion_bound_Nm": [
+          0.1136753820133893,
+          0.00035702720060544436
+        ],
+        "tip_m": [
+          0.04500000000000001,
+          0.17794228634059947
+        ]
+      },
+      {
+        "name": "max_flex",
+        "q_deg": [
+          75,
+          120
+        ],
+        "gravity_Nm": [
+          0.007404858457903764,
+          -0.060957843516236385
+        ],
+        "dynamic_addition_Nm": [
+          0.0004351896341408199,
+          0.00020091435090266625
+        ],
+        "motion_bound_Nm": [
+          0.007870142758377502,
+          0.06115875786713905
+        ],
+        "tip_m": [
+          -0.07329886856967999,
+          0.06105141985576411
+        ]
+      }
+    ]
+  },
+  "spring": {
+    "status": "PARAMETER_STUDY_ONLY; no spring selected or tested",
+    "fixed_anchor_mm": [
+      -35,
+      40,
+      -40
+    ],
+    "rotating_anchor_local_mm": [
+      35,
+      0,
+      -40
+    ],
+    "effective_spring_k_N_m": 280,
+    "equivalent_zero_force_length_mm": 43.0,
+    "worst_residual_shoulder_Nm": 0.07290159342005764,
+    "length_range_mm": [
+      44.49173346692377,
+      80.6225774829855
+    ],
+    "force_range_N": [
+      0.4176853707386563,
+      10.53432169523594
+    ],
+    "initial_tension_note": "Equivalent F=k(L-L0); choose actual free length Lfree and Fi=k(Lfree-L0). Hook compliance/initial tension/stroke/fatigue must be checked.",
+    "failure": "Breakage removes compensation; arm falls until a qualified stop/support. Spring overstress and excess upward torque possible."
+  }
+}

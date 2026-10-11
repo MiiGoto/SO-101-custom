@@ -1,0 +1,11 @@
+{
+  "cad_files": "COMPLETED_EXISTING_FILES",
+  "independent_dof": "VERIFIED_2_AND_6",
+  "jis_style": "VERIFIED",
+  "jis_full_compliance": "NOT_VERIFIED",
+  "manufacturing_drawings": "HOLD_INCOMPLETE_DIMENSION_COVERAGE",
+  "interference": "FAIL",
+  "encoder_mounts": "TBD",
+  "power_on": "NOT_PERFORMED",
+  "print": "NOT_PERFORMED"
+}

@@ -1,0 +1,8 @@
+# Preserve generated CAD/export bytes; inspect through CAD and checksums.
+*.ipt binary
+*.iam binary
+*.idw binary
+*.step binary
+*.stl binary
+*.pdf binary
+*.png binary

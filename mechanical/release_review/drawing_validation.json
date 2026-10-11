@@ -1,0 +1,198 @@
+[
+  {
+    "height_mm": 210.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 4,
+    "border": true,
+    "title_block": true,
+    "file": "Bearing_Fit_Coupon_JIS.idw",
+    "width_mm": 297.0,
+    "folder": "adapters",
+    "associated_dimensions": 8,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": [
+      "Default (JIS)"
+    ]
+  },
+  {
+    "height_mm": 210.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 4,
+    "border": true,
+    "title_block": true,
+    "file": "Encoder_Alignment_Test_JIS.idw",
+    "width_mm": 297.0,
+    "folder": "adapters",
+    "associated_dimensions": 6,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": [
+      "Default (JIS)"
+    ]
+  },
+  {
+    "height_mm": 210.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 4,
+    "border": true,
+    "title_block": true,
+    "file": "Horn_Adapter_Test_JIS.idw",
+    "width_mm": 297.0,
+    "folder": "adapters",
+    "associated_dimensions": 4,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": [
+      "Default (JIS)"
+    ]
+  },
+  {
+    "height_mm": 210.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 4,
+    "border": true,
+    "title_block": true,
+    "file": "Servo_Mount_Coupon_JIS.idw",
+    "width_mm": 297.0,
+    "folder": "adapters",
+    "associated_dimensions": 7,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": [
+      "Default (JIS)"
+    ]
+  },
+  {
+    "height_mm": 210.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 4,
+    "border": true,
+    "title_block": true,
+    "file": "Under_arm_SO101_JIS.idw",
+    "width_mm": 297.0,
+    "folder": "adapters",
+    "associated_dimensions": 7,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": [
+      "Default (JIS)"
+    ]
+  },
+  {
+    "height_mm": 210.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 4,
+    "border": true,
+    "title_block": true,
+    "file": "Upper_arm_SO101_JIS.idw",
+    "width_mm": 297.0,
+    "folder": "adapters",
+    "associated_dimensions": 7,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": [
+      "Default (JIS)"
+    ]
+  },
+  {
+    "height_mm": 210.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 4,
+    "border": true,
+    "title_block": true,
+    "file": "Vstone_Cradle_HOLD_JIS.idw",
+    "width_mm": 297.0,
+    "folder": "adapters",
+    "associated_dimensions": 6,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": [
+      "Default (JIS)"
+    ]
+  },
+  {
+    "height_mm": 210.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 4,
+    "border": true,
+    "title_block": true,
+    "file": "XL330_Cradle_HOLD_JIS.idw",
+    "width_mm": 297.0,
+    "folder": "adapters",
+    "associated_dimensions": 6,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": [
+      "Default (JIS)"
+    ]
+  },
+  {
+    "height_mm": 297.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 4,
+    "border": true,
+    "title_block": true,
+    "file": "SO101_TwoJoint_RevB_JIS.idw",
+    "width_mm": 420.0,
+    "folder": "two_joint_revb",
+    "associated_dimensions": 0,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": []
+  },
+  {
+    "height_mm": 297.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 4,
+    "border": true,
+    "title_block": true,
+    "file": "SO101_Custom_Follower_RevA_JIS.idw",
+    "width_mm": 420.0,
+    "folder": "follower_six_axis",
+    "associated_dimensions": 0,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": []
+  },
+  {
+    "height_mm": 297.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 0,
+    "border": true,
+    "title_block": true,
+    "file": "SO101_JIS_A3.idw",
+    "width_mm": 420.0,
+    "folder": "templates",
+    "associated_dimensions": 0,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": []
+  },
+  {
+    "height_mm": 210.0,
+    "missing_refs": [],
+    "first_angle": false,
+    "views": 0,
+    "border": true,
+    "title_block": true,
+    "file": "SO101_JIS_A4.idw",
+    "width_mm": 297.0,
+    "folder": "templates",
+    "associated_dimensions": 0,
+    "units": "11269",
+    "standard": "Default Standard (JIS)",
+    "dimension_styles": []
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "file": "adapters/stl/Bearing_Fit_Coupon.stl",
+    "units": "mm",
+    "triangles": 748,
+    "bbox_mm": [
+      65.0,
+      25.0,
+      8.0
+    ],
+    "volume_mm3": 8061.556873289,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "COUPON_DIMENSION_CHECK_ONLY"
+  },
+  {
+    "file": "adapters/stl/Encoder_Alignment_Test.stl",
+    "units": "mm",
+    "triangles": 72,
+    "bbox_mm": [
+      32.0,
+      32.0,
+      4.0
+    ],
+    "volume_mm3": 2310.4000549316406,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "COUPON_DIMENSION_CHECK_ONLY"
+  },
+  {
+    "file": "adapters/stl/Horn_Adapter_Test.stl",
+    "units": "mm",
+    "triangles": 1168,
+    "bbox_mm": [
+      29.9932861328125,
+      29.99664306640625,
+      4.0
+    ],
+    "volume_mm3": 2619.496053698742,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "COUPON_DIMENSION_CHECK_ONLY"
+  },
+  {
+    "file": "adapters/stl/Servo_Mount_Coupon.stl",
+    "units": "mm",
+    "triangles": 72,
+    "bbox_mm": [
+      52.0,
+      52.0,
+      4.0
+    ],
+    "volume_mm3": 4234.96023010253,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "COUPON_DIMENSION_CHECK_ONLY"
+  },
+  {
+    "file": "adapters/stl/Vstone_Cradle_HOLD.stl",
+    "units": "mm",
+    "triangles": 100,
+    "bbox_mm": [
+      52.599998474121094,
+      47.09999942779541,
+      26.0
+    ],
+    "volume_mm3": 17627.439598236087,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "adapters/stl/XL330_Cradle_HOLD.stl",
+    "units": "mm",
+    "triangles": 100,
+    "bbox_mm": [
+      34.599998474121094,
+      42.59999942779541,
+      26.0
+    ],
+    "volume_mm3": 12821.43962875366,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/Base_motor_holder_SO101.stl",
+    "units": "mm",
+    "triangles": 6816,
+    "bbox_mm": [
+      47.641090393066406,
+      31.400001525878906,
+      80.20000076293945
+    ],
+    "volume_mm3": 23709.036375715707,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/Base_SO101.stl",
+    "units": "mm",
+    "triangles": 9558,
+    "bbox_mm": [
+      110.92500305175781,
+      71.9999999999997,
+      87.0
+    ],
+    "volume_mm3": 122689.76292945816,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/Motor_holder_SO101_Base.stl",
+    "units": "mm",
+    "triangles": 5854,
+    "bbox_mm": [
+      28.0,
+      38.0970573425293,
+      55.0804443359375
+    ],
+    "volume_mm3": 13307.191403017066,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/Motor_holder_SO101_Wrist.stl",
+    "units": "mm",
+    "triangles": 8010,
+    "bbox_mm": [
+      28.0,
+      36.900001525878906,
+      56.39096641540527
+    ],
+    "volume_mm3": 13871.623342825946,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/Moving_Jaw_SO101.stl",
+    "units": "mm",
+    "triangles": 11260,
+    "bbox_mm": [
+      22.299165725708008,
+      91.98895931243896,
+      48.0
+    ],
+    "volume_mm3": 20692.939095361984,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/Rotation_Pitch_SO101.stl",
+    "units": "mm",
+    "triangles": 6696,
+    "bbox_mm": [
+      59.79999923706055,
+      84.20000152289867,
+      46.0
+    ],
+    "volume_mm3": 68787.17866803515,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/Seeedstudio_Mounting_Plate_SO101.stl",
+    "units": "mm",
+    "triangles": 1952,
+    "bbox_mm": [
+      51.0,
+      42.0,
+      7.599999904632568
+    ],
+    "volume_mm3": 9324.712727040082,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/Under_arm_SO101.stl",
+    "units": "mm",
+    "triangles": 10508,
+    "bbox_mm": [
+      130.69981384277344,
+      24.0,
+      64.4000015258789
+    ],
+    "volume_mm3": 92895.03045840851,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/Upper_arm_SO101.stl",
+    "units": "mm",
+    "triangles": 8038,
+    "bbox_mm": [
+      142.14630126953125,
+      24.500000000000167,
+      67.29999923706055
+    ],
+    "volume_mm3": 117328.19197700791,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/WaveShare_Mounting_Plate_SO101.stl",
+    "units": "mm",
+    "triangles": 752,
+    "bbox_mm": [
+      51.0,
+      42.0,
+      7.599999904632568
+    ],
+    "volume_mm3": 9093.452159240562,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/Wrist_Roll_Follower_SO101.stl",
+    "units": "mm",
+    "triangles": 12056,
+    "bbox_mm": [
+      65.20000076293945,
+      52.0,
+      105.42529354617
+    ],
+    "volume_mm3": 56618.43700777987,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  },
+  {
+    "file": "upstream_reference/stl/Wrist_Roll_Pitch_SO101.stl",
+    "units": "mm",
+    "triangles": 17036,
+    "bbox_mm": [
+      62.30000686645508,
+      35.65959453582764,
+      77.82771301269531
+    ],
+    "volume_mm3": 32299.35578176101,
+    "closed_edge_manifold": true,
+    "nonmanifold_edges": 0,
+    "manufacturing": "HOLD"
+  }
+]

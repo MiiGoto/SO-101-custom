@@ -1,0 +1,986 @@
+[
+  {
+    "file": "two_joint_revb/assembly_guide.md",
+    "bytes": 672,
+    "sha256": "8b4c6376cf028c02f864de6c42cb5f529e9e5c3c7ee040f0b78f67302ac5ab29",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "two_joint_revb/interference_report.md",
+    "bytes": 874,
+    "sha256": "9454c8b25d5f872195cb15d2ef690b4d3fd2ee7400cb333113a09cf131813c92",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "two_joint_revb/mechanical_bom.csv",
+    "bytes": 1097,
+    "sha256": "dc47e2478e8308366a22a214306422b3dddf33f8bddd16f22553c36da8037db2",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "two_joint_revb/analysis/assembly.json",
+    "bytes": 12162,
+    "sha256": "e88bba4a175be737ac4e2e417495fcdcba6c73ff50a26e6b343c92660f68ade4",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "two_joint_revb/analysis/mass_properties.json",
+    "bytes": 5492,
+    "sha256": "861a2a0c23306535a8d7472d047e4900653c1a5bfc777495b087f2dadcf825c5",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "two_joint_revb/analysis/motion_interference.json",
+    "bytes": 27177,
+    "sha256": "51611de9e1ecc6bfd2aba5a1cd7506f09a69e3d66b24493b467a910f353e9497",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "two_joint_revb/analysis/torque_analysis.json",
+    "bytes": 5210,
+    "sha256": "ba007df7f6eb01fbd408c4a5813d62e2498df9d9603fe82c650cd1da721c5340",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "two_joint_revb/iam/SO101_TwoJoint_RevB.iam",
+    "bytes": 677376,
+    "sha256": "9b390aa5496fcde6d6f20856015296217aed79474c3da048906cd8a1a070eb46",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "two_joint_revb/idw/SO101_TwoJoint_RevB_JIS.idw",
+    "bytes": 1231360,
+    "sha256": "64b04c40d2cbd47e4b99579fe37c90ab206b9221b72e20942e33742e0a806900",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "two_joint_revb/pdf/SO101_TwoJoint_RevB_JIS.pdf",
+    "bytes": 193771,
+    "sha256": "5e47bd23e4c7bbbea90da18204ec9c83a315176758f6170a419068bce26e36fd",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "two_joint_revb/step/SO101_TwoJoint_RevB.step",
+    "bytes": 3977963,
+    "sha256": "57bb7057fe2e4b16ef94b207ed3463638567bec028b05a4f818add856d5cfc1c",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "two_joint_revb/views/inventor_assembly.png",
+    "bytes": 603690,
+    "sha256": "ca08be11ec5ce2f6e953885d8389181ed958571c89ee51b56701ff6866e10402",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/assembly_guide.md",
+    "bytes": 672,
+    "sha256": "8b4c6376cf028c02f864de6c42cb5f529e9e5c3c7ee040f0b78f67302ac5ab29",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/interference_report.md",
+    "bytes": 1436,
+    "sha256": "897fca50fb70baa1b0cfe36c2251addb538fa3b35a3c8497798cd13f48ab130d",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/mechanical_bom.csv",
+    "bytes": 2081,
+    "sha256": "98ef54fdffbe2e162ccbf53e54b4fd0707bcb675feb03088b2aceecdeb4e7c2d",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/analysis/assembly.json",
+    "bytes": 23557,
+    "sha256": "03246224bef2d41414b78ccca91e38a6b8f0eb2dd2a555d3f7507598e5a62b1c",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/analysis/mass_properties.json",
+    "bytes": 11984,
+    "sha256": "b8417f54e2334913f882b78235120d4c68c3eadc842621bb3b07d89c6ff1544d",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/analysis/motion_interference.json",
+    "bytes": 148303,
+    "sha256": "10da4cfb68151f1bd0ff347a0270257436d90751104d27ef656ce35b86dd2ea7",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/analysis/part_mass_properties.json",
+    "bytes": 7087,
+    "sha256": "e9b4295aa914bfcabf69b63907eef6a29a3d9ce358604088381081937106cf11",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/analysis/torque_analysis.json",
+    "bytes": 7243,
+    "sha256": "9073651181432dff69d68f67c705d7a0273c25c116f2dab5b80004ef2fc72b30",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/iam/SO101_Custom_Follower_RevA.iam",
+    "bytes": 1060864,
+    "sha256": "bf5f754d0843a1312444a3328f68f907a01813e637a6e083bfbe162e4a7da752",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/idw/SO101_Custom_Follower_RevA_JIS.idw",
+    "bytes": 1874432,
+    "sha256": "046ab08e48cd520b4322f50454fdf0f92cd0b87a6bc8033310d5920dbd1e1859",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/Base_motor_holder_SO101.ipt",
+    "bytes": 295936,
+    "sha256": "4d07d75ee18c21db6027c12c677b1b280c9df9bf368477ad338085ee53bfe7d5",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/Base_SO101.ipt",
+    "bytes": 637440,
+    "sha256": "fb4e9f3ac8bdf388f315c63bb5e90141860fa9431a4f52a6502bf69071ed652b",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/Motor_holder_SO101_Base.ipt",
+    "bytes": 410624,
+    "sha256": "a2cd23fe3af8e9c00b511e3dd08a8161e7eaefee099e166dc1d5c7c5da5db7ce",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/Motor_holder_SO101_Wrist.ipt",
+    "bytes": 409088,
+    "sha256": "6b8a0878d653f37075669a202affad1b83eb211ee19b409968303f5f4949ffb4",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/Moving_Jaw_SO101.ipt",
+    "bytes": 520704,
+    "sha256": "e35982bd12e4127db69c68746eaf204d4ba5d3192628c15033c504964339afd7",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/REF_base_link.ipt",
+    "bytes": 73216,
+    "sha256": "4d5d24e78d62ad9ff38d4790222e3837a822c27e9aba50f1b278dbdcaad899b6",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/REF_gripper_link.ipt",
+    "bytes": 73216,
+    "sha256": "06a0c5ec11ce78659a73aca812c8832ba602ac51818acab62096d1edebd3bf9d",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/REF_lower_arm_link.ipt",
+    "bytes": 73216,
+    "sha256": "0a171dd528c62c65605bfd232bf84546f5d097bdf331c78530747813c0824a65",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/REF_moving_jaw_so101_v1_link.ipt",
+    "bytes": 71168,
+    "sha256": "fc4872edfce8080ec71748c6432f4b6b2ca06f4a0c5d705057bec49826325338",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/REF_shoulder_link.ipt",
+    "bytes": 73216,
+    "sha256": "d7047dff604b9458008ac1d8287fef8413d94d808a6e88f3b43459d9c4daa841",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/REF_upper_arm_link.ipt",
+    "bytes": 73216,
+    "sha256": "fd4449d3a995e5c3d976b13755a54aee97eedc3090ee85d30126665ed4fea7d5",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/REF_wrist_link.ipt",
+    "bytes": 73216,
+    "sha256": "43987fd1531e110b2fe565712d8609448a3af128f12461bee6d26f3c789f1306",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/Rotation_Pitch_SO101.ipt",
+    "bytes": 391168,
+    "sha256": "1ed895f58e7f76c024aac2aa1c0c9ae1f5e87a43dd2303ce8d8fedc7faa110ec",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/Under_arm_SO101.ipt",
+    "bytes": 676864,
+    "sha256": "549cbbfdbc9bcefc910ca6d1edbfe6f90b7239abe3b14f89e1cf76a2179b3060",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/Upper_arm_SO101.ipt",
+    "bytes": 549888,
+    "sha256": "67aa56b6086236d984f86f3ff257ecdc8e2ccd9cde758298c03ac9156384c0d7",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/WaveShare_Mounting_Plate_SO101.ipt",
+    "bytes": 156672,
+    "sha256": "07e9766f2d922a53b39e6c34fafce572466db88c9ee951d8523b728dd4bd779b",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/Wrist_Roll_Follower_SO101.ipt",
+    "bytes": 891392,
+    "sha256": "3ee37a0c455ab937bd3857bed7f92b29f2e50b4bd8df1945a0a5a47256cecd4a",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/ipt/Wrist_Roll_Pitch_SO101.ipt",
+    "bytes": 1273856,
+    "sha256": "ace79d728859ee6dd3e687f793488869dfe9b9f54856de3e6c6ef198e09594d8",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/pdf/SO101_Custom_Follower_RevA_JIS.pdf",
+    "bytes": 283393,
+    "sha256": "677fe82a3d150e531e208a369a70623c925847ebdb301ce45d6300676bab966a",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/step/SO101_Custom_Follower_RevA.step",
+    "bytes": 6860496,
+    "sha256": "049345dfe6b2c592f907dae62d3a552bc8470ec66cce55889e071fe23ec44c47",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "follower_six_axis/views/inventor_assembly.png",
+    "bytes": 607005,
+    "sha256": "beb75d80cc275c9e284d0d4b9ef8fff121a5fb166535d554d83816a24f85c37b",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/print_plan.md",
+    "bytes": 1388,
+    "sha256": "2026270cf43481a34a0c421199be88592c2d9f47be07675bf8717a23977709e3",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/idw/Bearing_Fit_Coupon_JIS.idw",
+    "bytes": 347136,
+    "sha256": "01e8f5ec51f2273525a01a7fc5c262994e7afe78fe111ab8f39bda05351d8ab9",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/idw/Encoder_Alignment_Test_JIS.idw",
+    "bytes": 342016,
+    "sha256": "88267e001f8ad2cbd77d7bdc1fd3dcdad215ed0d75f838469d983ba6bcd15bc8",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/idw/Horn_Adapter_Test_JIS.idw",
+    "bytes": 343552,
+    "sha256": "81146403f80095f5244bcb95284a85d15128475dfb9af699ba6c08a264950d23",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/idw/Servo_Mount_Coupon_JIS.idw",
+    "bytes": 344064,
+    "sha256": "fab3a89ad72ac6d7c8d9eb9b3565f4e88da3b23529dd93a14b5383894d42d43e",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/idw/Under_arm_SO101_JIS.idw",
+    "bytes": 408576,
+    "sha256": "d22478897dcffd1209e49d6516d1f9d65972f0ad41038e79808d5136cde7b4e7",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/idw/Upper_arm_SO101_JIS.idw",
+    "bytes": 411136,
+    "sha256": "b45d7575052bfa9163b5b83d2858230eccf5fccc1fe5ab0faf0113e4da6244d1",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/idw/Vstone_Cradle_HOLD_JIS.idw",
+    "bytes": 345600,
+    "sha256": "65eee260fc773fd25ef818d48744281c8841ce6fdc124f2524b5a79bb236444f",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/idw/XL330_Cradle_HOLD_JIS.idw",
+    "bytes": 344576,
+    "sha256": "c67bf24a1434de286a73d9ba49187e407b544d82556feda21593a0266c4fe2b1",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/ipt/Bearing_Fit_Coupon.ipt",
+    "bytes": 107520,
+    "sha256": "6ff378cb42a53d3640b09aa176986086767601b456a2cb7aee457f21a60fb417",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/ipt/Encoder_Alignment_Test.ipt",
+    "bytes": 92160,
+    "sha256": "a52790f645d241527993399abe2f9066e523fed51d1ed15f3e608d3c0fd0a2b9",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/ipt/Horn_Adapter_Test.ipt",
+    "bytes": 110080,
+    "sha256": "0c5bdc9bbd8d5d5e6698ce67aff48c69afb7412392d697c48f68d7509e3417af",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/ipt/Servo_Mount_Coupon.ipt",
+    "bytes": 91136,
+    "sha256": "d99dd523407a64016b6a3a6f4ef77e5e409c93a4105e36a95b6bdafc6193387a",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/ipt/Vstone_Cradle_HOLD.ipt",
+    "bytes": 108032,
+    "sha256": "90a8efb1211f87a3b1fc4c34dbb524ff4834b274bb7f70ce464bdd770dba5f1e",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/ipt/Vstone_Envelope.ipt",
+    "bytes": 71680,
+    "sha256": "ffc2dbc4c94da574bfbfc51d9f93fd2b36fc238d089e684a34a7bdfb462677e1",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/ipt/XL330_Cradle_HOLD.ipt",
+    "bytes": 108032,
+    "sha256": "5cf28334eb163c6e59b300327ca547d945ad1fa054280141b7626270ed80122b",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/ipt/XL330_Envelope.ipt",
+    "bytes": 72192,
+    "sha256": "df2699da647a069905cb834bb3a9e3421fefeac62b9e8659f1e01ffd32a97c53",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/pdf/Bearing_Fit_Coupon_JIS.pdf",
+    "bytes": 69799,
+    "sha256": "c9102b2d28bda6825cdf7f5dbfa1c2e99f43502ef7ac8bd080124c817911042d",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/pdf/Encoder_Alignment_Test_JIS.pdf",
+    "bytes": 63753,
+    "sha256": "cb58a2685e58eaa996c0469dc02c75af4585237b907b95da0069f7df31b8f13e",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/pdf/Horn_Adapter_Test_JIS.pdf",
+    "bytes": 68403,
+    "sha256": "4d450dceb3dd7fc32eafa6d02ad927f3ccbf14531a8dcc4901fb50e25dd28584",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/pdf/Servo_Mount_Coupon_JIS.pdf",
+    "bytes": 64327,
+    "sha256": "8a001fc536b5f55f17d5d6f42a64f8d237d7933a9b9937624aaf5f6fd46c09fa",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/pdf/Under_arm_SO101_JIS.pdf",
+    "bytes": 79397,
+    "sha256": "5f80d917775495111a8175433065e50cc84608919b24e3c5223fa808fc3d8eec",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/pdf/Upper_arm_SO101_JIS.pdf",
+    "bytes": 81837,
+    "sha256": "e72daca7dbba2a6c9e95229902ef602866554a608dec80bfa54679561c72eb40",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/pdf/Vstone_Cradle_HOLD_JIS.pdf",
+    "bytes": 64806,
+    "sha256": "685b0ffa3c59dd3be6b1eef97d6a2fc4b01599dc5030fe57b06f7dd2e116e8ec",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/pdf/XL330_Cradle_HOLD_JIS.pdf",
+    "bytes": 63835,
+    "sha256": "20120a08f660096fd5fb7c4540c9605c6641b8efd28f09e2bf7a4b5ea998f047",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/step/Vstone_Cradle_HOLD.step",
+    "bytes": 33666,
+    "sha256": "797383001b4c27dc1fe428f5816de334673088294886c81cf4a026951f538d34",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/step/XL330_Cradle_HOLD.step",
+    "bytes": 33641,
+    "sha256": "a31ecdfbb142d4b6eff34a940b21ed310029fde94bc5bdf7b0c5a8e5ff72f009",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/stl/Bearing_Fit_Coupon.stl",
+    "bytes": 37484,
+    "sha256": "967dd5456d3d39f02e53b124df2fcd53a6ab100d3fa9f83caa7e0cb72b998256",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/stl/Encoder_Alignment_Test.stl",
+    "bytes": 3684,
+    "sha256": "8cdcd34d0dfabd8c69f06dea060c9f8c035c9a2d3253f6992c33be5bd5062173",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/stl/Horn_Adapter_Test.stl",
+    "bytes": 58484,
+    "sha256": "54d68337fe6f7342b8c4dd1bb0410631289a7fec1823c326a76b770fd01b9175",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/stl/Servo_Mount_Coupon.stl",
+    "bytes": 3684,
+    "sha256": "2f1b9400ef19d13795e81c600651bd14a007bc8567b8f038d0225ba13c6dea35",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/stl/Vstone_Cradle_HOLD.stl",
+    "bytes": 5084,
+    "sha256": "13a5d662df3e4b8162a49b5023229ff6256ddb19e9f638c62ed9bd4ba4a09831",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "adapters/stl/XL330_Cradle_HOLD.stl",
+    "bytes": 5084,
+    "sha256": "557e28d7b4aaf66c6201c44af8346e45ec92344a2b3f821e66587a14d91226ca",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "templates/SO101_JIS_A3.idw",
+    "bytes": 304640,
+    "sha256": "abc7952ab4ad3a3aa6ef0b32e563e789ad0dbdffa404916e50076bf860469e71",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "templates/SO101_JIS_A4.idw",
+    "bytes": 305664,
+    "sha256": "0cee8103a7931798600b46c7a75f8fd28ad27a4e8db7fd409b508799c092c003",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/assembly_inventory.json",
+    "bytes": 102349,
+    "sha256": "4f9fe0b77140ef10315d6e677de8ec69370a95ced78d1ca880962064017f9284",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/axis_geometry.json",
+    "bytes": 69323,
+    "sha256": "ce2e6649de0da9c2efe8b5ebe8217dc1cbe24c6f07e2870840f3cbb41578c412",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/kinematic_reference.json",
+    "bytes": 26414,
+    "sha256": "15e5833351f00da2fa3f102545083e739e06f3c750e38d3ecd594ab5eafdcc68",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/NOTICE.md",
+    "bytes": 745,
+    "sha256": "44b867e57e8ffedc744bf5fe1db370bca73a25e5da872f88f6e7fea5a1faa215",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/source_manifest.json",
+    "bytes": 6528,
+    "sha256": "c7fcd3ef47c405a6b2ca24a51b14c5d947c89dbe13b823cd0b63b7f2958d8d57",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/native/Motor_holder_SO101_Base_source.iam",
+    "bytes": 148480,
+    "sha256": "c9217370e8a88b667c1803a99c73acd9922ff3c9996273549d0c10b58436c9d5",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/native/Motor_holder_SO101_Wrist_source.iam",
+    "bytes": 149504,
+    "sha256": "7080ced79bf26c852974df292fb1fb8a3f622b5d1670e921f5fbd4e4a48f05b8",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/native/Under_arm_SO101_source.iam",
+    "bytes": 187904,
+    "sha256": "98de8b59c6f4a70962fd145beafc31c0499ef8222dea6a567a5f572d06f59eae",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/native/Upper_arm_SO101_source.iam",
+    "bytes": 169472,
+    "sha256": "1c8c744f03765e23605c5dab672e0e8461e4e5d7034bf5d90db9192f8df32fe9",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/native/Wrist_Roll_Follower_SO101_source.iam",
+    "bytes": 191488,
+    "sha256": "0ce8a42eefddb3a022941dd930ec867dbff9ad61c224b3af9d8dae9e7fcd228e",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/native/Wrist_Roll_Pitch_SO101_source.iam",
+    "bytes": 258560,
+    "sha256": "4e7ccc9552c92cec5742a01a5a4cf655ff961116e18df41174d390d9081416a7",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/add_revb_base.ps1",
+    "bytes": 2278,
+    "sha256": "4ee6b88efcfd7d562497283d97dac3c8b20771fca826e619ada44bf7e21b1c26",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/analyze_custom.py",
+    "bytes": 7066,
+    "sha256": "5479c363189780f109173719d13fb1fb290f4e1661afadc98bc2400cacbaff84",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/audit_custom.ps1",
+    "bytes": 3535,
+    "sha256": "e7f92d4d1facc414f897b6ee9cd7d1551e89482641195a802b7809ceb6c902ae",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/build_custom.ps1",
+    "bytes": 11343,
+    "sha256": "e4a58a5cacb5e7cb736406966ef1eaf6e3f934afe7d769621b1ad995e38059b2",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/final_native_audit.ps1",
+    "bytes": 4299,
+    "sha256": "49406aecb270f5c3cac87f514d9e267687d1709955634cffbeaad8bf80e2025f",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/final_report.py",
+    "bytes": 11066,
+    "sha256": "f4128a646eb85701f10646e5ea2fdf9775e995086d46a71cf84fe9aea0f17ae5",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/fix_assembly_drawings.ps1",
+    "bytes": 2254,
+    "sha256": "6d1051df8b205f3a35bca2fb4b50b7da4be17806c5f821d43799cebe501aa135",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/fix_part_labels.ps1",
+    "bytes": 1324,
+    "sha256": "881a820bc2ebfd5c84ff50994b3c7fa5f4ad462d353568e445cb2bd902cde442",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/inspect.ps1",
+    "bytes": 1546,
+    "sha256": "1332a8f27d3580e4d5c254cf5937e7c35f24ed12dd03a5ed0b75530dbfc1e29f",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/jis_drawings.ps1",
+    "bytes": 8927,
+    "sha256": "b5058b18026faf051d2afec69e8985f46a563a7f6ff09510dee57ca5d4a5945c",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/measure_axes.ps1",
+    "bytes": 1302,
+    "sha256": "23d8245eef254ad1bc9b6b984ba31fd1eaf912e10dc8bf755a324af8d0e141f2",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/pdf_review.py",
+    "bytes": 1533,
+    "sha256": "2f6be85a755cab2339aa1768ee200167f7aae6e4faf3f90ca0876777824249bf",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/prepare.py",
+    "bytes": 3679,
+    "sha256": "16824ed3c46569a8f940d2e59030288e8cdc45e5478aac31dd6b1242a7c826b3",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/refine_drawings.ps1",
+    "bytes": 4473,
+    "sha256": "db14fd81f74a9d7b1305f3177fd8fdb0075d58d9227b8a026281f3878326569b",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/reports.py",
+    "bytes": 15717,
+    "sha256": "5ed7bab76cacc2f36b9feaf74b3c17f2cdddd766fc448232853664a71efe5d9b",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/scripts/validate_release.py",
+    "bytes": 2771,
+    "sha256": "fbaa4b7d6f6ce62682af4fcdb499d5af28374d036c80a2fa14ad14ef7daeeec6",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Base_motor_holder_SO101.step",
+    "bytes": 300211,
+    "sha256": "f13462eea875727ae7cec7d190c59642444b9076c76cf2423bbe3c5b6c469587",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Base_SO101.step",
+    "bytes": 1092553,
+    "sha256": "95209ec6a3ca06b1ec084f72d9c73324bdcf9d0e17213ef293f45f95a3993288",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Motor_holder_SO101_Base.step",
+    "bytes": 352248,
+    "sha256": "fb2ef4603324ddea53ab655f6ecd48c7f5a72dd7603e57e92c60c0a8e67a9083",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Motor_holder_SO101_Wrist.step",
+    "bytes": 346197,
+    "sha256": "e58d86502535a5a4936677e9d934f1bda9417e83f7480f475061728c146739c4",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Moving_Jaw_SO101.step",
+    "bytes": 620823,
+    "sha256": "dff53ace072470c9a6c84dbb68dd84f9fd0959429f181905d9d05fe3007549b5",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Rotation_Pitch_SO101.step",
+    "bytes": 370844,
+    "sha256": "a392681efb05bf4009c17115a9b3e37bbee9d2fcfe25e2066b11b95aaa380915",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Seeedstudio_Mounting_Plate_SO101.step",
+    "bytes": 45162,
+    "sha256": "7410dc0e5f53c89c14f0679f10c566e66ba06f6d9993f9ea65055874d0914a26",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/SO101 Assembly.step",
+    "bytes": 20496014,
+    "sha256": "f754be35708382b05ce65768ae33c612f91dca11ad19d14807dc637eb944ba3d",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Under_arm_SO101.step",
+    "bytes": 626245,
+    "sha256": "677a1a57efeddc439d97ebdc309b1c2853cfcb83f14c7d695c312fcf13a89713",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Upper_arm_SO101.step",
+    "bytes": 551437,
+    "sha256": "efa19a6dd2ccb459248500c76629cfa840630e7e15d9e146394d31da1525dd61",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/WaveShare_Mounting_Plate_SO101.step",
+    "bytes": 49079,
+    "sha256": "16510f5aedf04186d34aa279207d0d354d4b08c1d179a46a9974b1430d0702f8",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Wrist_Roll_Follower_SO101.step",
+    "bytes": 870092,
+    "sha256": "b7f9d59f7991f425fff784eab07f0bf65471903dd6d6177e7cb109bebcd02b35",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Wrist_Roll_Pitch_SO101.step",
+    "bytes": 1203030,
+    "sha256": "39c5e78647d471ab4e4328ec6d00f06ad90dc48a0b1ffe4baf1a951c1304f74b",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/Base_motor_holder_SO101.stl",
+    "bytes": 340884,
+    "sha256": "e10eb1296560bc00dca91af5f35d9be637be026a5b544c0ebfcac51501aa3c70",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/Base_SO101.stl",
+    "bytes": 477984,
+    "sha256": "19f3c6baafc23a3bc92805762e906df9514d1008be84d490a90a9096ffdcf3c8",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/Motor_holder_SO101_Base.stl",
+    "bytes": 292784,
+    "sha256": "f9971aa805e2d6fb61726d2787e752a6fe0ff21d3c66023296ee4c57a2b100a4",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/Motor_holder_SO101_Wrist.stl",
+    "bytes": 400584,
+    "sha256": "936c84ed2c918b3ec14e2c3ec3f742f47bed10a4e3d0a2c9bf7869d0a2a55149",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/Moving_Jaw_SO101.stl",
+    "bytes": 563084,
+    "sha256": "403763bbab8656cc7ce5ea6374741d0860bd19426b5b4b0041de3a2c1275f90b",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/Rotation_Pitch_SO101.stl",
+    "bytes": 334884,
+    "sha256": "5ef34a5420071627d01323be13e80b7ac8af0760c72d8382c0664c914f281800",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/Seeedstudio_Mounting_Plate_SO101.stl",
+    "bytes": 97684,
+    "sha256": "96942f7245dd3b384090b228d2e37c18b7dc92f14295f7036a421fcd78e5090b",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/Under_arm_SO101.stl",
+    "bytes": 525484,
+    "sha256": "537b03e68ff7c061da4cc70bf0b5a61018a76c00bccc72d61f022d1644230db5",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/Upper_arm_SO101.stl",
+    "bytes": 401984,
+    "sha256": "96333913c296b13ecb1c81e63e57e4352fb6b5dea7722c84ec1fbd5073e23865",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/WaveShare_Mounting_Plate_SO101.stl",
+    "bytes": 37684,
+    "sha256": "6275f05ef28cd407be13ea882735282c4a8b2ef64930c77a9e7b5a3811740be1",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/Wrist_Roll_Follower_SO101.stl",
+    "bytes": 602884,
+    "sha256": "3f47a4b889b95a4c71046bda9ddfc9399d96d80a57ad7fc079700e240323a302",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/stl/Wrist_Roll_Pitch_SO101.stl",
+    "bytes": 851884,
+    "sha256": "14eb2f45ab1b279025ed2aea358f0091aad6aff967faef58527fd216f28fb6e5",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Motor_holder_SO101_Base/Part310.ipt",
+    "bytes": 309760,
+    "sha256": "c4d2011842bfd8752eb0d31a1c9d88ad866c4901828dbc68e274177e45c3c0cc",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Motor_holder_SO101_Wrist/Part321.ipt",
+    "bytes": 309760,
+    "sha256": "cdfa7fd742ad13588a9bd29d8f4c22a227ce4e98a3d6ff4b5a3e7b43e76b08b2",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Under_arm_SO101/Part318.ipt",
+    "bytes": 477184,
+    "sha256": "bbecffc45a0d72fe8f0ae6a40efcdcb7b6b9070d81a77aa191947af163750766",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Upper_arm_SO101/Part315.ipt",
+    "bytes": 386048,
+    "sha256": "fa3a748b2064aa0fa3fd4eb7030df1f58aa93ee944ca14f362231408e3157b35",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Wrist_Roll_Follower_SO101/Part327.ipt",
+    "bytes": 596992,
+    "sha256": "4cc2b211da89f9e7d7c3aa233dd5fc872c855155b54dc80bda87755f5427c57f",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "upstream_reference/step/Wrist_Roll_Pitch_SO101/Part324.ipt",
+    "bytes": 870912,
+    "sha256": "443ccd8e72ae39a91612ef33e1840dc1fcc409e973b2fad1cfe8db4435c0c020",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/additional_bom.csv",
+    "bytes": 1572,
+    "sha256": "abeed73bd4348a8e2cdaade90a1fa091ea9ad73927d7c8764ebffb4046931ed2",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/assembly_mass_reference_validation.json",
+    "bytes": 11695,
+    "sha256": "c134e4fef5b18ceded2c9d0461a8db7c5e863f4124e3fa70ffd9a13e202d2cbf",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/axis_alignment.json",
+    "bytes": 3988,
+    "sha256": "820957407be4264654b5246133f24e6652549fc26e113b0a6d722ba091fbf0f4",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/dof_api.json",
+    "bytes": 1437,
+    "sha256": "8e2c349c0bff10afe0dc3a2db8884870f2f700017430aaa7d62a00581033b59c",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/drawing_validation.json",
+    "bytes": 4715,
+    "sha256": "8efe13adbcaa66c945e60b211e972bbe15149bca704490b7abf214c74abd3bea",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/fk_motion_validation.json",
+    "bytes": 578,
+    "sha256": "fa023ec81d80d1d5f5b7ff16a0c7c1ecd9f747d5d82ee4e4e51aa00ca2794fe0",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/manufacturing_holds.md",
+    "bytes": 1904,
+    "sha256": "8cd20045e11048cca4b244015abb0995cf6170720d7d2c2af73e34404f899b59",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/mesh_validation.json",
+    "bytes": 6094,
+    "sha256": "94fbfb52bd4f998d6e896b4ac44ae72e1b24ce97ff2c547bf6f3f6c824ace10c",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/native_parts_validation.json",
+    "bytes": 11134,
+    "sha256": "05e11d300d22b4aa377b9c47edb049e160a26dad0c6a51750873d8e96060df1e",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_validation.json",
+    "bytes": 3063,
+    "sha256": "fb79ac54df29da9149f4e54036a25d44918a937c5c0ce582ce32659ffc575620",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/README.md",
+    "bytes": 4911,
+    "sha256": "fdbc81f81a672909d215c1dacc142c97d1b8988a8020d806c2367a2f3d704ae9",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/refined_dimensions.json",
+    "bytes": 1721,
+    "sha256": "b47ab9e082ecf23ed1482f055120563d285265e644bf342c0b57ccebc940a107",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/reva_preservation.json",
+    "bytes": 102,
+    "sha256": "4108a8b05e25da4490a2a93099cb7984d7b55a342b9312d69be66814d6f51cf0",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/review_status.json",
+    "bytes": 342,
+    "sha256": "a6a2f0e371c9bcd2f0a54d09680d59846ec595b8497c611b09f82d067d635236",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/Bearing_Fit_Coupon_JIS.png",
+    "bytes": 95652,
+    "sha256": "78942d8cba91c0f661311398b6b2f87120488420950d200a64c8e383ad3cde0a",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/contact_1.png",
+    "bytes": 181043,
+    "sha256": "c495975c9ab30110ef2d8787f98b17d42513366607e2e700ab173cc82353fd47",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/contact_2.png",
+    "bytes": 216040,
+    "sha256": "f272e08cd35c32b194c37beddf6f0ed8c79c51bff344410f4291f6d45275dd17",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/contact_3.png",
+    "bytes": 119354,
+    "sha256": "75db5e85eced84e8a6ea2392261807235f18577be31243e674bc21cdc0cf1025",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/Encoder_Alignment_Test_JIS.png",
+    "bytes": 82244,
+    "sha256": "7396acbd61d710f90c2fc2372b874743280ad6391331aafdcb97da6ad2b9a508",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/Horn_Adapter_Test_JIS.png",
+    "bytes": 89852,
+    "sha256": "7cc939181437ebe62911ff67583e16ceafb8303d3dd0811c99194b7924573f7b",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/Servo_Mount_Coupon_JIS.png",
+    "bytes": 85576,
+    "sha256": "964162a1364fd9a94b1b957baca75cab4f5269fb6c553497e0398248000a38ef",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/SO101_Custom_Follower_RevA_JIS.png",
+    "bytes": 83446,
+    "sha256": "7cf9a8a07f3be0fb36eec49feecf82b9db9c894442d4016d0c0a26ff3d95872c",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/SO101_TwoJoint_RevB_JIS.png",
+    "bytes": 72377,
+    "sha256": "3034f5e46e3544e0c80be9ff7b627c126992c81c3ae8b6c7c132484cc2449528",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/Under_arm_SO101_JIS.png",
+    "bytes": 105833,
+    "sha256": "f4bb49540e4227bbd32278ec201f8e7e124d90c6df5c5cd959ede7b036430eef",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/Upper_arm_SO101_JIS.png",
+    "bytes": 108999,
+    "sha256": "fcd53911c09a146ad5fc6cee2f6760113b286f79cb9cd07ae57721a81996cfa3",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/Vstone_Cradle_HOLD_JIS.png",
+    "bytes": 84655,
+    "sha256": "78c64fd798e91717d9abbd4f1fbc70c0b91f81238d0c5aa361946440bc3533de",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  },
+  {
+    "file": "release_review/pdf_qa/XL330_Cradle_HOLD_JIS.png",
+    "bytes": 83413,
+    "sha256": "e908c73e5c144178a8bae2812417341404ec7cef246eddf98ed1f0db347d9fce",
+    "status": "COMPLETED_FILE; validity per review_status and manufacturing_holds"
+  }
+]

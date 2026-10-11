@@ -1,0 +1,226 @@
+[
+  {
+    "file": "Base.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Base.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Bearing_625_Envelope.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Bearing_625_Envelope.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Bearing_Fit_Coupon.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Bearing_Fit_Coupon.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Bearing_Retainer.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Bearing_Retainer.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Bearing_Support.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Bearing_Support.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Elbow_Horn_Adapter.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Elbow_Horn_Adapter.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Elbow_Mount.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Elbow_Mount.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Elbow_Output_Flange.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Elbow_Output_Flange.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Elbow_Shaft_Envelope.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Elbow_Shaft_Envelope.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Elbow_Support_Carrier.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Elbow_Support_Carrier.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Encoder_Alignment_Test.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Encoder_Alignment_Test.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Encoder_Board_Envelope.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Encoder_Board_Envelope.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Encoder_Mount.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Encoder_Mount.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Encoder_Standoff.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Encoder_Standoff.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Forearm.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Forearm.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Horn_Adapter_Test.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Horn_Adapter_Test.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Joint_Stop.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Joint_Stop.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Magnet_6x2_Envelope.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Magnet_6x2_Envelope.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Magnet_Carrier.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Magnet_Carrier.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Payload_Mount.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Payload_Mount.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Servo_Envelope.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Servo_Envelope.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Servo_Horn_Adapter.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Servo_Horn_Adapter.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Servo_Mount_Coupon.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Servo_Mount_Coupon.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Shoulder_Mount.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Shoulder_Mount.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Shoulder_Output_Flange.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Shoulder_Output_Flange.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Shoulder_Shaft_Envelope.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Shoulder_Shaft_Envelope.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Shoulder_Support_Carrier.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Shoulder_Support_Carrier.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "SO101_TwoJoint_Prototype.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\SO101_TwoJoint_Prototype.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Spacer.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Spacer.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Spring_Base_Anchor.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Spring_Base_Anchor.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Spring_Link_Anchor.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Spring_Link_Anchor.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  },
+  {
+    "file": "Upper_Arm.pdf",
+    "pages": 1,
+    "label_verified": true,
+    "rendered": "views\\pdf_qa\\Upper_Arm.png",
+    "status": "COMPLETED render; every page visually reviewed via contact sheets; coupon reviewed at1400px"
+  }
+]

@@ -1,0 +1,427 @@
+{
+  "total_mass_kg": 1.1808946646744467,
+  "com_mm": [
+    126.18283226620419,
+    -5.818503715824641,
+    148.9068774743736
+  ],
+  "parts": [
+    {
+      "name": "Base_motor_holder_SO101",
+      "part": "Base_motor_holder_SO101",
+      "mass_kg": 0.03654839963863688,
+      "link": "base_link",
+      "link_com_m": [
+        0.0062645418621860025,
+        -0.0003445273935504701,
+        0.04913303386498599
+      ],
+      "inertia_trace_kg_m2": 7.588496703693803e-05
+    },
+    {
+      "name": "Base_SO101",
+      "part": "Base_SO101",
+      "mass_kg": 0.18909333107250678,
+      "link": "base_link",
+      "link_com_m": [
+        0.008656061824762893,
+        -8.829886455239984e-06,
+        0.01909878388579853
+      ],
+      "inertia_trace_kg_m2": 0.000606771806956288
+    },
+    {
+      "name": "WaveShare_Mounting_Plate_SO101",
+      "part": "WaveShare_Mounting_Plate_SO101",
+      "mass_kg": 0.014012784866127096,
+      "link": "base_link",
+      "link_com_m": [
+        -0.028539290292180396,
+        -0.000199432024854894,
+        0.047406818742921346
+      ],
+      "inertia_trace_kg_m2": 8.781672341396e-06
+    },
+    {
+      "name": "Motor_holder_SO101_Base",
+      "part": "Motor_holder_SO101_Base",
+      "mass_kg": 0.02051728497232239,
+      "link": "shoulder_link",
+      "link_com_m": [
+        -0.031562108683867725,
+        -0.0010589464930220167,
+        -0.023945983933358065
+      ],
+      "inertia_trace_kg_m2": 2.4504833041036767e-05
+    },
+    {
+      "name": "Rotation_Pitch_SO101",
+      "part": "Rotation_Pitch_SO101",
+      "mass_kg": 0.10604087170747735,
+      "link": "shoulder_link",
+      "link_com_m": [
+        -0.03110782465677378,
+        -0.00014145700727932693,
+        0.007472764353988683
+      ],
+      "inertia_trace_kg_m2": 0.0001744078539823229
+    },
+    {
+      "name": "Upper_arm_SO101",
+      "part": "Upper_arm_SO101",
+      "mass_kg": 0.18094010396645002,
+      "link": "upper_arm_link",
+      "link_com_m": [
+        -0.06055972491400521,
+        0.00040376750326192684,
+        0.018197600901578594
+      ],
+      "inertia_trace_kg_m2": 0.0005851155804479586
+    },
+    {
+      "name": "Under_arm_SO101",
+      "part": "Under_arm_SO101",
+      "mass_kg": 0.14325738842975486,
+      "link": "lower_arm_link",
+      "link_com_m": [
+        -0.05617969645394449,
+        -0.00032911845115465074,
+        0.017853548757885807
+      ],
+      "inertia_trace_kg_m2": 0.00037960904969064287
+    },
+    {
+      "name": "Motor_holder_SO101_Wrist",
+      "part": "Motor_holder_SO101_Wrist",
+      "mass_kg": 0.021389553814329946,
+      "link": "lower_arm_link",
+      "link_com_m": [
+        -0.10466034877514127,
+        0.00429713186483429,
+        0.018120724103928832
+      ],
+      "inertia_trace_kg_m2": 2.5921652081513553e-05
+    },
+    {
+      "name": "Wrist_Roll_Pitch_SO101",
+      "part": "Wrist_Roll_Pitch_SO101",
+      "mass_kg": 0.04979757471942102,
+      "link": "wrist_link",
+      "link_com_m": [
+        -0.0003890735359180355,
+        -0.02708083041003936,
+        0.019866959609663278
+      ],
+      "inertia_trace_kg_m2": 8.637767392245258e-05
+    },
+    {
+      "name": "Wrist_Roll_Follower_SO101",
+      "part": "Wrist_Roll_Follower_SO101",
+      "mass_kg": 0.08725736854251089,
+      "link": "gripper_link",
+      "link_com_m": [
+        -0.014156213520329195,
+        0.0002816275321490906,
+        -0.02875732549977464
+      ],
+      "inertia_trace_kg_m2": 0.00015239373459054875
+    },
+    {
+      "name": "Moving_Jaw_SO101",
+      "part": "Moving_Jaw_SO101",
+      "mass_kg": 0.0318873629449096,
+      "link": "moving_jaw_so101_v1_link",
+      "link_com_m": [
+        -0.0015748275373948647,
+        -0.030023395911995068,
+        0.01927566922500075
+      ],
+      "inertia_trace_kg_m2": 3.664771617672909e-05
+    },
+    {
+      "name": "shoulder_pan_Vstone_Envelope",
+      "part": "Vstone_Envelope",
+      "mass_kg": 0.042,
+      "link": "base_link",
+      "link_com_m": [
+        0.03883535041832226,
+        -0.019000052760667803,
+        0.07889994958173582
+      ],
+      "inertia_trace_kg_m2": 2.301075000000003e-05
+    },
+    {
+      "name": "shoulder_pan_Vstone_Cradle_HOLD",
+      "part": "Vstone_Cradle_HOLD",
+      "mass_kg": 0.017627439999999998,
+      "link": "base_link",
+      "link_com_m": [
+        0.03883535041836022,
+        -0.019000067064850305,
+        0.08429045211640143
+      ],
+      "inertia_trace_kg_m2": 2.031072998754467e-05
+    },
+    {
+      "name": "shoulder_lift_Vstone_Envelope",
+      "part": "Vstone_Envelope",
+      "mass_kg": 0.042,
+      "link": "shoulder_link",
+      "link_com_m": [
+        -0.04939926060762785,
+        -0.034777730208991726,
+        -0.05420006979111959
+      ],
+      "inertia_trace_kg_m2": 2.301075000000003e-05
+    },
+    {
+      "name": "shoulder_lift_Vstone_Cradle_HOLD",
+      "part": "Vstone_Cradle_HOLD",
+      "mass_kg": 0.017627439999999998,
+      "link": "shoulder_link",
+      "link_com_m": [
+        -0.04939928040804927,
+        -0.04016823274363992,
+        -0.05420006979119232
+      ],
+      "inertia_trace_kg_m2": 2.031072998754467e-05
+    },
+    {
+      "name": "elbow_flex_Vstone_Envelope",
+      "part": "Vstone_Envelope",
+      "mass_kg": 0.042,
+      "link": "upper_arm_link",
+      "link_com_m": [
+        -0.09357000000012819,
+        -0.027999930209103054,
+        -0.01649999999999982
+      ],
+      "inertia_trace_kg_m2": 2.301075000000003e-05
+    },
+    {
+      "name": "elbow_flex_Vstone_Cradle_HOLD",
+      "part": "Vstone_Cradle_HOLD",
+      "mass_kg": 0.017627439999999998,
+      "link": "upper_arm_link",
+      "link_com_m": [
+        -0.09357000000012818,
+        -0.027999930209103057,
+        -0.021890502534684383
+      ],
+      "inertia_trace_kg_m2": 2.031072998754467e-05
+    },
+    {
+      "name": "wrist_flex_Vstone_Envelope",
+      "part": "Vstone_Envelope",
+      "mass_kg": 0.042,
+      "link": "lower_arm_link",
+      "link_com_m": [
+        -0.15389999999987178,
+        0.005200069790896978,
+        -0.01650000000000004
+      ],
+      "inertia_trace_kg_m2": 2.301075000000003e-05
+    },
+    {
+      "name": "wrist_flex_Vstone_Cradle_HOLD",
+      "part": "Vstone_Cradle_HOLD",
+      "mass_kg": 0.017627439999999998,
+      "link": "lower_arm_link",
+      "link_com_m": [
+        -0.15389999999987175,
+        0.005200069790896982,
+        -0.021890502534684605
+      ],
+      "inertia_trace_kg_m2": 2.031072998754467e-05
+    },
+    {
+      "name": "wrist_roll_XL330_Envelope",
+      "part": "XL330_Envelope",
+      "mass_kg": 0.018,
+      "link": "wrist_link",
+      "link_com_m": [
+        0.0003649152523486539,
+        -0.07410002851733173,
+        0.010608932291911583
+      ],
+      "inertia_trace_kg_m2": 6.696000000000001e-06
+    },
+    {
+      "name": "wrist_roll_XL330_Cradle_HOLD",
+      "part": "XL330_Cradle_HOLD",
+      "mass_kg": 0.012821440000000002,
+      "link": "wrist_link",
+      "link_com_m": [
+        0.0003648942833626272,
+        -0.08150347150025566,
+        0.010608959454061337
+      ],
+      "inertia_trace_kg_m2": 8.884324217625922e-06
+    },
+    {
+      "name": "gripper_XL330_Envelope",
+      "part": "XL330_Envelope",
+      "mass_kg": 0.018,
+      "link": "gripper_link",
+      "link_com_m": [
+        0.020200000393210512,
+        0.031800027548950574,
+        -0.030899952248283048
+      ],
+      "inertia_trace_kg_m2": 6.696000000000001e-06
+    },
+    {
+      "name": "gripper_XL330_Cradle_HOLD",
+      "part": "XL330_Cradle_HOLD",
+      "mass_kg": 0.012821440000000002,
+      "link": "gripper_link",
+      "link_com_m": [
+        0.020200000393209096,
+        0.039203470531904094,
+        -0.030899925053918503
+      ],
+      "inertia_trace_kg_m2": 8.884324217625922e-06
+    }
+  ],
+  "scope": "Inventor native model, not actual printed mass. Reference datum carriers excluded.",
+  "all_body_records": [
+    {
+      "name": "Base_motor_holder_SO101",
+      "link": "base_link",
+      "source_part": "Base_motor_holder_SO101",
+      "mass_kg": 0.03654839963863688
+    },
+    {
+      "name": "Base_SO101",
+      "link": "base_link",
+      "source_part": "Base_SO101",
+      "mass_kg": 0.18909333107250678
+    },
+    {
+      "name": "WaveShare_Mounting_Plate_SO101",
+      "link": "base_link",
+      "source_part": "WaveShare_Mounting_Plate_SO101",
+      "mass_kg": 0.014012784866127096
+    },
+    {
+      "name": "Motor_holder_SO101_Base",
+      "link": "shoulder_link",
+      "source_part": "Motor_holder_SO101_Base",
+      "mass_kg": 0.02051728497232239
+    },
+    {
+      "name": "Rotation_Pitch_SO101",
+      "link": "shoulder_link",
+      "source_part": "Rotation_Pitch_SO101",
+      "mass_kg": 0.10604087170747735
+    },
+    {
+      "name": "Upper_arm_SO101",
+      "link": "upper_arm_link",
+      "source_part": "Upper_arm_SO101",
+      "mass_kg": 0.18094010396645002
+    },
+    {
+      "name": "Under_arm_SO101",
+      "link": "lower_arm_link",
+      "source_part": "Under_arm_SO101",
+      "mass_kg": 0.14325738842975486
+    },
+    {
+      "name": "Motor_holder_SO101_Wrist",
+      "link": "lower_arm_link",
+      "source_part": "Motor_holder_SO101_Wrist",
+      "mass_kg": 0.021389553814329946
+    },
+    {
+      "name": "Wrist_Roll_Pitch_SO101",
+      "link": "wrist_link",
+      "source_part": "Wrist_Roll_Pitch_SO101",
+      "mass_kg": 0.04979757471942102
+    },
+    {
+      "name": "Wrist_Roll_Follower_SO101",
+      "link": "gripper_link",
+      "source_part": "Wrist_Roll_Follower_SO101",
+      "mass_kg": 0.08725736854251089
+    },
+    {
+      "name": "Moving_Jaw_SO101",
+      "link": "moving_jaw_so101_v1_link",
+      "source_part": "Moving_Jaw_SO101",
+      "mass_kg": 0.0318873629449096
+    },
+    {
+      "name": "shoulder_pan_Vstone_Envelope",
+      "link": "base_link",
+      "source_part": "Vstone_Envelope",
+      "mass_kg": 0.042
+    },
+    {
+      "name": "shoulder_pan_Vstone_Cradle_HOLD",
+      "link": "base_link",
+      "source_part": "Vstone_Cradle_HOLD",
+      "mass_kg": 0.017627439999999998
+    },
+    {
+      "name": "shoulder_lift_Vstone_Envelope",
+      "link": "shoulder_link",
+      "source_part": "Vstone_Envelope",
+      "mass_kg": 0.042
+    },
+    {
+      "name": "shoulder_lift_Vstone_Cradle_HOLD",
+      "link": "shoulder_link",
+      "source_part": "Vstone_Cradle_HOLD",
+      "mass_kg": 0.017627439999999998
+    },
+    {
+      "name": "elbow_flex_Vstone_Envelope",
+      "link": "upper_arm_link",
+      "source_part": "Vstone_Envelope",
+      "mass_kg": 0.042
+    },
+    {
+      "name": "elbow_flex_Vstone_Cradle_HOLD",
+      "link": "upper_arm_link",
+      "source_part": "Vstone_Cradle_HOLD",
+      "mass_kg": 0.017627439999999998
+    },
+    {
+      "name": "wrist_flex_Vstone_Envelope",
+      "link": "lower_arm_link",
+      "source_part": "Vstone_Envelope",
+      "mass_kg": 0.042
+    },
+    {
+      "name": "wrist_flex_Vstone_Cradle_HOLD",
+      "link": "lower_arm_link",
+      "source_part": "Vstone_Cradle_HOLD",
+      "mass_kg": 0.017627439999999998
+    },
+    {
+      "name": "wrist_roll_XL330_Envelope",
+      "link": "wrist_link",
+      "source_part": "XL330_Envelope",
+      "mass_kg": 0.018
+    },
+    {
+      "name": "wrist_roll_XL330_Cradle_HOLD",
+      "link": "wrist_link",
+      "source_part": "XL330_Cradle_HOLD",
+      "mass_kg": 0.012821440000000002
+    },
+    {
+      "name": "gripper_XL330_Envelope",
+      "link": "gripper_link",
+      "source_part": "XL330_Envelope",
+      "mass_kg": 0.018
+    },
+    {
+      "name": "gripper_XL330_Cradle_HOLD",
+      "link": "gripper_link",
+      "source_part": "XL330_Cradle_HOLD",
+      "mass_kg": 0.012821440000000002
+    }
+  ]
+}

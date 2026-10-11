@@ -1,0 +1,68 @@
+[
+  {
+    "translation": 0,
+    "occurrence": "REF_shoulder_link",
+    "rotation": 0,
+    "assembly": "two_joint_revb"
+  },
+  {
+    "translation": 0,
+    "occurrence": "REF_upper_arm_link",
+    "rotation": 1,
+    "assembly": "two_joint_revb"
+  },
+  {
+    "translation": 0,
+    "occurrence": "REF_lower_arm_link",
+    "rotation": 1,
+    "assembly": "two_joint_revb"
+  },
+  {
+    "translation": 0,
+    "occurrence": "REF_base_link",
+    "rotation": 0,
+    "assembly": "two_joint_revb"
+  },
+  {
+    "translation": 0,
+    "occurrence": "REF_base_link",
+    "rotation": 0,
+    "assembly": "follower_six_axis"
+  },
+  {
+    "translation": 0,
+    "occurrence": "REF_shoulder_link",
+    "rotation": 1,
+    "assembly": "follower_six_axis"
+  },
+  {
+    "translation": 0,
+    "occurrence": "REF_upper_arm_link",
+    "rotation": 1,
+    "assembly": "follower_six_axis"
+  },
+  {
+    "translation": 0,
+    "occurrence": "REF_lower_arm_link",
+    "rotation": 1,
+    "assembly": "follower_six_axis"
+  },
+  {
+    "translation": 0,
+    "occurrence": "REF_wrist_link",
+    "rotation": 1,
+    "assembly": "follower_six_axis"
+  },
+  {
+    "translation": 0,
+    "occurrence": "REF_gripper_link",
+    "rotation": 1,
+    "assembly": "follower_six_axis"
+  },
+  {
+    "translation": 0,
+    "occurrence": "REF_moving_jaw_so101_v1_link",
+    "rotation": 1,
+    "assembly": "follower_six_axis"
+  }
+]

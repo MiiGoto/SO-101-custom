@@ -1,0 +1,16 @@
+item,prototype_qty,follower_qty,owned,status,reason
+Vstone VS-S092J,2,4,10,OWNED_CONDITION_TBD,Existing units; no motor purchase
+XL330-M288-T,0,2,2,OWNED_CONDITION_TBD,Wrist roll and gripper candidate
+Output absolute encoder,2,4,UNKNOWN,TBD,AS5600 with separate bus or mux; AS5048A SPI CS alternative
+Diametric magnet,2,4,UNKNOWN,TBD,Sensor-specific magnet and gap; dimensions unselected
+Bearing and auxiliary shaft support,2 sets,4 sets,0 bearings,HOLD,Opposing output support and bearing load/retention unqualified
+STM32 USB evaluation board,1,1,0,TBD,NUCLEO-G474RE candidate; shared MCU family considered; no existing PCB reuse
+Half-duplex TTL interface,0,1,UNKNOWN,TBD,3.3V logic protocol2 for XL330; separate USB or raw bridge
+AS5600 I2C mux,0-1,0-1,UNKNOWN,TBD,Needed if same address sensors share a physical I2C bus
+Vstone protected external supply,1,1,UNKNOWN,HOLD,7.4V candidate; peak and continuous current unknown
+XL330 protected 5V supply,0,1,UNKNOWN,HOLD,Two stall currents total2.94A is a transient sizing reference
+Emergency stop and two-rail disconnect,1 set,1 set,UNKNOWN,HOLD,Hardware power disconnect plus drop support
+Fuses distribution connectors wiring,1 set,1 set,UNKNOWN,HOLD,Ratings depend on measured currents and cable routing
+OEM horns and correct screws,2 sets,6 sets,UNKNOWN,HOLD,Vstone hole pattern unknown; XL330 M2 tapping depth max3mm
+Fasteners inserts table clamp,1 set,1 set,UNKNOWN,HOLD,Grip access and structural fastening unqualified
+Filament,as sliced,as sliced,UNKNOWN,TBD,Adventurer5MPro material and installed nozzle unconfirmed

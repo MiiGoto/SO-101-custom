@@ -1,0 +1,463 @@
+{
+  "inventor_version": "2026.2",
+  "status": "CAD core assembly; hardware interfaces require physical measurement",
+  "constraints_state": [
+    {
+      "name": "フラッシュ:1",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:2",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:3",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:4",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:5",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:6",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "メイト:1",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:7",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:8",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:9",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:10",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:11",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:12",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:13",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:14",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:15",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:16",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "メイト:2",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:17",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:18",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:19",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:20",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:21",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:22",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:23",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:24",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:25",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:26",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:27",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:28",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:29",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:30",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:31",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:32",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:33",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:34",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:35",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:36",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:37",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:38",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:39",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:40",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:41",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:42",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:43",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:44",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:45",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:46",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:47",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:48",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:49",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:50",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:51",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:52",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:53",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:54",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:55",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:56",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:57",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:58",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:59",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:60",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:61",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:62",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:63",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:64",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:65",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:66",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:67",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:68",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:69",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:70",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:71",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:72",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:73",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:74",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:75",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:76",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:77",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:78",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:79",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:80",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:81",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:82",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:83",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:84",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:85",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:86",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:87",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:88",
+      "health": "11778",
+      "suppressed": false
+    },
+    {
+      "name": "フラッシュ:89",
+      "health": "11778",
+      "suppressed": false
+    }
+  ],
+  "occurrences": 32,
+  "constraints": 91
+}
